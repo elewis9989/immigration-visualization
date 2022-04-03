@@ -1,0 +1,5883 @@
+{
+    "1990": {
+        "Immigration": {
+            "Total": "23251026",
+            "Other North": "195590",
+            "Other South": "2920646",
+            "Afghanistan": "28444",
+            "Albania": "5627",
+            "Algeria": "4629",
+            "Angola": "2252",
+            "Antigua and Barbuda": "12022",
+            "Argentina": "92563",
+            "Armenia": "41481",
+            "Aruba": "3363",
+            "Australia": "42267",
+            "Austria": "87673",
+            "Azerbaijan": "9026",
+            "Bahamas": "21633",
+            "Bangladesh": "21414",
+            "Barbados": "43015",
+            "Belarus": "21579",
+            "Belgium": "34366",
+            "Belize": "29957",
+            "Bermuda": "7972",
+            "Bolivia (Plurinational State of)": "31303",
+            "Bosnia and Herzegovina": "55354",
+            "Brazil": "82489",
+            "Bulgaria": "8579",
+            "Cabo Verde": "14368",
+            "Cambodia": "118833",
+            "Cameroon": "3161",
+            "Canada": "744830",
+            "Chile": "55681",
+            "China": "773939",
+            "Hong Kong": "147131",
+            "Macao": "5107",
+            "Colombia": "286124",
+            "Costa Rica": "43530",
+            "Cote d'Ivoire": "1388",
+            "Croatia": "22927",
+            "Cuba": "736971",
+            "Cyprus": "10060",
+            "Czechia": "87020",
+            "Democratic Republic of the Congo": "3387",
+            "Denmark": "34999",
+            "Dominica": "19529",
+            "Dominican Republic": "347858",
+            "Ecuador": "143314",
+            "Egypt": "66313",
+            "El Salvador": "465433",
+            "Eritrea": "11131",
+            "Estonia": "9210",
+            "Ethiopia": "34805",
+            "Fiji": "15935",
+            "Finland": "22313",
+            "France": "119233",
+            "Gambia": "1485",
+            "Georgia": "6689",
+            "Germany": "711929",
+            "Ghana": "20889",
+            "Greece": "177398",
+            "Grenada": "17730",
+            "Guatemala": "225739",
+            "Guinea": "1032",
+            "Guyana": "120698",
+            "Haiti": "225393",
+            "Honduras": "108923",
+            "Hungary": "110337",
+            "Iceland": "5071",
+            "India": "450406",
+            "Indonesia": "48387",
+            "Iran (Islamic Republic of)": "210941",
+            "Iraq": "44916",
+            "Ireland": "169827",
+            "Israel": "86048",
+            "Italy": "580592",
+            "Jamaica": "334140",
+            "Japan": "290128",
+            "Jordan": "31871",
+            "Kazakhstan": "5816",
+            "Kenya": "14371",
+            "Kuwait": "8889",
+            "Kyrgyzstan": "1509",
+            "Lao People's Democratic Republic": "171577",
+            "Latvia": "26179",
+            "Lebanon": "86369",
+            "Liberia": "11455",
+            "Libya": "4037",
+            "Lithuania": "29745",
+            "Luxembourg": "2053",
+            "Malaysia": "33834",
+            "Malta": "9614",
+            "Marshall Islands": "1086",
+            "Mexico": "4298014",
+            "Micronesia (Fed. States of)": "2741",
+            "Montserrat": "3493",
+            "Morocco": "15541",
+            "Myanmar": "19835",
+            "Nepal": "2262",
+            "Netherlands": "96198",
+            "New Zealand": "15415",
+            "Nicaragua": "168659",
+            "Nigeria": "55350",
+            "Norway": "42240",
+            "Pakistan": "91889",
+            "Panama": "85737",
+            "Paraguay": "6057",
+            "Peru": "144199",
+            "Philippines": "912674",
+            "Poland": "388328",
+            "Portugal": "210122",
+            "Puerto Rico": "1180383",
+            "Republic of Korea": "568397",
+            "Republic of Moldova": "10932",
+            "Romania": "91106",
+            "Russian Federation": "190654",
+            "Saint Kitts and Nevis": "7447",
+            "Saint Lucia": "6959",
+            "Saint Vincent and the Grenadines": "12824",
+            "Samoa": "11408",
+            "Saudi Arabia": "12632",
+            "Senegal": "2287",
+            "Serbia": "5763",
+            "Sierra Leone": "7217",
+            "Singapore": "12889",
+            "Slovenia": "3347",
+            "Somalia": "2437",
+            "South Africa": "34707",
+            "Spain": "76415",
+            "Sri Lanka": "14022",
+            "State of Palestine": "21070",
+            "Sudan": "4423",
+            "Suriname": "2860",
+            "Sweden": "53676",
+            "Switzerland": "39130",
+            "Syrian Arab Republic": "36782",
+            "Tajikistan": "1693",
+            "Macedonia": "10469",
+            "Thailand": "106919",
+            "Tonga": "10668",
+            "Trinidad and Tobago": "115710",
+            "Tunisia": "4101",
+            "Turkey": "55087",
+            "Turkmenistan": "569",
+            "Uganda": "6684",
+            "Ukraine": "154211",
+            "United Arab Emirates": "1656",
+            "United Kingdom": "640145",
+            "United Republic of Tanzania": "6282",
+            "Uruguay": "20766",
+            "Uzbekistan": "14633",
+            "Venezuela (Bolivarian Republic of)": "42119",
+            "Viet Nam": "543262",
+            "Yemen": "4933",
+            "Zambia": "2954",
+            "Zimbabwe": "4767"
+        },
+        "Emigration": {
+            "Mauritius": {
+                "Total": "3,613",
+                "US": "37"
+            },
+            "Uganda": {
+                "Total": "558,307",
+                "US": "503"
+            },
+            "United Republic of Tanzania": {
+                "Total": "574,025",
+                "US": "808"
+            },
+            "Zambia": {
+                "Total": "279,029",
+                "US": "459"
+            },
+            "Central African Republic": {
+                "Total": "67,234",
+                "US": "476"
+            },
+            "Congo": {
+                "Total": "129,597",
+                "US": "51"
+            },
+            "Gabon": {
+                "Total": "127,980",
+                "US": "169"
+            },
+            "Algeria": {
+                "Total": "273,954",
+                "US": "4509"
+            },
+            "Egypt": {
+                "Total": "173,708",
+                "US": "6679"
+            },
+            "Libya": {
+                "Total": "457,075",
+                "US": "19067"
+            },
+            "Morocco": {
+                "Total": "54,895",
+                "US": "1250"
+            },
+            "Tunisia": {
+                "Total": "37,984",
+                "US": "236"
+            },
+            "Botswana": {
+                "Total": "27,510",
+                "US": "603"
+            },
+            "Lesotho": {
+                "Total": "8,240",
+                "US": "95"
+            },
+            "Namibia": {
+                "Total": "120,641",
+                "US": "1553"
+            },
+            "South Africa": {
+                "Total": "1,163,883",
+                "US": "9267"
+            },
+            "Swaziland": {
+                "Total": "72,085",
+                "US": "281"
+            },
+            "Cabo Verde": {
+                "Total": "8,931",
+                "US": "208"
+            },
+            "Ghana": {
+                "Total": "164,851",
+                "US": "437"
+            },
+            "Guinea": {
+                "Total": "403,621",
+                "US": "552"
+            },
+            "Guinea-Bissau": {
+                "Total": "15,368",
+                "US": "200"
+            },
+            "Liberia": {
+                "Total": "94,964",
+                "US": "2959"
+            },
+            "Mali": {
+                "Total": "160,736",
+                "US": "233"
+            },
+            "Mauritania": {
+                "Total": "111,650",
+                "US": "99"
+            },
+            "Senegal": {
+                "Total": "270,410",
+                "US": "662"
+            },
+            "Sierra Leone": {
+                "Total": "222,242",
+                "US": "506"
+            },
+            "Togo": {
+                "Total": "84,844",
+                "US": "179"
+            },
+            "Tajikistan": {
+                "Total": "428,900",
+                "US": "454"
+            },
+            "China": {
+                "Total": "376,361",
+                "US": "16962"
+            },
+            "Hong Kong": {
+                "Total": "2,218,473",
+                "US": "7599"
+            },
+            "Dem. People's Republic of Korea": {
+                "Total": "34,103",
+                "US": "672"
+            },
+            "Japan": {
+                "Total": "1,075,626",
+                "US": "38375"
+            },
+            "Mongolia": {
+                "Total": "6,718",
+                "US": "247"
+            },
+            "Republic of Korea": {
+                "Total": "43,017",
+                "US": "11713"
+            },
+            "Bangladesh": {
+                "Total": "881,617",
+                "US": "28559"
+            },
+            "Bhutan": {
+                "Total": "23,807",
+                "US": "63"
+            },
+            "India": {
+                "Total": "7,493,204",
+                "US": "5649"
+            },
+            "Maldives": {
+                "Total": "8,689",
+                "US": "24"
+            },
+            "Sri Lanka": {
+                "Total": "41,561",
+                "US": "18"
+            },
+            "Brunei Darussalam": {
+                "Total": "73,200",
+                "US": "113"
+            },
+            "Cambodia": {
+                "Total": "38,375",
+                "US": "91"
+            },
+            "Indonesia": {
+                "Total": "465,612",
+                "US": "8745"
+            },
+            "Philippines": {
+                "Total": "154,071",
+                "US": "17746"
+            },
+            "Singapore": {
+                "Total": "727,262",
+                "US": "3423"
+            },
+            "Thailand": {
+                "Total": "528,693",
+                "US": "1640"
+            },
+            "Timor-Leste": {
+                "Total": "8,954",
+                "US": "64"
+            },
+            "Viet Nam": {
+                "Total": "28,118",
+                "US": "263"
+            },
+            "Bahrain": {
+                "Total": "173,212",
+                "US": "453"
+            },
+            "Cyprus": {
+                "Total": "43,805",
+                "US": "791"
+            },
+            "Israel": {
+                "Total": "1,632,704",
+                "US": "47532"
+            },
+            "Jordan": {
+                "Total": "1,146,349",
+                "US": "1691"
+            },
+            "Kuwait": {
+                "Total": "1,074,391",
+                "US": "2808"
+            },
+            "Lebanon": {
+                "Total": "523,693",
+                "US": "773"
+            },
+            "Qatar": {
+                "Total": "309,753",
+                "US": "809"
+            },
+            "State of Palestine": {
+                "Total": "288,332",
+                "US": "8436"
+            },
+            "Turkey": {
+                "Total": "1,163,686",
+                "US": "12868"
+            },
+            "United Arab Emirates": {
+                "Total": "1,306,574",
+                "US": "3431"
+            },
+            "Belarus": {
+                "Total": "1,248,977",
+                "US": "42"
+            },
+            "Bulgaria": {
+                "Total": "21,510",
+                "US": "139"
+            },
+            "Czechia": {
+                "Total": "110,394",
+                "US": "517"
+            },
+            "Hungary": {
+                "Total": "347,510",
+                "US": "2956"
+            },
+            "Poland": {
+                "Total": "1,127,771",
+                "US": "12778"
+            },
+            "Romania": {
+                "Total": "135,825",
+                "US": "705"
+            },
+            "Russian Federation": {
+                "Total": "11,524,948",
+                "US": "3077"
+            },
+            "Slovakia": {
+                "Total": "41,295",
+                "US": "290"
+            },
+            "Ukraine": {
+                "Total": "6,892,920",
+                "US": "3308"
+            },
+            "Denmark": {
+                "Total": "235,189",
+                "US": "6411"
+            },
+            "Estonia": {
+                "Total": "381,997",
+                "US": "91"
+            },
+            "Faeroe Islands": {
+                "Total": "4,285",
+                "US": "21"
+            },
+            "Finland": {
+                "Total": "63,255",
+                "US": "2545"
+            },
+            "Iceland": {
+                "Total": "9,584",
+                "US": "1077"
+            },
+            "Ireland": {
+                "Total": "227,961",
+                "US": "15922"
+            },
+            "Isle of Man": {
+                "Total": "34,769",
+                "US": "242"
+            },
+            "Latvia": {
+                "Total": "646,007",
+                "US": "167"
+            },
+            "Lithuania": {
+                "Total": "349,258",
+                "US": "1170"
+            },
+            "Norway": {
+                "Total": "192,587",
+                "US": "15827"
+            },
+            "Sweden": {
+                "Total": "788,767",
+                "US": "11325"
+            },
+            "United Kingdom": {
+                "Total": "3,650,286",
+                "US": "141839"
+            },
+            "Albania": {
+                "Total": "66,013",
+                "US": "3011"
+            },
+            "Andorra": {
+                "Total": "38,904",
+                "US": "100"
+            },
+            "Croatia": {
+                "Total": "475,438",
+                "US": "1187"
+            },
+            "Greece": {
+                "Total": "618,139",
+                "US": "43350"
+            },
+            "Italy": {
+                "Total": "1,428,221",
+                "US": "63755"
+            },
+            "Malta": {
+                "Total": "15,077",
+                "US": "832"
+            },
+            "Portugal": {
+                "Total": "435,782",
+                "US": "5467"
+            },
+            "Serbia": {
+                "Total": "99,269",
+                "US": "157"
+            },
+            "Slovenia": {
+                "Total": "178,077",
+                "US": "734"
+            },
+            "Spain": {
+                "Total": "821,605",
+                "US": "12187"
+            },
+            "Austria": {
+                "Total": "793,239",
+                "US": "6088"
+            },
+            "Belgium": {
+                "Total": "904,528",
+                "US": "11241"
+            },
+            "France": {
+                "Total": "5,897,267",
+                "US": "40261"
+            },
+            "Germany": {
+                "Total": "5,936,181",
+                "US": "99835"
+            },
+            "Liechtenstein": {
+                "Total": "10,906",
+                "US": "20"
+            },
+            "Luxembourg": {
+                "Total": "113,795",
+                "US": "1098"
+            },
+            "Netherlands": {
+                "Total": "1,182,263",
+                "US": "13659"
+            },
+            "Switzerland": {
+                "Total": "1,392,282",
+                "US": "19316"
+            },
+            "Anguilla": {
+                "Total": "2,570",
+                "US": "407"
+            },
+            "Antigua and Barbuda": {
+                "Total": "12,029",
+                "US": "1603"
+            },
+            "Aruba": {
+                "Total": "14,444",
+                "US": "425"
+            },
+            "Bahamas": {
+                "Total": "26,855",
+                "US": "4247"
+            },
+            "Barbados": {
+                "Total": "24,024",
+                "US": "1112"
+            },
+            "British Virgin Islands": {
+                "Total": "8,035",
+                "US": "674"
+            },
+            "Caribbean Netherlands": {
+                "Total": "38,410",
+                "US": "398"
+            },
+            "Cayman Islands": {
+                "Total": "9,387",
+                "US": "1632"
+            },
+            "Cuba": {
+                "Total": "34,555",
+                "US": "1186"
+            },
+            "Dominica": {
+                "Total": "2,519",
+                "US": "226"
+            },
+            "Dominican Republic": {
+                "Total": "291,151",
+                "US": "9587"
+            },
+            "Grenada": {
+                "Total": "4,263",
+                "US": "7"
+            },
+            "Guadeloupe": {
+                "Total": "65,944",
+                "US": "197"
+            },
+            "Haiti": {
+                "Total": "19,084",
+                "US": "1607"
+            },
+            "Jamaica": {
+                "Total": "20,475",
+                "US": "4575"
+            },
+            "Montserrat": {
+                "Total": "2,013",
+                "US": "173"
+            },
+            "Puerto Rico": {
+                "Total": "321,909",
+                "US": "228419"
+            },
+            "Saint Kitts and Nevis": {
+                "Total": "3,210",
+                "US": "265"
+            },
+            "Saint Lucia": {
+                "Total": "5,305",
+                "US": "285"
+            },
+            "Saint Vincent and the Grenadines": {
+                "Total": "3,970",
+                "US": "291"
+            },
+            "Trinidad and Tobago": {
+                "Total": "50,666",
+                "US": "2430"
+            },
+            "Turks and Caicos Islands": {
+                "Total": "5,062",
+                "US": "454"
+            },
+            "United States Virgin Islands": {
+                "Total": "51,970",
+                "US": "14246"
+            },
+            "Belize": {
+                "Total": "30,404",
+                "US": "1901"
+            },
+            "Costa Rica": {
+                "Total": "417,628",
+                "US": "8592"
+            },
+            "El Salvador": {
+                "Total": "47,360",
+                "US": "8033"
+            },
+            "Guatemala": {
+                "Total": "264,257",
+                "US": "5822"
+            },
+            "Honduras": {
+                "Total": "270,423",
+                "US": "2692"
+            },
+            "Mexico": {
+                "Total": "695,674",
+                "US": "198230"
+            },
+            "Nicaragua": {
+                "Total": "41,421",
+                "US": "3721"
+            },
+            "Panama": {
+                "Total": "62,744",
+                "US": "3318"
+            },
+            "Argentina": {
+                "Total": "1,649,919",
+                "US": "9992"
+            },
+            "Bolivia (Plurinational State of)": {
+                "Total": "73,758",
+                "US": "3078"
+            },
+            "Brazil": {
+                "Total": "798,517",
+                "US": "11806"
+            },
+            "Chile": {
+                "Total": "107,501",
+                "US": "5651"
+            },
+            "Colombia": {
+                "Total": "104,277",
+                "US": "13478"
+            },
+            "Ecuador": {
+                "Total": "78,663",
+                "US": "8595"
+            },
+            "Falkland Islands (Malvinas)": {
+                "Total": "855",
+                "US": "15"
+            },
+            "Guyana": {
+                "Total": "4,095",
+                "US": "285"
+            },
+            "Paraguay": {
+                "Total": "195,884",
+                "US": "1582"
+            },
+            "Peru": {
+                "Total": "65,025",
+                "US": "7050"
+            },
+            "Uruguay": {
+                "Total": "98,116",
+                "US": "1525"
+            },
+            "Venezuela (Bolivarian Republic of)": {
+                "Total": "1,025,009",
+                "US": "11639"
+            },
+            "Bermuda": {
+                "Total": "15,683",
+                "US": "3468"
+            },
+            "Canada": {
+                "Total": "4,333,318",
+                "US": "239032"
+            },
+            "Greenland": {
+                "Total": "9,416",
+                "US": "30"
+            },
+            "Saint Pierre and Miquelon": {
+                "Total": "1,099",
+                "US": "72"
+            },
+            "Australia": {
+                "Total": "3,955,213",
+                "US": "53575"
+            },
+            "New Zealand": {
+                "Total": "518,047",
+                "US": "8305"
+            },
+            "Papua New Guinea": {
+                "Total": "32,720",
+                "US": "1110"
+            },
+            "Solomon Islands": {
+                "Total": "4,226",
+                "US": "135"
+            },
+            "Guam": {
+                "Total": "69,755",
+                "US": "27990"
+            },
+            "Kiribati": {
+                "Total": "2,162",
+                "US": "43"
+            },
+            "Marshall Islands": {
+                "Total": "1,158",
+                "US": "633"
+            },
+            "Micronesia (Fed. States of)": {
+                "Total": "3,685",
+                "US": "234"
+            },
+            "Northern Mariana Islands": {
+                "Total": "26,593",
+                "US": "1203"
+            },
+            "Palau": {
+                "Total": "2,801",
+                "US": "315"
+            },
+            "American Samoa": {
+                "Total": "21,283",
+                "US": "3510"
+            },
+            "Cook Islands": {
+                "Total": "2,587",
+                "US": "17"
+            },
+            "French Polynesia": {
+                "Total": "25,830",
+                "US": "372"
+            },
+            "Niue": {
+                "Total": "461",
+                "US": "11"
+            },
+            "Samoa": {
+                "Total": "3,357",
+                "US": "266"
+            },
+            "Tuvalu": {
+                "Total": "318",
+                "US": "41"
+            }
+        }
+    },
+    "1995": {
+        "Immigration": {
+            "Total": "28451053",
+            "Other North": "14422",
+            "Other South": "1842706",
+            "Afghanistan": "37312",
+            "Albania": "22440",
+            "Algeria": "7859",
+            "Angola": "3352",
+            "Antigua and Barbuda": "15376",
+            "Argentina": "110347",
+            "Armenia": "54094",
+            "Aruba": "3635",
+            "Australia": "52306",
+            "Austria": "76673",
+            "Azerbaijan": "11770",
+            "Bahamas": "25186",
+            "Bangladesh": "59134",
+            "Barbados": "48230",
+            "Belarus": "30442",
+            "Belgium": "34586",
+            "Belize": "35522",
+            "Bermuda": "8284",
+            "Bolivia (Plurinational State of)": "42856",
+            "Bosnia and Herzegovina": "78090",
+            "Brazil": "149432",
+            "Bulgaria": "22126",
+            "Cabo Verde": "20760",
+            "Cambodia": "129616",
+            "Cameroon": "7562",
+            "Canada": "793278",
+            "Chile": "69155",
+            "China": "1058487",
+            "Hong Kong": "177702",
+            "Macao": "5991",
+            "Colombia": "403325",
+            "Costa Rica": "58472",
+            "Cote d'Ivoire": "4337",
+            "Croatia": "32344",
+            "Cuba": "815617",
+            "Cyprus": "10714",
+            "Czechia": "86188",
+            "Democratic Republic of the Congo": "4243",
+            "Denmark": "33654",
+            "Dominica": "17818",
+            "Dominican Republic": "524698",
+            "Ecuador": "223927",
+            "Egypt": "91056",
+            "El Salvador": "649970",
+            "Eritrea": "14515",
+            "Estonia": "9624",
+            "Ethiopia": "52866",
+            "Fiji": "23725",
+            "Finland": "22152",
+            "France": "137002",
+            "Gambia": "3673",
+            "Georgia": "8723",
+            "Germany": "718811",
+            "Ghana": "43808",
+            "Greece": "173870",
+            "Grenada": "23815",
+            "Guatemala": "357929",
+            "Guinea": "3086",
+            "Guyana": "168164",
+            "Haiti": "326669",
+            "Honduras": "198509",
+            "Hungary": "102530",
+            "Iceland": "5382",
+            "India": "746337",
+            "Indonesia": "61278",
+            "Iran (Islamic Republic of)": "250390",
+            "Iraq": "68305",
+            "Ireland": "165333",
+            "Israel": "99193",
+            "Italy": "534018",
+            "Jamaica": "449926",
+            "Japan": "323100",
+            "Jordan": "39858",
+            "Kazakhstan": "7585",
+            "Kenya": "27894",
+            "Kuwait": "14823",
+            "Kyrgyzstan": "1967",
+            "Lao People's Democratic Republic": "190445",
+            "Latvia": "27062",
+            "Lebanon": "97425",
+            "Liberia": "25579",
+            "Libya": "4763",
+            "Lithuania": "29506",
+            "Luxembourg": "2129",
+            "Malaysia": "42203",
+            "Malta": "9207",
+            "Marshall Islands": "3750",
+            "Mexico": "6827945",
+            "Micronesia (Fed. States of)": "4980",
+            "Montserrat": "3747",
+            "Morocco": "25447",
+            "Myanmar": "26561",
+            "Nepal": "7081",
+            "Netherlands": "96660",
+            "New Zealand": "19399",
+            "Nicaragua": "197100",
+            "Nigeria": "96418",
+            "Norway": "37720",
+            "Pakistan": "159793",
+            "Panama": "96734",
+            "Paraguay": "9138",
+            "Peru": "214019",
+            "Philippines": "1156143",
+            "Poland": "433257",
+            "Portugal": "209386",
+            "Puerto Rico": "1384103",
+            "Republic of Korea": "725849",
+            "Republic of Moldova": "15422",
+            "Romania": "115055",
+            "Russian Federation": "268967",
+            "Saint Kitts and Nevis": "9374",
+            "Saint Lucia": "10378",
+            "Saint Vincent and the Grenadines": "16623",
+            "Samoa": "14109",
+            "Saudi Arabia": "17082",
+            "Senegal": "6496",
+            "Serbia": "8130",
+            "Sierra Leone": "14211",
+            "Singapore": "17050",
+            "Slovenia": "4721",
+            "Somalia": "19353",
+            "South Africa": "49789",
+            "Spain": "80702",
+            "Sri Lanka": "19905",
+            "State of Palestine": "23377",
+            "Sudan": "12268",
+            "Suriname": "4274",
+            "Sweden": "52391",
+            "Switzerland": "41667",
+            "Syrian Arab Republic": "46282",
+            "Tajikistan": "2207",
+            "Macedonia": "14768",
+            "Thailand": "140211",
+            "Tonga": "14154",
+            "Trinidad and Tobago": "158649",
+            "Tunisia": "5285",
+            "Turkey": "67624",
+            "Turkmenistan": "741",
+            "Uganda": "9334",
+            "Ukraine": "217555",
+            "United Arab Emirates": "4255",
+            "United Kingdom": "667769",
+            "United Republic of Tanzania": "8953",
+            "Uruguay": "23208",
+            "Uzbekistan": "19082",
+            "Venezuela (Bolivarian Republic of)": "75572",
+            "Viet Nam": "775967",
+            "Yemen": "12232",
+            "Zambia": "4529",
+            "Zimbabwe": "7829"
+        },
+        "Emigration": {
+            "More developed regions": {
+                "Total": "92,331,345",
+                "US": "894317"
+            },
+            "Less developed regions": {
+                "Total": "68,368,683",
+                "US": "945169"
+            },
+            "Least developed countries": {
+                "Total": "11,708,074",
+                "US": "40811"
+            },
+            "Less developed regions, excluding least developed countries": {
+                "Total": "56,660,609",
+                "US": "904358"
+            },
+            "High-income countries": {
+                "Total": "86,645,274",
+                "US": "1271261"
+            },
+            "Middle-income countries": {
+                "Total": "64,413,423",
+                "US": "556185"
+            },
+            "Upper-middle-income countries": {
+                "Total": "33,181,319",
+                "US": "444453"
+            },
+            "Lower-middle-income countries": {
+                "Total": "31,232,104",
+                "US": "111732"
+            },
+            "Low-income countries": {
+                "Total": "9,287,911",
+                "US": "10146"
+            },
+            "Sub-Saharan Africa": {
+                "Total": "15,324,570",
+                "US": "18263"
+            },
+            "Mauritius": {
+                "Total": "7,493",
+                "US": "30"
+            },
+            "Uganda": {
+                "Total": "634,620",
+                "US": "494"
+            },
+            "United Republic of Tanzania": {
+                "Total": "1,106,043",
+                "US": "1027"
+            },
+            "Zambia": {
+                "Total": "244,338",
+                "US": "460"
+            },
+            "Central African Republic": {
+                "Total": "99,712",
+                "US": "683"
+            },
+            "Congo": {
+                "Total": "191,635",
+                "US": "59"
+            },
+            "Gabon": {
+                "Total": "152,972",
+                "US": "202"
+            },
+            "Algeria": {
+                "Total": "262,032",
+                "US": "2802"
+            },
+            "Egypt": {
+                "Total": "166,955",
+                "US": "5336"
+            },
+            "Libya": {
+                "Total": "508,041",
+                "US": "13063"
+            },
+            "Morocco": {
+                "Total": "50,360",
+                "US": "1147"
+            },
+            "Tunisia": {
+                "Total": "37,867",
+                "US": "234"
+            },
+            "Botswana": {
+                "Total": "40,168",
+                "US": "313"
+            },
+            "Lesotho": {
+                "Total": "7,204",
+                "US": "91"
+            },
+            "Namibia": {
+                "Total": "115,372",
+                "US": "1485"
+            },
+            "South Africa": {
+                "Total": "1,003,807",
+                "US": "7115"
+            },
+            "Swaziland": {
+                "Total": "25,031",
+                "US": "112"
+            },
+            "Cabo Verde": {
+                "Total": "9,979",
+                "US": "262"
+            },
+            "Ghana": {
+                "Total": "252,879",
+                "US": "435"
+            },
+            "Guinea": {
+                "Total": "774,505",
+                "US": "636"
+            },
+            "Guinea-Bissau": {
+                "Total": "27,961",
+                "US": "257"
+            },
+            "Liberia": {
+                "Total": "208,563",
+                "US": "2891"
+            },
+            "Mali": {
+                "Total": "176,187",
+                "US": "242"
+            },
+            "Mauritania": {
+                "Total": "89,562",
+                "US": "105"
+            },
+            "Senegal": {
+                "Total": "287,654",
+                "US": "692"
+            },
+            "Sierra Leone": {
+                "Total": "105,374",
+                "US": "493"
+            },
+            "Togo": {
+                "Total": "101,583",
+                "US": "179"
+            },
+            "Tajikistan": {
+                "Total": "348,347",
+                "US": "368"
+            },
+            "China": {
+                "Total": "442,198",
+                "US": "18124"
+            },
+            "Hong Kong": {
+                "Total": "2,443,798",
+                "US": "10698"
+            },
+            "Dem. People's Republic of Korea": {
+                "Total": "35,143",
+                "US": "661"
+            },
+            "Japan": {
+                "Total": "1,381,097",
+                "US": "43792"
+            },
+            "Mongolia": {
+                "Total": "7,424",
+                "US": "272"
+            },
+            "Republic of Korea": {
+                "Total": "123,886",
+                "US": "16092"
+            },
+            "Bangladesh": {
+                "Total": "934,735",
+                "US": "30085"
+            },
+            "Bhutan": {
+                "Total": "27,972",
+                "US": "74"
+            },
+            "India": {
+                "Total": "6,952,238",
+                "US": "4490"
+            },
+            "Maldives": {
+                "Total": "18,510",
+                "US": "20"
+            },
+            "Sri Lanka": {
+                "Total": "40,841",
+                "US": "87"
+            },
+            "Brunei Darussalam": {
+                "Total": "84,748",
+                "US": "129"
+            },
+            "Cambodia": {
+                "Total": "92,230",
+                "US": "239"
+            },
+            "Indonesia": {
+                "Total": "378,960",
+                "US": "5786"
+            },
+            "Philippines": {
+                "Total": "207,345",
+                "US": "23882"
+            },
+            "Singapore": {
+                "Total": "991,492",
+                "US": "3949"
+            },
+            "Thailand": {
+                "Total": "809,720",
+                "US": "2742"
+            },
+            "Timor-Leste": {
+                "Total": "9,743",
+                "US": "64"
+            },
+            "Viet Nam": {
+                "Total": "51,262",
+                "US": "585"
+            },
+            "Bahrain": {
+                "Total": "205,979",
+                "US": "498"
+            },
+            "Cyprus": {
+                "Total": "61,941",
+                "US": "1119"
+            },
+            "Israel": {
+                "Total": "1,792,185",
+                "US": "56033"
+            },
+            "Jordan": {
+                "Total": "1,537,097",
+                "US": "2433"
+            },
+            "Kuwait": {
+                "Total": "921,954",
+                "US": "2250"
+            },
+            "Lebanon": {
+                "Total": "608,303",
+                "US": "1108"
+            },
+            "Qatar": {
+                "Total": "361,673",
+                "US": "879"
+            },
+            "State of Palestine": {
+                "Total": "281,767",
+                "US": "8244"
+            },
+            "Turkey": {
+                "Total": "1,216,173",
+                "US": "12735"
+            },
+            "United Arab Emirates": {
+                "Total": "1,824,118",
+                "US": "4396"
+            },
+            "Belarus": {
+                "Total": "1,186,282",
+                "US": "66"
+            },
+            "Bulgaria": {
+                "Total": "32,435",
+                "US": "352"
+            },
+            "Czechia": {
+                "Total": "165,592",
+                "US": "775"
+            },
+            "Hungary": {
+                "Total": "322,234",
+                "US": "3967"
+            },
+            "Poland": {
+                "Total": "964,725",
+                "US": "10929"
+            },
+            "Romania": {
+                "Total": "135,037",
+                "US": "1055"
+            },
+            "Russian Federation": {
+                "Total": "11,928,927",
+                "US": "3051"
+            },
+            "Slovakia": {
+                "Total": "69,323",
+                "US": "743"
+            },
+            "Ukraine": {
+                "Total": "6,172,338",
+                "US": "3200"
+            },
+            "Denmark": {
+                "Total": "303,108",
+                "US": "7504"
+            },
+            "Estonia": {
+                "Total": "315,755",
+                "US": "141"
+            },
+            "Faeroe Islands": {
+                "Total": "2,900",
+                "US": "22"
+            },
+            "Finland": {
+                "Total": "99,729",
+                "US": "2494"
+            },
+            "Iceland": {
+                "Total": "12,738",
+                "US": "1190"
+            },
+            "Ireland": {
+                "Total": "226,892",
+                "US": "12608"
+            },
+            "Isle of Man": {
+                "Total": "36,886",
+                "US": "210"
+            },
+            "Latvia": {
+                "Total": "538,093",
+                "US": "323"
+            },
+            "Lithuania": {
+                "Total": "273,587",
+                "US": "1310"
+            },
+            "Norway": {
+                "Total": "233,302",
+                "US": "15407"
+            },
+            "Sweden": {
+                "Total": "936,022",
+                "US": "13439"
+            },
+            "United Kingdom": {
+                "Total": "4,155,293",
+                "US": "146356"
+            },
+            "Albania": {
+                "Total": "71,354",
+                "US": "3255"
+            },
+            "Andorra": {
+                "Total": "40,525",
+                "US": "95"
+            },
+            "Croatia": {
+                "Total": "674,085",
+                "US": "1068"
+            },
+            "Greece": {
+                "Total": "857,850",
+                "US": "32855"
+            },
+            "Italy": {
+                "Total": "1,774,953",
+                "US": "45212"
+            },
+            "Malta": {
+                "Total": "17,740",
+                "US": "974"
+            },
+            "Portugal": {
+                "Total": "532,822",
+                "US": "6236"
+            },
+            "Serbia": {
+                "Total": "630,221",
+                "US": "1003"
+            },
+            "Slovenia": {
+                "Total": "174,419",
+                "US": "564"
+            },
+            "Spain": {
+                "Total": "1,020,067",
+                "US": "14474"
+            },
+            "Austria": {
+                "Total": "894,893",
+                "US": "6869"
+            },
+            "Belgium": {
+                "Total": "909,769",
+                "US": "11547"
+            },
+            "France": {
+                "Total": "6,087,993",
+                "US": "41563"
+            },
+            "Germany": {
+                "Total": "7,464,406",
+                "US": "104837"
+            },
+            "Liechtenstein": {
+                "Total": "13,311",
+                "US": "40"
+            },
+            "Luxembourg": {
+                "Total": "126,106",
+                "US": "1066"
+            },
+            "Netherlands": {
+                "Total": "1,346,164",
+                "US": "16636"
+            },
+            "Switzerland": {
+                "Total": "1,478,829",
+                "US": "22377"
+            },
+            "Anguilla": {
+                "Total": "3,317",
+                "US": "524"
+            },
+            "Antigua and Barbuda": {
+                "Total": "17,550",
+                "US": "2173"
+            },
+            "Aruba": {
+                "Total": "22,274",
+                "US": "553"
+            },
+            "Bahamas": {
+                "Total": "31,654",
+                "US": "4294"
+            },
+            "Barbados": {
+                "Total": "26,224",
+                "US": "1213"
+            },
+            "British Virgin Islands": {
+                "Total": "10,046",
+                "US": "792"
+            },
+            "Caribbean Netherlands": {
+                "Total": "42,258",
+                "US": "830"
+            },
+            "Cayman Islands": {
+                "Total": "14,320",
+                "US": "1743"
+            },
+            "Cuba": {
+                "Total": "26,187",
+                "US": "899"
+            },
+            "Dominica": {
+                "Total": "3,121",
+                "US": "299"
+            },
+            "Dominican Republic": {
+                "Total": "323,381",
+                "US": "10648"
+            },
+            "Grenada": {
+                "Total": "5,544",
+                "US": "321"
+            },
+            "Guadeloupe": {
+                "Total": "74,566",
+                "US": "263"
+            },
+            "Haiti": {
+                "Total": "22,458",
+                "US": "1891"
+            },
+            "Jamaica": {
+                "Total": "22,713",
+                "US": "5615"
+            },
+            "Montserrat": {
+                "Total": "1,612",
+                "US": "138"
+            },
+            "Puerto Rico": {
+                "Total": "338,067",
+                "US": "231365"
+            },
+            "Saint Kitts and Nevis": {
+                "Total": "4,248",
+                "US": "350"
+            },
+            "Saint Lucia": {
+                "Total": "7,152",
+                "US": "383"
+            },
+            "Saint Vincent and the Grenadines": {
+                "Total": "4,135",
+                "US": "303"
+            },
+            "Trinidad and Tobago": {
+                "Total": "45,994",
+                "US": "2205"
+            },
+            "Turks and Caicos Islands": {
+                "Total": "7,039",
+                "US": "565"
+            },
+            "United States Virgin Islands": {
+                "Total": "54,241",
+                "US": "14965"
+            },
+            "Belize": {
+                "Total": "33,446",
+                "US": "1908"
+            },
+            "Costa Rica": {
+                "Total": "364,287",
+                "US": "7305"
+            },
+            "El Salvador": {
+                "Total": "39,537",
+                "US": "6306"
+            },
+            "Guatemala": {
+                "Total": "156,188",
+                "US": "5639"
+            },
+            "Honduras": {
+                "Total": "149,442",
+                "US": "3877"
+            },
+            "Mexico": {
+                "Total": "458,549",
+                "US": "272472"
+            },
+            "Nicaragua": {
+                "Total": "26,619",
+                "US": "2952"
+            },
+            "Panama": {
+                "Total": "70,848",
+                "US": "4134"
+            },
+            "Argentina": {
+                "Total": "1,595,069",
+                "US": "9678"
+            },
+            "Bolivia (Plurinational State of)": {
+                "Total": "83,598",
+                "US": "3385"
+            },
+            "Brazil": {
+                "Total": "741,557",
+                "US": "12894"
+            },
+            "Chile": {
+                "Total": "142,417",
+                "US": "6768"
+            },
+            "Colombia": {
+                "Total": "106,943",
+                "US": "14273"
+            },
+            "Ecuador": {
+                "Total": "115,093",
+                "US": "9854"
+            },
+            "Falkland Islands (Malvinas)": {
+                "Total": "868",
+                "US": "20"
+            },
+            "Guyana": {
+                "Total": "6,352",
+                "US": "459"
+            },
+            "Paraguay": {
+                "Total": "186,570",
+                "US": "1684"
+            },
+            "Peru": {
+                "Total": "56,732",
+                "US": "6151"
+            },
+            "Uruguay": {
+                "Total": "93,428",
+                "US": "1036"
+            },
+            "Venezuela (Bolivarian Republic of)": {
+                "Total": "1,019,996",
+                "US": "10925"
+            },
+            "Bermuda": {
+                "Total": "16,676",
+                "US": "3454"
+            },
+            "Canada": {
+                "Total": "4,864,778",
+                "US": "244601"
+            },
+            "Greenland": {
+                "Total": "7,320",
+                "US": "27"
+            },
+            "Saint Pierre and Miquelon": {
+                "Total": "1,320",
+                "US": "87"
+            },
+            "Australia": {
+                "Total": "4,153,330",
+                "US": "55234"
+            },
+            "New Zealand": {
+                "Total": "588,617",
+                "US": "11309"
+            },
+            "Papua New Guinea": {
+                "Total": "33,526",
+                "US": "1137"
+            },
+            "Solomon Islands": {
+                "Total": "4,178",
+                "US": "134"
+            },
+            "Guam": {
+                "Total": "71,912",
+                "US": "23543"
+            },
+            "Kiribati": {
+                "Total": "2,223",
+                "US": "40"
+            },
+            "Marshall Islands": {
+                "Total": "1,480",
+                "US": "716"
+            },
+            "Micronesia (Fed. States of)": {
+                "Total": "3,342",
+                "US": "212"
+            },
+            "Northern Mariana Islands": {
+                "Total": "32,376",
+                "US": "1530"
+            },
+            "Palau": {
+                "Total": "4,749",
+                "US": "535"
+            },
+            "American Samoa": {
+                "Total": "23,098",
+                "US": "3544"
+            },
+            "Cook Islands": {
+                "Total": "2,686",
+                "US": "18"
+            },
+            "French Polynesia": {
+                "Total": "28,360",
+                "US": "408"
+            },
+            "Niue": {
+                "Total": "480",
+                "US": "14"
+            },
+            "Samoa": {
+                "Total": "4,694",
+                "US": "365"
+            },
+            "Tuvalu": {
+                "Total": "263",
+                "US": "34"
+            }
+        }
+    },
+    "2000": {
+        "Immigration": {
+            "Total": "34814053",
+            "Other North": "13450",
+            "Other South": "1642662",
+            "Afghanistan": "46342",
+            "Albania": "39644",
+            "Algeria": "11158",
+            "Angola": "4475",
+            "Antigua and Barbuda": "18789",
+            "Argentina": "128397",
+            "Armenia": "66937",
+            "Aruba": "3910",
+            "Australia": "62513",
+            "Austria": "65264",
+            "Azerbaijan": "14565",
+            "Bahamas": "28788",
+            "Bangladesh": "97713",
+            "Barbados": "53496",
+            "Belarus": "39480",
+            "Belgium": "34755",
+            "Belize": "41170",
+            "Bermuda": "8591",
+            "Bolivia (Plurinational State of)": "54630",
+            "Bosnia and Herzegovina": "101273",
+            "Brazil": "217822",
+            "Bulgaria": "35981",
+            "Cabo Verde": "27281",
+            "Cambodia": "140456",
+            "Cameroon": "12063",
+            "Canada": "841612",
+            "Chile": "82855",
+            "China": "1348465",
+            "Hong Kong": "208749",
+            "Macao": "6888",
+            "Colombia": "522819",
+            "Costa Rica": "73694",
+            "Cote d'Ivoire": "7355",
+            "Croatia": "41946",
+            "Cuba": "894876",
+            "Cyprus": "11368",
+            "Czechia": "85190",
+            "Democratic Republic of the Congo": "5115",
+            "Denmark": "32219",
+            "Dominica": "16036",
+            "Dominican Republic": "705139",
+            "Ecuador": "306208",
+            "Egypt": "116275",
+            "El Salvador": "838090",
+            "Eritrea": "17962",
+            "Estonia": "10033",
+            "Ethiopia": "71296",
+            "Fiji": "31674",
+            "Finland": "21951",
+            "France": "154992",
+            "Gambia": "5911",
+            "Georgia": "10795",
+            "Germany": "724649",
+            "Ghana": "67237",
+            "Greece": "169958",
+            "Grenada": "30015",
+            "Guatemala": "492870",
+            "Guinea": "5190",
+            "Guyana": "216551",
+            "Haiti": "429964",
+            "Honduras": "290034",
+            "Hungary": "94353",
+            "Iceland": "5694",
+            "India": "1048517",
+            "Indonesia": "74394",
+            "Iran (Islamic Republic of)": "290417",
+            "Iraq": "92174",
+            "Ireland": "160447",
+            "Israel": "112505",
+            "Italy": "485357",
+            "Jamaica": "567890",
+            "Japan": "356364",
+            "Jordan": "47982",
+            "Kazakhstan": "9386",
+            "Kenya": "41715",
+            "Kuwait": "20884",
+            "Kyrgyzstan": "2436",
+            "Lao People's Democratic Republic": "209471",
+            "Latvia": "27923",
+            "Lebanon": "108599",
+            "Liberia": "40020",
+            "Libya": "5500",
+            "Lithuania": "29213",
+            "Luxembourg": "2204",
+            "Malaysia": "50714",
+            "Malta": "8777",
+            "Marshall Islands": "6478",
+            "Mexico": "9410529",
+            "Micronesia (Fed. States of)": "7267",
+            "Montserrat": "4004",
+            "Morocco": "35562",
+            "Myanmar": "33415",
+            "Nepal": "12012",
+            "Netherlands": "96971",
+            "New Zealand": "23452",
+            "Nicaragua": "225929",
+            "Nigeria": "138366",
+            "Norway": "33024",
+            "Pakistan": "229151",
+            "Panama": "107847",
+            "Paraguay": "12284",
+            "Peru": "285249",
+            "Philippines": "1403834",
+            "Poland": "478593",
+            "Portugal": "208276",
+            "Puerto Rico": "1576432",
+            "Republic of Korea": "886067",
+            "Republic of Moldova": "20002",
+            "Romania": "139418",
+            "Russian Federation": "348815",
+            "Saint Kitts and Nevis": "11334",
+            "Saint Lucia": "13867",
+            "Saint Vincent and the Grenadines": "20491",
+            "Samoa": "16855",
+            "Saudi Arabia": "21618",
+            "Senegal": "10801",
+            "Serbia": "10545",
+            "Sierra Leone": "21359",
+            "Singapore": "21289",
+            "Slovenia": "6124",
+            "Somalia": "36668",
+            "South Africa": "65171",
+            "Spain": "84962",
+            "Sri Lanka": "25904",
+            "State of Palestine": "25706",
+            "Sudan": "20292",
+            "Suriname": "5720",
+            "Sweden": "50986",
+            "Switzerland": "44200",
+            "Syrian Arab Republic": "55946",
+            "Tajikistan": "2732",
+            "Macedonia": "19154",
+            "Thailand": "174112",
+            "Tonga": "17707",
+            "Trinidad and Tobago": "202410",
+            "Tunisia": "6490",
+            "Turkey": "80368",
+            "Turkmenistan": "918",
+            "Uganda": "12039",
+            "Ukraine": "282139",
+            "United Arab Emirates": "6915",
+            "United Kingdom": "694961",
+            "United Republic of Tanzania": "11678",
+            "Uruguay": "25673",
+            "Uzbekistan": "23613",
+            "Venezuela (Bolivarian Republic of)": "109748",
+            "Viet Nam": "1013266",
+            "Yemen": "19697",
+            "Zambia": "6139",
+            "Zimbabwe": "10957"
+        },
+        "Emigration": {
+            "More developed regions": {
+                "Total": "103,417,894",
+                "US": "920914"
+            },
+            "Less developed regions": {
+                "Total": "69,186,363",
+                "US": "1071319"
+            },
+            "Least developed countries": {
+                "Total": "10,073,307",
+                "US": "43444"
+            },
+            "Less developed regions, excluding least developed countries": {
+                "Total": "59,113,056",
+                "US": "1027875"
+            },
+            "High-income countries": {
+                "Total": "100,404,811",
+                "US": "1321453"
+            },
+            "Middle-income countries": {
+                "Total": "64,042,290",
+                "US": "657192"
+            },
+            "Upper-middle-income countries": {
+                "Total": "33,846,189",
+                "US": "535735"
+            },
+            "Lower-middle-income countries": {
+                "Total": "30,196,101",
+                "US": "121457"
+            },
+            "Low-income countries": {
+                "Total": "7,732,730",
+                "US": "11097"
+            },
+            "Sub-Saharan Africa": {
+                "Total": "13,716,539",
+                "US": "18674"
+            },
+            "Mauritius": {
+                "Total": "15,543",
+                "US": "41"
+            },
+            "Uganda": {
+                "Total": "634,703",
+                "US": "1013"
+            },
+            "United Republic of Tanzania": {
+                "Total": "928,180",
+                "US": "1082"
+            },
+            "Zambia": {
+                "Total": "321,167",
+                "US": "462"
+            },
+            "Central African Republic": {
+                "Total": "123,529",
+                "US": "831"
+            },
+            "Congo": {
+                "Total": "305,002",
+                "US": "83"
+            },
+            "Gabon": {
+                "Total": "195,571",
+                "US": "259"
+            },
+            "Algeria": {
+                "Total": "250,110",
+                "US": "1094"
+            },
+            "Egypt": {
+                "Total": "173,452",
+                "US": "4416"
+            },
+            "Libya": {
+                "Total": "567,436",
+                "US": "7274"
+            },
+            "Morocco": {
+                "Total": "53,034",
+                "US": "1208"
+            },
+            "Tunisia": {
+                "Total": "36,446",
+                "US": "269"
+            },
+            "Botswana": {
+                "Total": "57,064",
+                "US": "55"
+            },
+            "Lesotho": {
+                "Total": "6,167",
+                "US": "85"
+            },
+            "Namibia": {
+                "Total": "134,403",
+                "US": "1379"
+            },
+            "South Africa": {
+                "Total": "1,001,825",
+                "US": "6982"
+            },
+            "Swaziland": {
+                "Total": "22,855",
+                "US": "146"
+            },
+            "Cabo Verde": {
+                "Total": "11,027",
+                "US": "314"
+            },
+            "Ghana": {
+                "Total": "191,601",
+                "US": "487"
+            },
+            "Guinea": {
+                "Total": "560,075",
+                "US": "689"
+            },
+            "Guinea-Bissau": {
+                "Total": "20,450",
+                "US": "313"
+            },
+            "Liberia": {
+                "Total": "151,868",
+                "US": "2837"
+            },
+            "Mali": {
+                "Total": "189,475",
+                "US": "223"
+            },
+            "Mauritania": {
+                "Total": "57,366",
+                "US": "108"
+            },
+            "Senegal": {
+                "Total": "231,901",
+                "US": "626"
+            },
+            "Sierra Leone": {
+                "Total": "98,241",
+                "US": "480"
+            },
+            "Togo": {
+                "Total": "137,891",
+                "US": "179"
+            },
+            "Tajikistan": {
+                "Total": "299,266",
+                "US": "317"
+            },
+            "China": {
+                "Total": "508,034",
+                "US": "19286"
+            },
+            "Hong Kong": {
+                "Total": "2,669,122",
+                "US": "13796"
+            },
+            "Dem. People's Republic of Korea": {
+                "Total": "36,183",
+                "US": "649"
+            },
+            "Japan": {
+                "Total": "1,686,567",
+                "US": "44859"
+            },
+            "Mongolia": {
+                "Total": "8,206",
+                "US": "301"
+            },
+            "Republic of Korea": {
+                "Total": "244,178",
+                "US": "25592"
+            },
+            "Bangladesh": {
+                "Total": "987,853",
+                "US": "31610"
+            },
+            "Bhutan": {
+                "Total": "32,137",
+                "US": "85"
+            },
+            "India": {
+                "Total": "6,411,272",
+                "US": "3330"
+            },
+            "Maldives": {
+                "Total": "27,092",
+                "US": "16"
+            },
+            "Sri Lanka": {
+                "Total": "40,132",
+                "US": "158"
+            },
+            "Brunei Darussalam": {
+                "Total": "96,296",
+                "US": "144"
+            },
+            "Cambodia": {
+                "Total": "146,085",
+                "US": "386"
+            },
+            "Indonesia": {
+                "Total": "292,307",
+                "US": "2827"
+            },
+            "Philippines": {
+                "Total": "318,095",
+                "US": "35977"
+            },
+            "Singapore": {
+                "Total": "1,351,691",
+                "US": "4858"
+            },
+            "Thailand": {
+                "Total": "1,257,821",
+                "US": "4411"
+            },
+            "Timor-Leste": {
+                "Total": "10,602",
+                "US": "66"
+            },
+            "Viet Nam": {
+                "Total": "56,754",
+                "US": "1359"
+            },
+            "Bahrain": {
+                "Total": "239,361",
+                "US": "545"
+            },
+            "Cyprus": {
+                "Total": "80,076",
+                "US": "1446"
+            },
+            "Georgia": {
+                "Total": "76,117",
+                "US": "107"
+            },
+            "Israel": {
+                "Total": "1,851,309",
+                "US": "61396"
+            },
+            "Jordan": {
+                "Total": "1,927,845",
+                "US": "3176"
+            },
+            "Kuwait": {
+                "Total": "1,127,640",
+                "US": "2567"
+            },
+            "Lebanon": {
+                "Total": "692,913",
+                "US": "1442"
+            },
+            "Qatar": {
+                "Total": "359,697",
+                "US": "819"
+            },
+            "State of Palestine": {
+                "Total": "275,202",
+                "US": "8052"
+            },
+            "Turkey": {
+                "Total": "1,280,963",
+                "US": "12649"
+            },
+            "United Arab Emirates": {
+                "Total": "2,446,675",
+                "US": "5615"
+            },
+            "Belarus": {
+                "Total": "1,123,586",
+                "US": "90"
+            },
+            "Bulgaria": {
+                "Total": "43,360",
+                "US": "565"
+            },
+            "Czechia": {
+                "Total": "220,789",
+                "US": "1033"
+            },
+            "Hungary": {
+                "Total": "296,957",
+                "US": "4977"
+            },
+            "Poland": {
+                "Total": "825,251",
+                "US": "9349"
+            },
+            "Romania": {
+                "Total": "126,949",
+                "US": "1348"
+            },
+            "Russian Federation": {
+                "Total": "11,900,297",
+                "US": "2915"
+            },
+            "Slovakia": {
+                "Total": "116,376",
+                "US": "1402"
+            },
+            "Ukraine": {
+                "Total": "5,527,087",
+                "US": "3132"
+            },
+            "Denmark": {
+                "Total": "371,026",
+                "US": "8596"
+            },
+            "Estonia": {
+                "Total": "249,512",
+                "US": "191"
+            },
+            "Faeroe Islands": {
+                "Total": "3,593",
+                "US": "26"
+            },
+            "Finland": {
+                "Total": "136,203",
+                "US": "2442"
+            },
+            "Iceland": {
+                "Total": "15,892",
+                "US": "1392"
+            },
+            "Ireland": {
+                "Total": "350,552",
+                "US": "16225"
+            },
+            "Isle of Man": {
+                "Total": "39,002",
+                "US": "178"
+            },
+            "Latvia": {
+                "Total": "430,178",
+                "US": "479"
+            },
+            "Lithuania": {
+                "Total": "214,311",
+                "US": "1026"
+            },
+            "Norway": {
+                "Total": "292,440",
+                "US": "14956"
+            },
+            "Sweden": {
+                "Total": "1,003,798",
+                "US": "14413"
+            },
+            "United Kingdom": {
+                "Total": "4,730,165",
+                "US": "153337"
+            },
+            "Albania": {
+                "Total": "76,695",
+                "US": "3498"
+            },
+            "Andorra": {
+                "Total": "42,146",
+                "US": "89"
+            },
+            "Croatia": {
+                "Total": "585,298",
+                "US": "835"
+            },
+            "Greece": {
+                "Total": "1,111,665",
+                "US": "22900"
+            },
+            "Italy": {
+                "Total": "2,121,690",
+                "US": "26750"
+            },
+            "Malta": {
+                "Total": "21,521",
+                "US": "1051"
+            },
+            "Portugal": {
+                "Total": "651,472",
+                "US": "7258"
+            },
+            "Serbia": {
+                "Total": "856,763",
+                "US": "1364"
+            },
+            "Slovenia": {
+                "Total": "171,018",
+                "US": "395"
+            },
+            "Spain": {
+                "Total": "1,657,285",
+                "US": "22987"
+            },
+            "Austria": {
+                "Total": "996,547",
+                "US": "7649"
+            },
+            "Belgium": {
+                "Total": "895,900",
+                "US": "11518"
+            },
+            "France": {
+                "Total": "6,278,718",
+                "US": "42864"
+            },
+            "Germany": {
+                "Total": "8,992,631",
+                "US": "109838"
+            },
+            "Liechtenstein": {
+                "Total": "15,483",
+                "US": "60"
+            },
+            "Luxembourg": {
+                "Total": "139,750",
+                "US": "965"
+            },
+            "Netherlands": {
+                "Total": "1,556,337",
+                "US": "20186"
+            },
+            "Switzerland": {
+                "Total": "1,570,756",
+                "US": "25521"
+            },
+            "Anguilla": {
+                "Total": "4,063",
+                "US": "641"
+            },
+            "Antigua and Barbuda": {
+                "Total": "23,071",
+                "US": "2741"
+            },
+            "Aruba": {
+                "Total": "30,104",
+                "US": "681"
+            },
+            "Bahamas": {
+                "Total": "36,454",
+                "US": "4300"
+            },
+            "Barbados": {
+                "Total": "28,424",
+                "US": "1315"
+            },
+            "British Virgin Islands": {
+                "Total": "12,958",
+                "US": "910"
+            },
+            "Caribbean Netherlands": {
+                "Total": "46,105",
+                "US": "1262"
+            },
+            "Cayman Islands": {
+                "Total": "19,253",
+                "US": "1829"
+            },
+            "Cuba": {
+                "Total": "17,818",
+                "US": "612"
+            },
+            "Dominica": {
+                "Total": "3,723",
+                "US": "356"
+            },
+            "Dominican Republic": {
+                "Total": "355,611",
+                "US": "11709"
+            },
+            "Grenada": {
+                "Total": "6,825",
+                "US": "635"
+            },
+            "Guadeloupe": {
+                "Total": "83,188",
+                "US": "329"
+            },
+            "Haiti": {
+                "Total": "25,832",
+                "US": "2175"
+            },
+            "Jamaica": {
+                "Total": "24,952",
+                "US": "6668"
+            },
+            "Montserrat": {
+                "Total": "1,211",
+                "US": "104"
+            },
+            "Puerto Rico": {
+                "Total": "355,038",
+                "US": "234869"
+            },
+            "Saint Kitts and Nevis": {
+                "Total": "5,871",
+                "US": "483"
+            },
+            "Saint Lucia": {
+                "Total": "9,868",
+                "US": "527"
+            },
+            "Saint Vincent and the Grenadines": {
+                "Total": "4,307",
+                "US": "318"
+            },
+            "Trinidad and Tobago": {
+                "Total": "41,753",
+                "US": "3501"
+            },
+            "Turks and Caicos Islands": {
+                "Total": "9,015",
+                "US": "676"
+            },
+            "United States Virgin Islands": {
+                "Total": "56,611",
+                "US": "15712"
+            },
+            "Belize": {
+                "Total": "36,488",
+                "US": "1914"
+            },
+            "Costa Rica": {
+                "Total": "310,946",
+                "US": "9672"
+            },
+            "El Salvador": {
+                "Total": "31,713",
+                "US": "4603"
+            },
+            "Guatemala": {
+                "Total": "48,119",
+                "US": "5456"
+            },
+            "Honduras": {
+                "Total": "28,461",
+                "US": "5061"
+            },
+            "Mexico": {
+                "Total": "538,051",
+                "US": "358399"
+            },
+            "Nicaragua": {
+                "Total": "30,389",
+                "US": "3006"
+            },
+            "Panama": {
+                "Total": "83,410",
+                "US": "5212"
+            },
+            "Argentina": {
+                "Total": "1,540,219",
+                "US": "9364"
+            },
+            "Bolivia (Plurinational State of)": {
+                "Total": "92,658",
+                "US": "3656"
+            },
+            "Brazil": {
+                "Total": "684,596",
+                "US": "13981"
+            },
+            "Chile": {
+                "Total": "177,332",
+                "US": "7885"
+            },
+            "Colombia": {
+                "Total": "109,609",
+                "US": "15068"
+            },
+            "Ecuador": {
+                "Total": "151,523",
+                "US": "11112"
+            },
+            "Falkland Islands (Malvinas)": {
+                "Total": "1,067",
+                "US": "21"
+            },
+            "Guyana": {
+                "Total": "8,610",
+                "US": "632"
+            },
+            "Paraguay": {
+                "Total": "176,608",
+                "US": "1781"
+            },
+            "Peru": {
+                "Total": "66,293",
+                "US": "7188"
+            },
+            "Uruguay": {
+                "Total": "88,871",
+                "US": "705"
+            },
+            "Venezuela (Bolivarian Republic of)": {
+                "Total": "1,013,663",
+                "US": "10159"
+            },
+            "Bermuda": {
+                "Total": "17,668",
+                "US": "3439"
+            },
+            "Canada": {
+                "Total": "5,511,914",
+                "US": "255987"
+            },
+            "Greenland": {
+                "Total": "6,755",
+                "US": "27"
+            },
+            "Saint Pierre and Miquelon": {
+                "Total": "1,458",
+                "US": "98"
+            },
+            "Australia": {
+                "Total": "4,386,250",
+                "US": "59720"
+            },
+            "New Zealand": {
+                "Total": "678,813",
+                "US": "12984"
+            },
+            "Papua New Guinea": {
+                "Total": "25,101",
+                "US": "851"
+            },
+            "Solomon Islands": {
+                "Total": "3,981",
+                "US": "128"
+            },
+            "Guam": {
+                "Total": "74,070",
+                "US": "19095"
+            },
+            "Kiribati": {
+                "Total": "2,283",
+                "US": "38"
+            },
+            "Marshall Islands": {
+                "Total": "1,891",
+                "US": "856"
+            },
+            "Micronesia (Fed. States of)": {
+                "Total": "3,116",
+                "US": "197"
+            },
+            "Northern Mariana Islands": {
+                "Total": "40,122",
+                "US": "1951"
+            },
+            "Palau": {
+                "Total": "6,310",
+                "US": "516"
+            },
+            "American Samoa": {
+                "Total": "24,912",
+                "US": "3578"
+            },
+            "Cook Islands": {
+                "Total": "2,785",
+                "US": "18"
+            },
+            "French Polynesia": {
+                "Total": "30,329",
+                "US": "437"
+            },
+            "Niue": {
+                "Total": "498",
+                "US": "18"
+            },
+            "Samoa": {
+                "Total": "5,998",
+                "US": "463"
+            },
+            "Tuvalu": {
+                "Total": "217",
+                "US": "28"
+            }
+        }
+    },
+    "2005": {
+        "Immigration": {
+            "Total": "39258293",
+            "Other North": "12540",
+            "Other South": "2248918",
+            "Afghanistan": "51965",
+            "Albania": "54825",
+            "Algeria": "12680",
+            "Angola": "7294",
+            "Antigua and Barbuda": "22450",
+            "Argentina": "152739",
+            "Armenia": "68588",
+            "Aruba": "4673",
+            "Australia": "67499",
+            "Austria": "59792",
+            "Azerbaijan": "15759",
+            "Bahamas": "29086",
+            "Bangladesh": "126308",
+            "Barbados": "53672",
+            "Belarus": "47057",
+            "Belgium": "34287",
+            "Belize": "44349",
+            "Bermuda": "8425",
+            "Bolivia (Plurinational State of)": "66661",
+            "Bosnia and Herzegovina": "109203",
+            "Brazil": "280274",
+            "Bulgaria": "48219",
+            "Cabo Verde": "30020",
+            "Cambodia": "147478",
+            "Cameroon": "20699",
+            "Canada": "842344",
+            "Chile": "87860",
+            "China": "1607654",
+            "Hong Kong": "216351",
+            "Macao": "8805",
+            "Colombia": "580965",
+            "Costa Rica": "80856",
+            "Cote d'Ivoire": "14130",
+            "Croatia": "43372",
+            "Cuba": "959480",
+            "Cyprus": "13569",
+            "Czechia": "79662",
+            "Democratic Republic of the Congo": "12195",
+            "Denmark": "31350",
+            "Dominica": "25276",
+            "Dominican Republic": "761989",
+            "Ecuador": "364358",
+            "Egypt": "124709",
+            "El Salvador": "997858",
+            "Eritrea": "20907",
+            "Estonia": "10073",
+            "Ethiopia": "109858",
+            "Fiji": "35708",
+            "Finland": "20430",
+            "France": "155257",
+            "Gambia": "11356",
+            "Georgia": "15875",
+            "Germany": "682498",
+            "Ghana": "89959",
+            "Greece": "158144",
+            "Grenada": "30901",
+            "Guatemala": "643349",
+            "Guinea": "9971",
+            "Guyana": "236839",
+            "Haiti": "491772",
+            "Honduras": "383822",
+            "Hungary": "87078",
+            "Iceland": "5298",
+            "India": "1390605",
+            "Indonesia": "83425",
+            "Iran (Islamic Republic of)": "314199",
+            "Iraq": "105551",
+            "Ireland": "145477",
+            "Israel": "124955",
+            "Italy": "438874",
+            "Jamaica": "611604",
+            "Japan": "355980",
+            "Jordan": "55381",
+            "Kazakhstan": "11168",
+            "Kenya": "64484",
+            "Kuwait": "22048",
+            "Kyrgyzstan": "3581",
+            "Lao People's Democratic Republic": "204193",
+            "Latvia": "26669",
+            "Lebanon": "114895",
+            "Liberia": "55724",
+            "Libya": "6250",
+            "Lithuania": "32931",
+            "Luxembourg": "2470",
+            "Malaysia": "55746",
+            "Malta": "8275",
+            "Marshall Islands": "6179",
+            "Mexico": "10611064",
+            "Micronesia (Fed. States of)": "6933",
+            "Montserrat": "4784",
+            "Morocco": "47087",
+            "Myanmar": "49239",
+            "Nepal": "29611",
+            "Netherlands": "94293",
+            "New Zealand": "26243",
+            "Nicaragua": "236243",
+            "Nigeria": "174148",
+            "Norway": "29894",
+            "Pakistan": "261537",
+            "Panama": "106087",
+            "Paraguay": "21344",
+            "Peru": "350703",
+            "Philippines": "1596459",
+            "Poland": "475678",
+            "Portugal": "200363",
+            "Puerto Rico": "1618157",
+            "Republic of Korea": "990111",
+            "Republic of Moldova": "25387",
+            "Romania": "152171",
+            "Russian Federation": "371254",
+            "Saint Kitts and Nevis": "13543",
+            "Saint Lucia": "16569",
+            "Saint Vincent and the Grenadines": "20921",
+            "Samoa": "16079",
+            "Saudi Arabia": "27673",
+            "Senegal": "20751",
+            "Serbia": "18657",
+            "Sierra Leone": "27472",
+            "Singapore": "24653",
+            "Slovenia": "6149",
+            "Somalia": "76917",
+            "South Africa": "73064",
+            "Spain": "86286",
+            "Sri Lanka": "33489",
+            "State of Palestine": "28004",
+            "Sudan": "30514",
+            "Suriname": "9938",
+            "Sweden": "48928",
+            "Switzerland": "42514",
+            "Syrian Arab Republic": "57569",
+            "Tajikistan": "3220",
+            "Macedonia": "21209",
+            "Thailand": "195494",
+            "Tonga": "16892",
+            "Trinidad and Tobago": "217856",
+            "Tunisia": "7375",
+            "Turkey": "89762",
+            "Turkmenistan": "1350",
+            "Uganda": "22847",
+            "Ukraine": "298766",
+            "United Arab Emirates": "8252",
+            "United Kingdom": "696965",
+            "United Republic of Tanzania": "22162",
+            "Uruguay": "37981",
+            "Uzbekistan": "26322",
+            "Venezuela (Bolivarian Republic of)": "142706",
+            "Viet Nam": "1106433",
+            "Yemen": "27207",
+            "Zambia": "11649",
+            "Zimbabwe": "27363"
+        },
+        "Emigration": {
+            "More developed regions": {
+                "Total": "116,295,565",
+                "US": "1019358"
+            },
+            "Less developed regions": {
+                "Total": "74,236,035",
+                "US": "1269857"
+            },
+            "Least developed countries": {
+                "Total": "9,803,046",
+                "US": "48760"
+            },
+            "Less developed regions, excluding least developed countries": {
+                "Total": "64,432,989",
+                "US": "1221097"
+            },
+            "High-income countries": {
+                "Total": "117,786,056",
+                "US": "1431140"
+            },
+            "Middle-income countries": {
+                "Total": "64,661,461",
+                "US": "844814"
+            },
+            "Upper-middle-income countries": {
+                "Total": "35,813,417",
+                "US": "715351"
+            },
+            "Lower-middle-income countries": {
+                "Total": "28,848,044",
+                "US": "129463"
+            },
+            "Low-income countries": {
+                "Total": "7,604,325",
+                "US": "10519"
+            },
+            "Sub-Saharan Africa": {
+                "Total": "14,272,361",
+                "US": "20407"
+            },
+            "Mauritius": {
+                "Total": "19,647",
+                "US": "40"
+            },
+            "Uganda": {
+                "Total": "652,968",
+                "US": "1006"
+            },
+            "United Republic of Tanzania": {
+                "Total": "770,846",
+                "US": "1204"
+            },
+            "Zambia": {
+                "Total": "252,749",
+                "US": "662"
+            },
+            "Cameroon": {
+                "Total": "258,737",
+                "US": "823"
+            },
+            "Central African Republic": {
+                "Total": "94,449",
+                "US": "635"
+            },
+            "Congo": {
+                "Total": "315,238",
+                "US": "53"
+            },
+            "Gabon": {
+                "Total": "214,123",
+                "US": "284"
+            },
+            "Algeria": {
+                "Total": "197,422",
+                "US": "863"
+            },
+            "Egypt": {
+                "Total": "274,001",
+                "US": "5257"
+            },
+            "Libya": {
+                "Total": "625,212",
+                "US": "8015"
+            },
+            "Morocco": {
+                "Total": "54,379",
+                "US": "1239"
+            },
+            "Tunisia": {
+                "Total": "35,040",
+                "US": "259"
+            },
+            "Botswana": {
+                "Total": "88,829",
+                "US": "507"
+            },
+            "Lesotho": {
+                "Total": "6,290",
+                "US": "86"
+            },
+            "Namibia": {
+                "Total": "106,274",
+                "US": "1090"
+            },
+            "South Africa": {
+                "Total": "1,210,936",
+                "US": "8357"
+            },
+            "Swaziland": {
+                "Total": "27,097",
+                "US": "190"
+            },
+            "Cabo Verde": {
+                "Total": "12,700",
+                "US": "361"
+            },
+            "Ghana": {
+                "Total": "304,436",
+                "US": "685"
+            },
+            "Guinea": {
+                "Total": "229,611",
+                "US": "550"
+            },
+            "Guinea-Bissau": {
+                "Total": "20,736",
+                "US": "303"
+            },
+            "Liberia": {
+                "Total": "87,188",
+                "US": "1236"
+            },
+            "Mali": {
+                "Total": "256,797",
+                "US": "907"
+            },
+            "Mauritania": {
+                "Total": "58,119",
+                "US": "108"
+            },
+            "Senegal": {
+                "Total": "238,298",
+                "US": "672"
+            },
+            "Sierra Leone": {
+                "Total": "149,615",
+                "US": "469"
+            },
+            "Togo": {
+                "Total": "203,379",
+                "US": "179"
+            },
+            "Tajikistan": {
+                "Total": "280,444",
+                "US": "304"
+            },
+            "China": {
+                "Total": "678,947",
+                "US": "21277"
+            },
+            "Hong Kong": {
+                "Total": "2,721,235",
+                "US": "13370"
+            },
+            "Dem. People's Republic of Korea": {
+                "Total": "40,097",
+                "US": "792"
+            },
+            "Japan": {
+                "Total": "2,012,916",
+                "US": "47789"
+            },
+            "Mongolia": {
+                "Total": "11,475",
+                "US": "447"
+            },
+            "Republic of Korea": {
+                "Total": "485,546",
+                "US": "33040"
+            },
+            "Bangladesh": {
+                "Total": "1,166,700",
+                "US": "37560"
+            },
+            "Bhutan": {
+                "Total": "40,279",
+                "US": "107"
+            },
+            "India": {
+                "Total": "5,923,642",
+                "US": "3077"
+            },
+            "Maldives": {
+                "Total": "45,045",
+                "US": "32"
+            },
+            "Sri Lanka": {
+                "Total": "39,526",
+                "US": "302"
+            },
+            "Brunei Darussalam": {
+                "Total": "98,441",
+                "US": "147"
+            },
+            "Cambodia": {
+                "Total": "114,031",
+                "US": "301"
+            },
+            "Indonesia": {
+                "Total": "289,568",
+                "US": "6654"
+            },
+            "Philippines": {
+                "Total": "257,468",
+                "US": "29119"
+            },
+            "Singapore": {
+                "Total": "1,710,594",
+                "US": "9340"
+            },
+            "Thailand": {
+                "Total": "2,163,447",
+                "US": "3939"
+            },
+            "Timor-Leste": {
+                "Total": "11,286",
+                "US": "70"
+            },
+            "Viet Nam": {
+                "Total": "51,768",
+                "US": "1812"
+            },
+            "Bahrain": {
+                "Total": "404,018",
+                "US": "771"
+            },
+            "Cyprus": {
+                "Total": "117,165",
+                "US": "2116"
+            },
+            "Georgia": {
+                "Total": "72,311",
+                "US": "101"
+            },
+            "Israel": {
+                "Total": "1,889,503",
+                "US": "68622"
+            },
+            "Jordan": {
+                "Total": "2,325,414",
+                "US": "4587"
+            },
+            "Kuwait": {
+                "Total": "1,333,327",
+                "US": "2772"
+            },
+            "Lebanon": {
+                "Total": "756,784",
+                "US": "1129"
+            },
+            "Qatar": {
+                "Total": "646,026",
+                "US": "1149"
+            },
+            "State of Palestine": {
+                "Total": "266,617",
+                "US": "7978"
+            },
+            "Turkey": {
+                "Total": "1,319,236",
+                "US": "13034"
+            },
+            "United Arab Emirates": {
+                "Total": "3,281,036",
+                "US": "6294"
+            },
+            "Belarus": {
+                "Total": "1,106,982",
+                "US": "86"
+            },
+            "Bulgaria": {
+                "Total": "61,074",
+                "US": "867"
+            },
+            "Czechia": {
+                "Total": "322,540",
+                "US": "2286"
+            },
+            "Hungary": {
+                "Total": "366,787",
+                "US": "6147"
+            },
+            "Poland": {
+                "Total": "722,509",
+                "US": "11582"
+            },
+            "Romania": {
+                "Total": "145,162",
+                "US": "1960"
+            },
+            "Russian Federation": {
+                "Total": "11,667,588",
+                "US": "3747"
+            },
+            "Slovakia": {
+                "Total": "130,491",
+                "US": "1573"
+            },
+            "Ukraine": {
+                "Total": "5,050,302",
+                "US": "2861"
+            },
+            "Denmark": {
+                "Total": "440,383",
+                "US": "9906"
+            },
+            "Estonia": {
+                "Total": "233,701",
+                "US": "409"
+            },
+            "Faeroe Islands": {
+                "Total": "4,583",
+                "US": "31"
+            },
+            "Finland": {
+                "Total": "192,169",
+                "US": "3358"
+            },
+            "Iceland": {
+                "Total": "25,492",
+                "US": "1606"
+            },
+            "Ireland": {
+                "Total": "589,046",
+                "US": "25210"
+            },
+            "Isle of Man": {
+                "Total": "41,475",
+                "US": "223"
+            },
+            "Latvia": {
+                "Total": "376,725",
+                "US": "603"
+            },
+            "Lithuania": {
+                "Total": "201,209",
+                "US": "936"
+            },
+            "Norway": {
+                "Total": "361,144",
+                "US": "14507"
+            },
+            "Sweden": {
+                "Total": "1,125,790",
+                "US": "15522"
+            },
+            "United Kingdom": {
+                "Total": "5,926,156",
+                "US": "164455"
+            },
+            "Albania": {
+                "Total": "64,739",
+                "US": "2953"
+            },
+            "Andorra": {
+                "Total": "50,298",
+                "US": "101"
+            },
+            "Croatia": {
+                "Total": "579,273",
+                "US": "1221"
+            },
+            "Greece": {
+                "Total": "1,190,707",
+                "US": "23066"
+            },
+            "Italy": {
+                "Total": "3,954,785",
+                "US": "40484"
+            },
+            "Malta": {
+                "Total": "24,560",
+                "US": "1087"
+            },
+            "Portugal": {
+                "Total": "771,184",
+                "US": "7303"
+            },
+            "Serbia": {
+                "Total": "845,120",
+                "US": "1346"
+            },
+            "Slovenia": {
+                "Total": "197,276",
+                "US": "614"
+            },
+            "Spain": {
+                "Total": "4,107,226",
+                "US": "30491"
+            },
+            "Austria": {
+                "Total": "1,136,270",
+                "US": "8550"
+            },
+            "Belgium": {
+                "Total": "882,031",
+                "US": "10932"
+            },
+            "France": {
+                "Total": "6,737,600",
+                "US": "47898"
+            },
+            "Germany": {
+                "Total": "9,402,447",
+                "US": "110843"
+            },
+            "Liechtenstein": {
+                "Total": "18,898",
+                "US": "91"
+            },
+            "Luxembourg": {
+                "Total": "150,618",
+                "US": "836"
+            },
+            "Netherlands": {
+                "Total": "1,736,127",
+                "US": "22615"
+            },
+            "Switzerland": {
+                "Total": "1,805,437",
+                "US": "28796"
+            },
+            "Anguilla": {
+                "Total": "4,684",
+                "US": "738"
+            },
+            "Antigua and Barbuda": {
+                "Total": "24,741",
+                "US": "2940"
+            },
+            "Aruba": {
+                "Total": "32,540",
+                "US": "638"
+            },
+            "Bahamas": {
+                "Total": "45,595",
+                "US": "6587"
+            },
+            "Barbados": {
+                "Total": "30,624",
+                "US": "1147"
+            },
+            "British Virgin Islands": {
+                "Total": "15,016",
+                "US": "1042"
+            },
+            "Caribbean Netherlands": {
+                "Total": "49,105",
+                "US": "1344"
+            },
+            "Cayman Islands": {
+                "Total": "21,655",
+                "US": "2234"
+            },
+            "Cuba": {
+                "Total": "17,023",
+                "US": "609"
+            },
+            "Dominica": {
+                "Total": "4,744",
+                "US": "439"
+            },
+            "Dominican Republic": {
+                "Total": "376,001",
+                "US": "18186"
+            },
+            "Grenada": {
+                "Total": "6,902",
+                "US": "665"
+            },
+            "Guadeloupe": {
+                "Total": "89,065",
+                "US": "404"
+            },
+            "Haiti": {
+                "Total": "30,468",
+                "US": "2566"
+            },
+            "Jamaica": {
+                "Total": "24,314",
+                "US": "6493"
+            },
+            "Montserrat": {
+                "Total": "1,244",
+                "US": "109"
+            },
+            "Puerto Rico": {
+                "Total": "352,144",
+                "US": "224689"
+            },
+            "Saint Kitts and Nevis": {
+                "Total": "6,682",
+                "US": "550"
+            },
+            "Saint Lucia": {
+                "Total": "11,468",
+                "US": "613"
+            },
+            "Saint Vincent and the Grenadines": {
+                "Total": "4,395",
+                "US": "325"
+            },
+            "Sint Maarten (Dutch part)": {
+                "Total": "13,100",
+                "US": "183"
+            },
+            "Trinidad and Tobago": {
+                "Total": "44,812",
+                "US": "3757"
+            },
+            "Turks and Caicos Islands": {
+                "Total": "13,115",
+                "US": "695"
+            },
+            "United States Virgin Islands": {
+                "Total": "56,647",
+                "US": "16281"
+            },
+            "Belize": {
+                "Total": "41,424",
+                "US": "2694"
+            },
+            "Costa Rica": {
+                "Total": "358,175",
+                "US": "6335"
+            },
+            "El Salvador": {
+                "Total": "36,019",
+                "US": "4871"
+            },
+            "Guatemala": {
+                "Total": "57,252",
+                "US": "6473"
+            },
+            "Honduras": {
+                "Total": "27,875",
+                "US": "4946"
+            },
+            "Mexico": {
+                "Total": "712,487",
+                "US": "520053"
+            },
+            "Nicaragua": {
+                "Total": "34,918",
+                "US": "3085"
+            },
+            "Panama": {
+                "Total": "117,563",
+                "US": "8384"
+            },
+            "Argentina": {
+                "Total": "1,673,088",
+                "US": "6907"
+            },
+            "Bolivia (Plurinational State of)": {
+                "Total": "107,745",
+                "US": "3935"
+            },
+            "Brazil": {
+                "Total": "638,582",
+                "US": "18779"
+            },
+            "Chile": {
+                "Total": "273,384",
+                "US": "6374"
+            },
+            "Colombia": {
+                "Total": "107,612",
+                "US": "15025"
+            },
+            "Ecuador": {
+                "Total": "187,404",
+                "US": "13118"
+            },
+            "Falkland Islands (Malvinas)": {
+                "Total": "1,166",
+                "US": "30"
+            },
+            "Guyana": {
+                "Total": "10,868",
+                "US": "852"
+            },
+            "Paraguay": {
+                "Total": "168,243",
+                "US": "1696"
+            },
+            "Peru": {
+                "Total": "77,541",
+                "US": "8408"
+            },
+            "Uruguay": {
+                "Total": "82,318",
+                "US": "653"
+            },
+            "Venezuela (Bolivarian Republic of)": {
+                "Total": "1,070,562",
+                "US": "10445"
+            },
+            "Bermuda": {
+                "Total": "18,276",
+                "US": "3460"
+            },
+            "Canada": {
+                "Total": "6,078,985",
+                "US": "273383"
+            },
+            "Greenland": {
+                "Total": "6,686",
+                "US": "28"
+            },
+            "Saint Pierre and Miquelon": {
+                "Total": "1,147",
+                "US": "74"
+            },
+            "Australia": {
+                "Total": "4,878,030",
+                "US": "70550"
+            },
+            "New Zealand": {
+                "Total": "839,952",
+                "US": "16972"
+            },
+            "Papua New Guinea": {
+                "Total": "29,967",
+                "US": "851"
+            },
+            "Solomon Islands": {
+                "Total": "3,271",
+                "US": "77"
+            },
+            "Guam": {
+                "Total": "74,743",
+                "US": "18719"
+            },
+            "Kiribati": {
+                "Total": "2,487",
+                "US": "39"
+            },
+            "Marshall Islands": {
+                "Total": "2,417",
+                "US": "1053"
+            },
+            "Micronesia (Fed. States of)": {
+                "Total": "2,905",
+                "US": "183"
+            },
+            "Northern Mariana Islands": {
+                "Total": "37,542",
+                "US": "1953"
+            },
+            "Palau": {
+                "Total": "6,043",
+                "US": "377"
+            },
+            "American Samoa": {
+                "Total": "24,233",
+                "US": "3066"
+            },
+            "Cook Islands": {
+                "Total": "3,277",
+                "US": "24"
+            },
+            "French Polynesia": {
+                "Total": "32,286",
+                "US": "457"
+            },
+            "Niue": {
+                "Total": "522",
+                "US": "19"
+            },
+            "Samoa": {
+                "Total": "5,746",
+                "US": "436"
+            },
+            "Tuvalu": {
+                "Total": "183",
+                "US": "23"
+            }
+        }
+    },
+    "2010": {
+        "Immigration": {
+            "Total": "44183643",
+            "Other North": "11824",
+            "Other South": "2099990",
+            "Afghanistan": "59330",
+            "Albania": "72085",
+            "Algeria": "14633",
+            "Angola": "10411",
+            "Antigua and Barbuda": "26899",
+            "Argentina": "182404",
+            "Armenia": "72388",
+            "Aruba": "5598",
+            "Australia": "74689",
+            "Austria": "56016",
+            "Azerbaijan": "17468",
+            "Bahamas": "30286",
+            "Bangladesh": "159527",
+            "Barbados": "55503",
+            "Belarus": "56276",
+            "Belgium": "34862",
+            "Belize": "48974",
+            "Bermuda": "8516",
+            "Bolivia (Plurinational State of)": "81051",
+            "Bosnia and Herzegovina": "120693",
+            "Brazil": "352957",
+            "Bulgaria": "62258",
+            "Cabo Verde": "33752",
+            "Cambodia": "159212",
+            "Cameroon": "30195",
+            "Canada": "868967",
+            "Chile": "95695",
+            "China": "1922950",
+            "Hong Kong": "230796",
+            "Macao": "11044",
+            "Colombia": "658465",
+            "Costa Rica": "90687",
+            "Cote d'Ivoire": "21516",
+            "Croatia": "46167",
+            "Cuba": "1055229",
+            "Cyprus": "16244",
+            "Czechia": "76438",
+            "Democratic Republic of the Congo": "19833",
+            "Denmark": "31422",
+            "Dominica": "35534",
+            "Dominican Republic": "843720",
+            "Ecuador": "435209",
+            "Egypt": "137193",
+            "El Salvador": "1192423",
+            "Eritrea": "24569",
+            "Estonia": "10425",
+            "Ethiopia": "152798",
+            "Fiji": "40945",
+            "Finland": "19499",
+            "France": "160300",
+            "Gambia": "17293",
+            "Georgia": "21577",
+            "Germany": "660214",
+            "Ghana": "116035",
+            "Greece": "150879",
+            "Grenada": "32759",
+            "Guatemala": "817495",
+            "Guinea": "15184",
+            "Guyana": "264928",
+            "Haiti": "570290",
+            "Honduras": "491834",
+            "Hungary": "82289",
+            "Iceland": "5057",
+            "India": "1784284",
+            "Indonesia": "95254",
+            "Iran (Islamic Republic of)": "348249",
+            "Iraq": "122517",
+            "Ireland": "134587",
+            "Israel": "141567",
+            "Italy": "404664",
+            "Jamaica": "675237",
+            "Japan": "366522",
+            "Jordan": "64674",
+            "Kazakhstan": "13341",
+            "Kenya": "89826",
+            "Kuwait": "23921",
+            "Kyrgyzstan": "4868",
+            "Lao People's Democratic Republic": "205051",
+            "Latvia": "26202",
+            "Lebanon": "124883",
+            "Liberia": "73547",
+            "Libya": "7213",
+            "Lithuania": "37759",
+            "Luxembourg": "2820",
+            "Malaysia": "62621",
+            "Malta": "8016",
+            "Marshall Islands": "6063",
+            "Mexico": "12168662",
+            "Micronesia (Fed. States of)": "6803",
+            "Montserrat": "5732",
+            "Morocco": "60357",
+            "Myanmar": "66988",
+            "Nepal": "48579",
+            "Netherlands": "94442",
+            "New Zealand": "29914",
+            "Nicaragua": "254081",
+            "Nigeria": "216209",
+            "Norway": "27602",
+            "Pakistan": "302798",
+            "Panama": "107540",
+            "Paraguay": "31296",
+            "Peru": "428629",
+            "Philippines": "1843117",
+            "Poland": "487297",
+            "Portugal": "198400",
+            "Puerto Rico": "1710665",
+            "Republic of Korea": "1127266",
+            "Republic of Moldova": "31694",
+            "Romania": "169928",
+            "Russian Federation": "405679",
+            "Saint Kitts and Nevis": "16226",
+            "Saint Lucia": "19852",
+            "Saint Vincent and the Grenadines": "22007",
+            "Samoa": "15779",
+            "Saudi Arabia": "34736",
+            "Senegal": "31599",
+            "Serbia": "27554",
+            "Sierra Leone": "34590",
+            "Singapore": "28863",
+            "Slovenia": "6363",
+            "Somalia": "120575",
+            "South Africa": "83406",
+            "Spain": "90296",
+            "Sri Lanka": "42299",
+            "State of Palestine": "31222",
+            "Sudan": "41940",
+            "Suriname": "14573",
+            "Sweden": "48320",
+            "Switzerland": "42090",
+            "Syrian Arab Republic": "61003",
+            "Tajikistan": "3821",
+            "Macedonia": "23970",
+            "Thailand": "223435",
+            "Tonga": "16576",
+            "Trinidad and Tobago": "240394",
+            "Tunisia": "8511",
+            "Turkey": "102159",
+            "Turkmenistan": "1835",
+            "Uganda": "34638",
+            "Ukraine": "325001",
+            "United Arab Emirates": "9880",
+            "United Kingdom": "720428",
+            "United Republic of Tanzania": "33600",
+            "Uruguay": "51776",
+            "Uzbekistan": "29911",
+            "Venezuela (Bolivarian Republic of)": "180905",
+            "Viet Nam": "1236000",
+            "Yemen": "35748",
+            "Zambia": "17662",
+            "Zimbabwe": "45037"
+        },
+        "Emigration": {
+            "More developed regions": {
+                "Total": "130,683,517",
+                "US": "1099420"
+            },
+            "Less developed regions": {
+                "Total": "89,335,749",
+                "US": "1558229"
+            },
+            "Least developed countries": {
+                "Total": "9,994,197",
+                "US": "55142"
+            },
+            "Less developed regions, excluding least developed countries": {
+                "Total": "79,341,552",
+                "US": "1503087"
+            },
+            "High-income countries": {
+                "Total": "141,789,049",
+                "US": "1518738"
+            },
+            "Middle-income countries": {
+                "Total": "70,204,762",
+                "US": "1125897"
+            },
+            "Upper-middle-income countries": {
+                "Total": "39,705,036",
+                "US": "975855"
+            },
+            "Lower-middle-income countries": {
+                "Total": "30,499,726",
+                "US": "150042"
+            },
+            "Low-income countries": {
+                "Total": "7,545,206",
+                "US": "10970"
+            },
+            "Sub-Saharan Africa": {
+                "Total": "15,691,999",
+                "US": "26995"
+            },
+            "Mauritius": {
+                "Total": "24,836",
+                "US": "43"
+            },
+            "Uganda": {
+                "Total": "529,160",
+                "US": "1000"
+            },
+            "United Republic of Tanzania": {
+                "Total": "308,600",
+                "US": "1234"
+            },
+            "Zambia": {
+                "Total": "149,637",
+                "US": "949"
+            },
+            "Cameroon": {
+                "Total": "289,091",
+                "US": "655"
+            },
+            "Central African Republic": {
+                "Total": "93,466",
+                "US": "628"
+            },
+            "Congo": {
+                "Total": "419,649",
+                "US": "125"
+            },
+            "Gabon": {
+                "Total": "243,992",
+                "US": "324"
+            },
+            "Algeria": {
+                "Total": "216,964",
+                "US": "948"
+            },
+            "Egypt": {
+                "Total": "295,714",
+                "US": "5674"
+            },
+            "Libya": {
+                "Total": "683,998",
+                "US": "8768"
+            },
+            "Morocco": {
+                "Total": "70,909",
+                "US": "1386"
+            },
+            "Tunisia": {
+                "Total": "43,172",
+                "US": "470"
+            },
+            "Botswana": {
+                "Total": "120,912",
+                "US": "961"
+            },
+            "Lesotho": {
+                "Total": "6,414",
+                "US": "87"
+            },
+            "Namibia": {
+                "Total": "102,405",
+                "US": "1050"
+            },
+            "South Africa": {
+                "Total": "2,096,886",
+                "US": "14471"
+            },
+            "Swaziland": {
+                "Total": "30,476",
+                "US": "228"
+            },
+            "Cabo Verde": {
+                "Total": "14,373",
+                "US": "406"
+            },
+            "Ghana": {
+                "Total": "337,017",
+                "US": "508"
+            },
+            "Guinea": {
+                "Total": "177,998",
+                "US": "472"
+            },
+            "Guinea-Bissau": {
+                "Total": "21,061",
+                "US": "293"
+            },
+            "Liberia": {
+                "Total": "99,129",
+                "US": "451"
+            },
+            "Mali": {
+                "Total": "336,607",
+                "US": "1602"
+            },
+            "Mauritania": {
+                "Total": "84,679",
+                "US": "108"
+            },
+            "Senegal": {
+                "Total": "256,092",
+                "US": "752"
+            },
+            "Sierra Leone": {
+                "Total": "97,452",
+                "US": "466"
+            },
+            "Togo": {
+                "Total": "255,262",
+                "US": "182"
+            },
+            "Tajikistan": {
+                "Total": "278,152",
+                "US": "311"
+            },
+            "China": {
+                "Total": "849,861",
+                "US": "23268"
+            },
+            "Hong Kong": {
+                "Total": "2,779,950",
+                "US": "12976"
+            },
+            "Dem. People's Republic of Korea": {
+                "Total": "44,010",
+                "US": "934"
+            },
+            "Japan": {
+                "Total": "2,134,151",
+                "US": "50667"
+            },
+            "Mongolia": {
+                "Total": "16,061",
+                "US": "646"
+            },
+            "Republic of Korea": {
+                "Total": "919,275",
+                "US": "53578"
+            },
+            "Bangladesh": {
+                "Total": "1,345,546",
+                "US": "43455"
+            },
+            "Bhutan": {
+                "Total": "48,420",
+                "US": "129"
+            },
+            "India": {
+                "Total": "5,436,012",
+                "US": "2823"
+            },
+            "Maldives": {
+                "Total": "54,659",
+                "US": "38"
+            },
+            "Sri Lanka": {
+                "Total": "38,959",
+                "US": "598"
+            },
+            "Brunei Darussalam": {
+                "Total": "100,587",
+                "US": "150"
+            },
+            "Cambodia": {
+                "Total": "81,977",
+                "US": "216"
+            },
+            "Indonesia": {
+                "Total": "305,416",
+                "US": "10909"
+            },
+            "Philippines": {
+                "Total": "208,599",
+                "US": "35015"
+            },
+            "Singapore": {
+                "Total": "2,164,794",
+                "US": "14344"
+            },
+            "Thailand": {
+                "Total": "3,224,131",
+                "US": "3750"
+            },
+            "Timor-Leste": {
+                "Total": "11,535",
+                "US": "72"
+            },
+            "Viet Nam": {
+                "Total": "61,756",
+                "US": "2625"
+            },
+            "Bahrain": {
+                "Total": "657,856",
+                "US": "1169"
+            },
+            "Cyprus": {
+                "Total": "188,472",
+                "US": "3393"
+            },
+            "Georgia": {
+                "Total": "73,034",
+                "US": "102"
+            },
+            "Israel": {
+                "Total": "1,950,615",
+                "US": "76680"
+            },
+            "Jordan": {
+                "Total": "2,722,983",
+                "US": "5899"
+            },
+            "Kuwait": {
+                "Total": "1,871,537",
+                "US": "3669"
+            },
+            "Lebanon": {
+                "Total": "820,655",
+                "US": "815"
+            },
+            "Qatar": {
+                "Total": "1,456,413",
+                "US": "2412"
+            },
+            "State of Palestine": {
+                "Total": "258,032",
+                "US": "7904"
+            },
+            "Turkey": {
+                "Total": "1,367,034",
+                "US": "13431"
+            },
+            "United Arab Emirates": {
+                "Total": "7,316,611",
+                "US": "13114"
+            },
+            "Belarus": {
+                "Total": "1,090,378",
+                "US": "82"
+            },
+            "Bulgaria": {
+                "Total": "76,287",
+                "US": "1132"
+            },
+            "Czechia": {
+                "Total": "398,493",
+                "US": "3351"
+            },
+            "Hungary": {
+                "Total": "436,616",
+                "US": "7317"
+            },
+            "Poland": {
+                "Total": "642,417",
+                "US": "14179"
+            },
+            "Romania": {
+                "Total": "166,126",
+                "US": "2586"
+            },
+            "Russian Federation": {
+                "Total": "11,194,710",
+                "US": "4502"
+            },
+            "Slovakia": {
+                "Total": "146,319",
+                "US": "1764"
+            },
+            "Ukraine": {
+                "Total": "4,818,767",
+                "US": "2729"
+            },
+            "Denmark": {
+                "Total": "509,740",
+                "US": "11215"
+            },
+            "Estonia": {
+                "Total": "217,890",
+                "US": "624"
+            },
+            "Faeroe Islands": {
+                "Total": "5,096",
+                "US": "39"
+            },
+            "Finland": {
+                "Total": "248,135",
+                "US": "4273"
+            },
+            "Iceland": {
+                "Total": "35,091",
+                "US": "1938"
+            },
+            "Ireland": {
+                "Total": "730,542",
+                "US": "30043"
+            },
+            "Isle of Man": {
+                "Total": "43,447",
+                "US": "265"
+            },
+            "Latvia": {
+                "Total": "313,786",
+                "US": "712"
+            },
+            "Lithuania": {
+                "Total": "160,772",
+                "US": "719"
+            },
+            "Norway": {
+                "Total": "526,799",
+                "US": "16046"
+            },
+            "Sweden": {
+                "Total": "1,337,214",
+                "US": "16617"
+            },
+            "United Kingdom": {
+                "Total": "7,604,583",
+                "US": "188963"
+            },
+            "Albania": {
+                "Total": "52,784",
+                "US": "2408"
+            },
+            "Andorra": {
+                "Total": "52,053",
+                "US": "100"
+            },
+            "Croatia": {
+                "Total": "573,248",
+                "US": "1606"
+            },
+            "Greece": {
+                "Total": "1,321,149",
+                "US": "24284"
+            },
+            "Italy": {
+                "Total": "5,787,898",
+                "US": "54217"
+            },
+            "Malta": {
+                "Total": "33,008",
+                "US": "1199"
+            },
+            "Montenegro": {
+                "Total": "78,507",
+                "US": "302"
+            },
+            "Portugal": {
+                "Total": "762,825",
+                "US": "6137"
+            },
+            "Serbia": {
+                "Total": "826,066",
+                "US": "1316"
+            },
+            "Slovenia": {
+                "Total": "253,786",
+                "US": "548"
+            },
+            "Spain": {
+                "Total": "6,280,065",
+                "US": "35239"
+            },
+            "Austria": {
+                "Total": "1,275,992",
+                "US": "9451"
+            },
+            "Belgium": {
+                "Total": "1,119,256",
+                "US": "11277"
+            },
+            "France": {
+                "Total": "7,196,481",
+                "US": "49836"
+            },
+            "Germany": {
+                "Total": "9,812,263",
+                "US": "111303"
+            },
+            "Liechtenstein": {
+                "Total": "22,342",
+                "US": "124"
+            },
+            "Luxembourg": {
+                "Total": "248,888",
+                "US": "1095"
+            },
+            "Netherlands": {
+                "Total": "1,832,510",
+                "US": "24368"
+            },
+            "Switzerland": {
+                "Total": "2,075,182",
+                "US": "32631"
+            },
+            "Anguilla": {
+                "Total": "5,103",
+                "US": "803"
+            },
+            "Antigua and Barbuda": {
+                "Total": "26,412",
+                "US": "3138"
+            },
+            "Aruba": {
+                "Total": "34,327",
+                "US": "582"
+            },
+            "Bahamas": {
+                "Total": "54,736",
+                "US": "8919"
+            },
+            "Barbados": {
+                "Total": "32,825",
+                "US": "985"
+            },
+            "British Virgin Islands": {
+                "Total": "17,074",
+                "US": "1537"
+            },
+            "Caribbean Netherlands": {
+                "Total": "11,445",
+                "US": "517"
+            },
+            "Cayman Islands": {
+                "Total": "24,057",
+                "US": "2640"
+            },
+            "Cuba": {
+                "Total": "14,818",
+                "US": "556"
+            },
+            "Curacao": {
+                "Total": "34,627",
+                "US": "330"
+            },
+            "Dominica": {
+                "Total": "5,765",
+                "US": "534"
+            },
+            "Dominican Republic": {
+                "Total": "393,720",
+                "US": "24535"
+            },
+            "Grenada": {
+                "Total": "6,980",
+                "US": "696"
+            },
+            "Guadeloupe": {
+                "Total": "94,942",
+                "US": "478"
+            },
+            "Haiti": {
+                "Total": "35,104",
+                "US": "2956"
+            },
+            "Jamaica": {
+                "Total": "23,677",
+                "US": "6329"
+            },
+            "Montserrat": {
+                "Total": "1,277",
+                "US": "115"
+            },
+            "Puerto Rico": {
+                "Total": "304,969",
+                "US": "186257"
+            },
+            "Saint Kitts and Nevis": {
+                "Total": "7,245",
+                "US": "596"
+            },
+            "Saint Lucia": {
+                "Total": "12,100",
+                "US": "646"
+            },
+            "Saint Vincent and the Grenadines": {
+                "Total": "4,485",
+                "US": "331"
+            },
+            "Sint Maarten (Dutch part)": {
+                "Total": "26,200",
+                "US": "367"
+            },
+            "Trinidad and Tobago": {
+                "Total": "48,226",
+                "US": "5597"
+            },
+            "Turks and Caicos Islands": {
+                "Total": "17,216",
+                "US": "715"
+            },
+            "United States Virgin Islands": {
+                "Total": "56,684",
+                "US": "16851"
+            },
+            "Belize": {
+                "Total": "46,360",
+                "US": "3474"
+            },
+            "Costa Rica": {
+                "Total": "405,404",
+                "US": "12487"
+            },
+            "El Salvador": {
+                "Total": "40,324",
+                "US": "5176"
+            },
+            "Guatemala": {
+                "Total": "66,384",
+                "US": "7514"
+            },
+            "Honduras": {
+                "Total": "27,288",
+                "US": "4851"
+            },
+            "Mexico": {
+                "Total": "969,538",
+                "US": "741918"
+            },
+            "Nicaragua": {
+                "Total": "37,333",
+                "US": "3298"
+            },
+            "Panama": {
+                "Total": "157,309",
+                "US": "11956"
+            },
+            "Argentina": {
+                "Total": "1,805,957",
+                "US": "4450"
+            },
+            "Bolivia (Plurinational State of)": {
+                "Total": "122,846",
+                "US": "4206"
+            },
+            "Brazil": {
+                "Total": "592,568",
+                "US": "23308"
+            },
+            "Chile": {
+                "Total": "369,436",
+                "US": "4903"
+            },
+            "Colombia": {
+                "Total": "124,271",
+                "US": "17587"
+            },
+            "Ecuador": {
+                "Total": "325,366",
+                "US": "18426"
+            },
+            "Falkland Islands (Malvinas)": {
+                "Total": "1,436",
+                "US": "17"
+            },
+            "Guyana": {
+                "Total": "13,126",
+                "US": "1071"
+            },
+            "Paraguay": {
+                "Total": "160,299",
+                "US": "1615"
+            },
+            "Peru": {
+                "Total": "84,066",
+                "US": "9115"
+            },
+            "Uruguay": {
+                "Total": "76,263",
+                "US": "604"
+            },
+            "Venezuela (Bolivarian Republic of)": {
+                "Total": "1,331,488",
+                "US": "10721"
+            },
+            "Bermuda": {
+                "Total": "18,884",
+                "US": "3481"
+            },
+            "Canada": {
+                "Total": "6,761,226",
+                "US": "263515"
+            },
+            "Greenland": {
+                "Total": "6,226",
+                "US": "31"
+            },
+            "Saint Pierre and Miquelon": {
+                "Total": "1,017",
+                "US": "65"
+            },
+            "Australia": {
+                "Total": "5,882,980",
+                "US": "85330"
+            },
+            "New Zealand": {
+                "Total": "947,443",
+                "US": "19794"
+            },
+            "Papua New Guinea": {
+                "Total": "25,424",
+                "US": "721"
+            },
+            "Solomon Islands": {
+                "Total": "2,760",
+                "US": "31"
+            },
+            "Guam": {
+                "Total": "75,416",
+                "US": "18343"
+            },
+            "Kiribati": {
+                "Total": "2,868",
+                "US": "40"
+            },
+            "Marshall Islands": {
+                "Total": "3,089",
+                "US": "1346"
+            },
+            "Micronesia (Fed. States of)": {
+                "Total": "2,805",
+                "US": "176"
+            },
+            "Northern Mariana Islands": {
+                "Total": "24,168",
+                "US": "1395"
+            },
+            "Palau": {
+                "Total": "5,490",
+                "US": "361"
+            },
+            "American Samoa": {
+                "Total": "23,555",
+                "US": "2553"
+            },
+            "Cook Islands": {
+                "Total": "3,769",
+                "US": "29"
+            },
+            "French Polynesia": {
+                "Total": "31,640",
+                "US": "441"
+            },
+            "Niue": {
+                "Total": "545",
+                "US": "20"
+            },
+            "Samoa": {
+                "Total": "5,122",
+                "US": "381"
+            },
+            "Tuvalu": {
+                "Total": "154",
+                "US": "19"
+            }
+        }
+    },
+    "2015": {
+        "Immigration": {
+            "Total": "48178877",
+            "Other North": "10963",
+            "Other South": "2277618",
+            "Afghanistan": "70569",
+            "Albania": "87480",
+            "Algeria": "18696",
+            "Angola": "13397",
+            "Antigua and Barbuda": "30165",
+            "Argentina": "189800",
+            "Armenia": "89731",
+            "Aruba": "6277",
+            "Australia": "85031",
+            "Austria": "48689",
+            "Azerbaijan": "20913",
+            "Bahamas": "34762",
+            "Bangladesh": "211990",
+            "Barbados": "55689",
+            "Belarus": "57607",
+            "Belgium": "35145",
+            "Belize": "51563",
+            "Bermuda": "8636",
+            "Bolivia (Plurinational State of)": "82399",
+            "Bosnia and Herzegovina": "121415",
+            "Brazil": "355722",
+            "Bulgaria": "70117",
+            "Cabo Verde": "38562",
+            "Cambodia": "172838",
+            "Cameroon": "46900",
+            "Canada": "864806",
+            "Chile": "101623",
+            "China": "2345208",
+            "Hong Kong": "237032",
+            "Macao": "11969",
+            "Colombia": "729645",
+            "Costa Rica": "87551",
+            "Cote d'Ivoire": "27438",
+            "Croatia": "42799",
+            "Cuba": "1210873",
+            "Cyprus": "19446",
+            "Czechia": "72243",
+            "Democratic Republic of the Congo": "24340",
+            "Denmark": "30091",
+            "Dominica": "30834",
+            "Dominican Republic": "1034940",
+            "Ecuador": "455220",
+            "Egypt": "179188",
+            "El Salvador": "1347952",
+            "Eritrea": "34598",
+            "Estonia": "10557",
+            "Ethiopia": "210917",
+            "Fiji": "44586",
+            "Finland": "20835",
+            "France": "177400",
+            "Gambia": "22052",
+            "Georgia": "25832",
+            "Germany": "624597",
+            "Ghana": "153393",
+            "Greece": "144458",
+            "Grenada": "33951",
+            "Guatemala": "944186",
+            "Guinea": "19363",
+            "Guyana": "284869",
+            "Haiti": "649941",
+            "Honduras": "578460",
+            "Hungary": "75001",
+            "Iceland": "5402",
+            "India": "2233814",
+            "Indonesia": "99533",
+            "Iran (Islamic Republic of)": "389772",
+            "Iraq": "203230",
+            "Ireland": "134430",
+            "Israel": "137598",
+            "Italy": "377002",
+            "Jamaica": "748381",
+            "Japan": "356526",
+            "Jordan": "71758",
+            "Kazakhstan": "27513",
+            "Kenya": "119210",
+            "Kuwait": "28403",
+            "Kyrgyzstan": "5827",
+            "Lao People's Democratic Republic": "203573",
+            "Latvia": "23962",
+            "Lebanon": "124865",
+            "Liberia": "81402",
+            "Libya": "9215",
+            "Lithuania": "37566",
+            "Luxembourg": "2542",
+            "Malaysia": "68471",
+            "Malta": "7966",
+            "Marshall Islands": "6845",
+            "Mexico": "12275876",
+            "Micronesia (Fed. States of)": "7680",
+            "Montserrat": "6427",
+            "Morocco": "70234",
+            "Myanmar": "128008",
+            "Nepal": "100633",
+            "Netherlands": "88372",
+            "New Zealand": "32527",
+            "Nicaragua": "267051",
+            "Nigeria": "273095",
+            "Norway": "27496",
+            "Pakistan": "358463",
+            "Panama": "110516",
+            "Paraguay": "30254",
+            "Peru": "463413",
+            "Philippines": "2009595",
+            "Poland": "458651",
+            "Portugal": "189613",
+            "Puerto Rico": "1842611",
+            "Republic of Korea": "1139277",
+            "Republic of Moldova": "41832",
+            "Romania": "169343",
+            "Russian Federation": "410727",
+            "Saint Kitts and Nevis": "18195",
+            "Saint Lucia": "22262",
+            "Saint Vincent and the Grenadines": "24092",
+            "Samoa": "17815",
+            "Saudi Arabia": "83669",
+            "Senegal": "40295",
+            "Serbia": "36491",
+            "Sierra Leone": "39711",
+            "Singapore": "34408",
+            "Slovenia": "9205",
+            "Somalia": "88564",
+            "South Africa": "96214",
+            "Spain": "106354",
+            "Sri Lanka": "50383",
+            "State of Palestine": "38260",
+            "Sudan": "43164",
+            "Suriname": "14088",
+            "Sweden": "49629",
+            "Switzerland": "41363",
+            "Syrian Arab Republic": "80830",
+            "Tajikistan": "4574",
+            "Macedonia": "26681",
+            "Thailand": "255148",
+            "Tonga": "18714",
+            "Trinidad and Tobago": "243749",
+            "Tunisia": "115113",
+            "Turkey": "361082",
+            "Turkmenistan": "2196",
+            "Uganda": "43522",
+            "Ukraine": "365250",
+            "United Arab Emirates": "11827",
+            "United Kingdom": "724185",
+            "United Republic of Tanzania": "47847",
+            "Uruguay": "49585",
+            "Uzbekistan": "58283",
+            "Venezuela (Bolivarian Republic of)": "224986",
+            "Viet Nam": "1363825",
+            "Yemen": "43464",
+            "Zambia": "23670",
+            "Zimbabwe": "52816"
+        },
+        "Emigration": {
+            "More developed regions": {
+                "Total": "140,250,197",
+                "US": "1195232"
+            },
+            "Less developed regions": {
+                "Total": "107,335,547",
+                "US": "1727261"
+            },
+            "Least developed countries": {
+                "Total": "13,804,757",
+                "US": "58117"
+            },
+            "Less developed regions, excluding least developed countries": {
+                "Total": "93,530,790",
+                "US": "1669144"
+            },
+            "High-income countries": {
+                "Total": "156,816,897",
+                "US": "1617394"
+            },
+            "Middle-income countries": {
+                "Total": "79,772,836",
+                "US": "1291435"
+            },
+            "Upper-middle-income countries": {
+                "Total": "48,222,417",
+                "US": "1133739"
+            },
+            "Lower-middle-income countries": {
+                "Total": "31,550,419",
+                "US": "157696"
+            },
+            "Low-income countries": {
+                "Total": "10,491,456",
+                "US": "11465"
+            },
+            "Sub-Saharan Africa": {
+                "Total": "21,705,234",
+                "US": "29051"
+            },
+            "Mauritius": {
+                "Total": "28,585",
+                "US": "49"
+            },
+            "Uganda": {
+                "Total": "1,197,162",
+                "US": "994"
+            },
+            "United Republic of Tanzania": {
+                "Total": "413,309",
+                "US": "1291"
+            },
+            "Zambia": {
+                "Total": "155,428",
+                "US": "985"
+            },
+            "Cameroon": {
+                "Total": "508,357",
+                "US": "837"
+            },
+            "Central African Republic": {
+                "Total": "81,598",
+                "US": "548"
+            },
+            "Congo": {
+                "Total": "392,996",
+                "US": "166"
+            },
+            "Gabon": {
+                "Total": "268,384",
+                "US": "356"
+            },
+            "Algeria": {
+                "Total": "239,473",
+                "US": "1046"
+            },
+            "Egypt": {
+                "Total": "565,931",
+                "US": "6730"
+            },
+            "Libya": {
+                "Total": "771,146",
+                "US": "9885"
+            },
+            "Morocco": {
+                "Total": "92,424",
+                "US": "1806"
+            },
+            "Tunisia": {
+                "Total": "56,701",
+                "US": "609"
+            },
+            "Botswana": {
+                "Total": "160,644",
+                "US": "1277"
+            },
+            "Lesotho": {
+                "Total": "6,572",
+                "US": "89"
+            },
+            "Namibia": {
+                "Total": "96,888",
+                "US": "992"
+            },
+            "South Africa": {
+                "Total": "3,816,696",
+                "US": "15803"
+            },
+            "Swaziland": {
+                "Total": "31,993",
+                "US": "256"
+            },
+            "Cabo Verde": {
+                "Total": "14,924",
+                "US": "422"
+            },
+            "Ghana": {
+                "Total": "399,471",
+                "US": "602"
+            },
+            "Guinea": {
+                "Total": "126,386",
+                "US": "301"
+            },
+            "Guinea-Bissau": {
+                "Total": "22,333",
+                "US": "311"
+            },
+            "Liberia": {
+                "Total": "113,779",
+                "US": "517"
+            },
+            "Mali": {
+                "Total": "365,145",
+                "US": "1728"
+            },
+            "Mauritania": {
+                "Total": "166,552",
+                "US": "108"
+            },
+            "Senegal": {
+                "Total": "263,242",
+                "US": "773"
+            },
+            "Sierra Leone": {
+                "Total": "91,213",
+                "US": "464"
+            },
+            "Togo": {
+                "Total": "276,844",
+                "US": "182"
+            },
+            "Tajikistan": {
+                "Total": "275,059",
+                "US": "306"
+            },
+            "China": {
+                "Total": "978,046",
+                "US": "26777"
+            },
+            "Hong Kong": {
+                "Total": "2,838,665",
+                "US": "13250"
+            },
+            "Dem. People's Republic of Korea": {
+                "Total": "48,458",
+                "US": "1028"
+            },
+            "Japan": {
+                "Total": "2,232,189",
+                "US": "54872"
+            },
+            "Mongolia": {
+                "Total": "17,620",
+                "US": "709"
+            },
+            "Republic of Korea": {
+                "Total": "1,143,087",
+                "US": "66622"
+            },
+            "Bangladesh": {
+                "Total": "1,422,805",
+                "US": "46008"
+            },
+            "Bhutan": {
+                "Total": "51,106",
+                "US": "136"
+            },
+            "India": {
+                "Total": "5,240,960",
+                "US": "2722"
+            },
+            "Maldives": {
+                "Total": "64,273",
+                "US": "44"
+            },
+            "Sri Lanka": {
+                "Total": "39,706",
+                "US": "609"
+            },
+            "Brunei Darussalam": {
+                "Total": "102,733",
+                "US": "153"
+            },
+            "Cambodia": {
+                "Total": "73,963",
+                "US": "195"
+            },
+            "Indonesia": {
+                "Total": "338,124",
+                "US": "12077"
+            },
+            "Philippines": {
+                "Total": "211,862",
+                "US": "35564"
+            },
+            "Singapore": {
+                "Total": "2,543,638",
+                "US": "17161"
+            },
+            "Thailand": {
+                "Total": "3,486,526",
+                "US": "4055"
+            },
+            "Timor-Leste": {
+                "Total": "11,784",
+                "US": "73"
+            },
+            "Viet Nam": {
+                "Total": "72,793",
+                "US": "3164"
+            },
+            "Bahrain": {
+                "Total": "704,137",
+                "US": "1120"
+            },
+            "Cyprus": {
+                "Total": "192,020",
+                "US": "3456"
+            },
+            "Georgia": {
+                "Total": "76,685",
+                "US": "107"
+            },
+            "Israel": {
+                "Total": "2,011,727",
+                "US": "79082"
+            },
+            "Jordan": {
+                "Total": "3,112,026",
+                "US": "2539"
+            },
+            "Kuwait": {
+                "Total": "2,866,136",
+                "US": "4763"
+            },
+            "Lebanon": {
+                "Total": "1,973,204",
+                "US": "686"
+            },
+            "Qatar": {
+                "Total": "1,687,640",
+                "US": "2280"
+            },
+            "State of Palestine": {
+                "Total": "255,507",
+                "US": "7826"
+            },
+            "Turkey": {
+                "Total": "4,131,302",
+                "US": "13634"
+            },
+            "United Arab Emirates": {
+                "Total": "7,995,126",
+                "US": "14330"
+            },
+            "Belarus": {
+                "Total": "1,082,905",
+                "US": "87"
+            },
+            "Bulgaria": {
+                "Total": "133,803",
+                "US": "2788"
+            },
+            "Czechia": {
+                "Total": "416,454",
+                "US": "3502"
+            },
+            "Hungary": {
+                "Total": "475,508",
+                "US": "7777"
+            },
+            "Poland": {
+                "Total": "611,855",
+                "US": "13671"
+            },
+            "Romania": {
+                "Total": "281,048",
+                "US": "2876"
+            },
+            "Russian Federation": {
+                "Total": "11,643,276",
+                "US": "4588"
+            },
+            "Slovakia": {
+                "Total": "177,624",
+                "US": "2137"
+            },
+            "Ukraine": {
+                "Total": "4,915,142",
+                "US": "2738"
+            },
+            "Denmark": {
+                "Total": "595,876",
+                "US": "12871"
+            },
+            "Estonia": {
+                "Total": "194,664",
+                "US": "557"
+            },
+            "Faeroe Islands": {
+                "Total": "5,517",
+                "US": "41"
+            },
+            "Finland": {
+                "Total": "314,856",
+                "US": "5454"
+            },
+            "Iceland": {
+                "Total": "39,072",
+                "US": "2046"
+            },
+            "Ireland": {
+                "Total": "749,943",
+                "US": "30690"
+            },
+            "Isle of Man": {
+                "Total": "45,221",
+                "US": "276"
+            },
+            "Latvia": {
+                "Total": "265,418",
+                "US": "597"
+            },
+            "Lithuania": {
+                "Total": "136,021",
+                "US": "609"
+            },
+            "Norway": {
+                "Total": "746,375",
+                "US": "17568"
+            },
+            "Sweden": {
+                "Total": "1,602,522",
+                "US": "19691"
+            },
+            "United Kingdom": {
+                "Total": "8,411,021",
+                "US": "181316"
+            },
+            "Albania": {
+                "Total": "52,031",
+                "US": "2373"
+            },
+            "Andorra": {
+                "Total": "42,082",
+                "US": "99"
+            },
+            "Croatia": {
+                "Total": "575,738",
+                "US": "1616"
+            },
+            "Greece": {
+                "Total": "1,242,924",
+                "US": "23249"
+            },
+            "Italy": {
+                "Total": "5,805,325",
+                "US": "54679"
+            },
+            "Malta": {
+                "Total": "42,430",
+                "US": "1403"
+            },
+            "Montenegro": {
+                "Total": "82,541",
+                "US": "317"
+            },
+            "Portugal": {
+                "Total": "864,814",
+                "US": "6957"
+            },
+            "Serbia": {
+                "Total": "807,441",
+                "US": "1286"
+            },
+            "Slovenia": {
+                "Total": "237,616",
+                "US": "555"
+            },
+            "Spain": {
+                "Total": "5,891,208",
+                "US": "42291"
+            },
+            "Austria": {
+                "Total": "1,492,374",
+                "US": "11054"
+            },
+            "Belgium": {
+                "Total": "1,252,380",
+                "US": "12618"
+            },
+            "France": {
+                "Total": "7,918,382",
+                "US": "54834"
+            },
+            "Germany": {
+                "Total": "10,220,418",
+                "US": "115973"
+            },
+            "Liechtenstein": {
+                "Total": "23,799",
+                "US": "131"
+            },
+            "Luxembourg": {
+                "Total": "260,573",
+                "US": "1147"
+            },
+            "Netherlands": {
+                "Total": "1,996,318",
+                "US": "28285"
+            },
+            "Switzerland": {
+                "Total": "2,416,394",
+                "US": "38347"
+            },
+            "Anguilla": {
+                "Total": "5,470",
+                "US": "860"
+            },
+            "Antigua and Barbuda": {
+                "Total": "28,083",
+                "US": "3337"
+            },
+            "Aruba": {
+                "Total": "36,114",
+                "US": "612"
+            },
+            "Bahamas": {
+                "Total": "59,306",
+                "US": "9664"
+            },
+            "Barbados": {
+                "Total": "34,475",
+                "US": "1034"
+            },
+            "British Virgin Islands": {
+                "Total": "19,132",
+                "US": "1722"
+            },
+            "Caribbean Netherlands": {
+                "Total": "13,002",
+                "US": "588"
+            },
+            "Cayman Islands": {
+                "Total": "23,726",
+                "US": "2607"
+            },
+            "Cuba": {
+                "Total": "13,336",
+                "US": "500"
+            },
+            "Curacao": {
+                "Total": "37,611",
+                "US": "358"
+            },
+            "Dominica": {
+                "Total": "6,720",
+                "US": "623"
+            },
+            "Dominican Republic": {
+                "Total": "415,564",
+                "US": "25896"
+            },
+            "Grenada": {
+                "Total": "7,057",
+                "US": "704"
+            },
+            "Guadeloupe": {
+                "Total": "98,507",
+                "US": "496"
+            },
+            "Haiti": {
+                "Total": "39,529",
+                "US": "3328"
+            },
+            "Jamaica": {
+                "Total": "23,167",
+                "US": "6193"
+            },
+            "Montserrat": {
+                "Total": "1,351",
+                "US": "121"
+            },
+            "Puerto Rico": {
+                "Total": "280,494",
+                "US": "165580"
+            },
+            "Saint Kitts and Nevis": {
+                "Total": "7,443",
+                "US": "613"
+            },
+            "Saint Lucia": {
+                "Total": "12,771",
+                "US": "683"
+            },
+            "Saint Vincent and the Grenadines": {
+                "Total": "4,577",
+                "US": "338"
+            },
+            "Sint Maarten (Dutch part)": {
+                "Total": "27,295",
+                "US": "382"
+            },
+            "Trinidad and Tobago": {
+                "Total": "49,883",
+                "US": "5798"
+            },
+            "Turks and Caicos Islands": {
+                "Total": "22,719",
+                "US": "925"
+            },
+            "United States Virgin Islands": {
+                "Total": "56,721",
+                "US": "16861"
+            },
+            "Belize": {
+                "Total": "54,674",
+                "US": "4036"
+            },
+            "Costa Rica": {
+                "Total": "411,697",
+                "US": "12680"
+            },
+            "El Salvador": {
+                "Total": "42,045",
+                "US": "5397"
+            },
+            "Guatemala": {
+                "Total": "78,352",
+                "US": "8643"
+            },
+            "Honduras": {
+                "Total": "38,317",
+                "US": "6799"
+            },
+            "Mexico": {
+                "Total": "1,193,155",
+                "US": "876528"
+            },
+            "Nicaragua": {
+                "Total": "40,262",
+                "US": "3606"
+            },
+            "Panama": {
+                "Total": "184,710",
+                "US": "14040"
+            },
+            "Argentina": {
+                "Total": "2,086,302",
+                "US": "5135"
+            },
+            "Bolivia (Plurinational State of)": {
+                "Total": "142,989",
+                "US": "4896"
+            },
+            "Brazil": {
+                "Total": "716,568",
+                "US": "21068"
+            },
+            "Chile": {
+                "Total": "469,436",
+                "US": "8060"
+            },
+            "Colombia": {
+                "Total": "139,134",
+                "US": "19690"
+            },
+            "Ecuador": {
+                "Total": "387,513",
+                "US": "26802"
+            },
+            "Falkland Islands (Malvinas)": {
+                "Total": "1,571",
+                "US": "19"
+            },
+            "Guyana": {
+                "Total": "15,384",
+                "US": "1255"
+            },
+            "Paraguay": {
+                "Total": "156,462",
+                "US": "1576"
+            },
+            "Peru": {
+                "Total": "91,481",
+                "US": "9853"
+            },
+            "Uruguay": {
+                "Total": "78,799",
+                "US": "624"
+            },
+            "Venezuela (Bolivarian Republic of)": {
+                "Total": "1,404,448",
+                "US": "11242"
+            },
+            "Bermuda": {
+                "Total": "19,126",
+                "US": "3527"
+            },
+            "Canada": {
+                "Total": "7,561,226",
+                "US": "294694"
+            },
+            "Greenland": {
+                "Total": "6,009",
+                "US": "39"
+            },
+            "Saint Pierre and Miquelon": {
+                "Total": "986",
+                "US": "63"
+            },
+            "Australia": {
+                "Total": "6,710,540",
+                "US": "110643"
+            },
+            "New Zealand": {
+                "Total": "1,039,736",
+                "US": "22300"
+            },
+            "Papua New Guinea": {
+                "Total": "30,782",
+                "US": "731"
+            },
+            "Solomon Islands": {
+                "Total": "2,585",
+                "US": "29"
+            },
+            "Guam": {
+                "Total": "76,089",
+                "US": "18508"
+            },
+            "Kiribati": {
+                "Total": "2,919",
+                "US": "40"
+            },
+            "Marshall Islands": {
+                "Total": "3,284",
+                "US": "1430"
+            },
+            "Micronesia (Fed. States of)": {
+                "Total": "2,756",
+                "US": "172"
+            },
+            "Northern Mariana Islands": {
+                "Total": "21,648",
+                "US": "1249"
+            },
+            "Palau": {
+                "Total": "4,937",
+                "US": "324"
+            },
+            "American Samoa": {
+                "Total": "23,513",
+                "US": "2548"
+            },
+            "Cook Islands": {
+                "Total": "4,152",
+                "US": "32"
+            },
+            "French Polynesia": {
+                "Total": "30,058",
+                "US": "419"
+            },
+            "Niue": {
+                "Total": "557",
+                "US": "20"
+            },
+            "Samoa": {
+                "Total": "4,929",
+                "US": "367"
+            },
+            "Tuvalu": {
+                "Total": "141",
+                "US": "17"
+            }
+        }
+    },
+    "2017": {
+        "Immigration": {
+            "Total": "49776970",
+            "Other North": "11391",
+            "Other South": "2353166",
+            "Afghanistan": "72909",
+            "Albania": "90381",
+            "Algeria": "19316",
+            "Angola": "13841",
+            "Antigua and Barbuda": "31165",
+            "Argentina": "196095",
+            "Armenia": "92707",
+            "Aruba": "6485",
+            "Australia": "87851",
+            "Austria": "50304",
+            "Azerbaijan": "21606",
+            "Bahamas": "35915",
+            "Bangladesh": "219021",
+            "Barbados": "57536",
+            "Belarus": "59517",
+            "Belgium": "36310",
+            "Belize": "53273",
+            "Bermuda": "8922",
+            "Bolivia (Plurinational State of)": "85132",
+            "Bosnia and Herzegovina": "125442",
+            "Brazil": "367521",
+            "Bulgaria": "72442",
+            "Cabo Verde": "39841",
+            "Cambodia": "178571",
+            "Cameroon": "48455",
+            "Canada": "893491",
+            "Chile": "104993",
+            "China": "2422998",
+            "Hong Kong": "244894",
+            "Macao": "12366",
+            "Colombia": "753847",
+            "Costa Rica": "90455",
+            "Cote d'Ivoire": "28348",
+            "Croatia": "44218",
+            "Cuba": "1251037",
+            "Cyprus": "20091",
+            "Czechia": "74639",
+            "Democratic Republic of the Congo": "25147",
+            "Denmark": "31089",
+            "Dominica": "31856",
+            "Dominican Republic": "1069268",
+            "Ecuador": "470319",
+            "Egypt": "185131",
+            "El Salvador": "1392663",
+            "Eritrea": "35745",
+            "Estonia": "10907",
+            "Ethiopia": "217913",
+            "Fiji": "46064",
+            "Finland": "21526",
+            "France": "183284",
+            "Gambia": "22783",
+            "Georgia": "26688",
+            "Germany": "645314",
+            "Ghana": "158481",
+            "Greece": "149249",
+            "Grenada": "35077",
+            "Guatemala": "975504",
+            "Guinea": "20005",
+            "Guyana": "294318",
+            "Haiti": "671499",
+            "Honduras": "597647",
+            "Hungary": "77488",
+            "Iceland": "5581",
+            "India": "2307909",
+            "Indonesia": "102834",
+            "Iran (Islamic Republic of)": "402700",
+            "Iraq": "209971",
+            "Ireland": "138889",
+            "Israel": "142162",
+            "Italy": "389507",
+            "Jamaica": "773204",
+            "Japan": "368351",
+            "Jordan": "74138",
+            "Kazakhstan": "28425",
+            "Kenya": "123164",
+            "Kuwait": "29345",
+            "Kyrgyzstan": "6020",
+            "Lao People's Democratic Republic": "210325",
+            "Latvia": "24756",
+            "Lebanon": "129006",
+            "Liberia": "84102",
+            "Libya": "9520",
+            "Lithuania": "38812",
+            "Luxembourg": "2626",
+            "Malaysia": "70742",
+            "Malta": "8230",
+            "Marshall Islands": "7072",
+            "Mexico": "12683066",
+            "Micronesia (Fed. States of)": "7934",
+            "Montserrat": "6640",
+            "Morocco": "72563",
+            "Myanmar": "132254",
+            "Nepal": "103970",
+            "Netherlands": "91303",
+            "New Zealand": "33605",
+            "Nicaragua": "275909",
+            "Nigeria": "282153",
+            "Norway": "28408",
+            "Pakistan": "370353",
+            "Panama": "114181",
+            "Paraguay": "31257",
+            "Peru": "478784",
+            "Philippines": "2076253",
+            "Poland": "473864",
+            "Portugal": "195902",
+            "Puerto Rico": "1903730",
+            "Republic of Korea": "1177066",
+            "Republic of Moldova": "43219",
+            "Romania": "174960",
+            "Russian Federation": "424350",
+            "Saint Kitts and Nevis": "18798",
+            "Saint Lucia": "23000",
+            "Saint Vincent and the Grenadines": "24891",
+            "Samoa": "18405",
+            "Saudi Arabia": "86444",
+            "Senegal": "41631",
+            "Serbia": "37701",
+            "Sierra Leone": "41028",
+            "Singapore": "35549",
+            "Slovenia": "9510",
+            "Somalia": "91501",
+            "South Africa": "99405",
+            "Spain": "109881",
+            "Sri Lanka": "52054",
+            "State of Palestine": "39529",
+            "Sudan": "44595",
+            "Suriname": "14555",
+            "Sweden": "51275",
+            "Switzerland": "42735",
+            "Syrian Arab Republic": "83511",
+            "Tajikistan": "4725",
+            "Macedonia": "27566",
+            "Thailand": "263611",
+            "Tonga": "19334",
+            "Trinidad and Tobago": "251834",
+            "Tunisia": "118931",
+            "Turkey": "373059",
+            "Turkmenistan": "2268",
+            "Uganda": "44965",
+            "Ukraine": "377365",
+            "United Arab Emirates": "12219",
+            "United Kingdom": "748206",
+            "United Republic of Tanzania": "49434",
+            "Uruguay": "51229",
+            "Uzbekistan": "60216",
+            "Venezuela (Bolivarian Republic of)": "232448",
+            "Viet Nam": "1409063",
+            "Yemen": "44905",
+            "Zambia": "24455",
+            "Zimbabwe": "54567"
+        },
+        "Emigration": {
+            "More developed regions": {
+                "Total": "145,983,830",
+                "US": "1260287"
+            },
+            "Less developed regions": {
+                "Total": "111,731,595",
+                "US": "1759759"
+            },
+            "Least developed countries": {
+                "Total": "14,441,715",
+                "US": "60076"
+            },
+            "Less developed regions, excluding least developed countries": {
+                "Total": "97,289,880",
+                "US": "1699683"
+            },
+            "High-income countries": {
+                "Total": "164,846,887",
+                "US": "1678955"
+            },
+            "Middle-income countries": {
+                "Total": "81,439,828",
+                "US": "1326532"
+            },
+            "Upper-middle-income countries": {
+                "Total": "49,731,791",
+                "US": "1166205"
+            },
+            "Lower-middle-income countries": {
+                "Total": "31,708,037",
+                "US": "160327"
+            },
+            "Low-income countries": {
+                "Total": "10,914,651",
+                "US": "12317"
+            },
+            "Sub-Saharan Africa": {
+                "Total": "22,975,988",
+                "US": "30872"
+            },
+            "Mauritius": {
+                "Total": "28,713",
+                "US": "49"
+            },
+            "Uganda": {
+                "Total": "1,692,120",
+                "US": "1404"
+            },
+            "United Republic of Tanzania": {
+                "Total": "492,574",
+                "US": "1538"
+            },
+            "Zambia": {
+                "Total": "156,982",
+                "US": "994"
+            },
+            "Cameroon": {
+                "Total": "540,266",
+                "US": "889"
+            },
+            "Central African Republic": {
+                "Total": "88,774",
+                "US": "596"
+            },
+            "Congo": {
+                "Total": "398,890",
+                "US": "168"
+            },
+            "Gabon": {
+                "Total": "280,197",
+                "US": "371"
+            },
+            "Algeria": {
+                "Total": "248,624",
+                "US": "1085"
+            },
+            "Egypt": {
+                "Total": "478,310",
+                "US": "5688"
+            },
+            "Libya": {
+                "Total": "788,419",
+                "US": "10106"
+            },
+            "Morocco": {
+                "Total": "95,835",
+                "US": "1872"
+            },
+            "Tunisia": {
+                "Total": "57,663",
+                "US": "619"
+            },
+            "Botswana": {
+                "Total": "166,430",
+                "US": "1322"
+            },
+            "Lesotho": {
+                "Total": "6,749",
+                "US": "91"
+            },
+            "Namibia": {
+                "Total": "95,067",
+                "US": "973"
+            },
+            "South Africa": {
+                "Total": "4,036,696",
+                "US": "16713"
+            },
+            "Swaziland": {
+                "Total": "33,263",
+                "US": "266"
+            },
+            "Cabo Verde": {
+                "Total": "15,295",
+                "US": "431"
+            },
+            "Ghana": {
+                "Total": "417,642",
+                "US": "629"
+            },
+            "Guinea": {
+                "Total": "122,796",
+                "US": "292"
+            },
+            "Guinea-Bissau": {
+                "Total": "23,405",
+                "US": "325"
+            },
+            "Liberia": {
+                "Total": "98,630",
+                "US": "448"
+            },
+            "Mali": {
+                "Total": "383,721",
+                "US": "1815"
+            },
+            "Mauritania": {
+                "Total": "168,438",
+                "US": "109"
+            },
+            "Senegal": {
+                "Total": "265,601",
+                "US": "779"
+            },
+            "Sierra Leone": {
+                "Total": "95,248",
+                "US": "484"
+            },
+            "Togo": {
+                "Total": "283,966",
+                "US": "186"
+            },
+            "Tajikistan": {
+                "Total": "273,259",
+                "US": "303"
+            },
+            "China": {
+                "Total": "999,527",
+                "US": "27365"
+            },
+            "Hong Kong": {
+                "Total": "2,883,051",
+                "US": "13457"
+            },
+            "Dem. People's Republic of Korea": {
+                "Total": "48,939",
+                "US": "1038"
+            },
+            "Japan": {
+                "Total": "2,321,476",
+                "US": "57066"
+            },
+            "Mongolia": {
+                "Total": "18,204",
+                "US": "732"
+            },
+            "Republic of Korea": {
+                "Total": "1,151,865",
+                "US": "67133"
+            },
+            "Bangladesh": {
+                "Total": "1,500,921",
+                "US": "47103"
+            },
+            "Bhutan": {
+                "Total": "52,296",
+                "US": "139"
+            },
+            "India": {
+                "Total": "5,188,550",
+                "US": "2694"
+            },
+            "Maldives": {
+                "Total": "67,026",
+                "US": "45"
+            },
+            "Sri Lanka": {
+                "Total": "40,018",
+                "US": "613"
+            },
+            "Brunei Darussalam": {
+                "Total": "108,612",
+                "US": "161"
+            },
+            "Cambodia": {
+                "Total": "76,329",
+                "US": "201"
+            },
+            "Indonesia": {
+                "Total": "345,930",
+                "US": "12355"
+            },
+            "Philippines": {
+                "Total": "218,530",
+                "US": "36683"
+            },
+            "Singapore": {
+                "Total": "2,623,404",
+                "US": "17699"
+            },
+            "Thailand": {
+                "Total": "3,588,873",
+                "US": "4174"
+            },
+            "Timor-Leste": {
+                "Total": "12,063",
+                "US": "74"
+            },
+            "Viet Nam": {
+                "Total": "76,104",
+                "US": "3307"
+            },
+            "Bahrain": {
+                "Total": "722,649",
+                "US": "1149"
+            },
+            "Cyprus": {
+                "Total": "188,973",
+                "US": "3401"
+            },
+            "Georgia": {
+                "Total": "78,218",
+                "US": "109"
+            },
+            "Israel": {
+                "Total": "1,962,123",
+                "US": "77132"
+            },
+            "Jordan": {
+                "Total": "3,233,553",
+                "US": "2638"
+            },
+            "Kuwait": {
+                "Total": "3,123,431",
+                "US": "5190"
+            },
+            "Lebanon": {
+                "Total": "1,939,212",
+                "US": "674"
+            },
+            "Qatar": {
+                "Total": "1,721,392",
+                "US": "2325"
+            },
+            "State of Palestine": {
+                "Total": "253,735",
+                "US": "7771"
+            },
+            "Turkey": {
+                "Total": "4,881,966",
+                "US": "16111"
+            },
+            "United Arab Emirates": {
+                "Total": "8,312,524",
+                "US": "14898"
+            },
+            "Belarus": {
+                "Total": "1,078,652",
+                "US": "86"
+            },
+            "Bulgaria": {
+                "Total": "153,803",
+                "US": "3204"
+            },
+            "Czechia": {
+                "Total": "433,290",
+                "US": "3643"
+            },
+            "Hungary": {
+                "Total": "503,787",
+                "US": "8216"
+            },
+            "Poland": {
+                "Total": "640,937",
+                "US": "14320"
+            },
+            "Romania": {
+                "Total": "370,753",
+                "US": "3793"
+            },
+            "Russian Federation": {
+                "Total": "11,651,509",
+                "US": "4591"
+            },
+            "Slovakia": {
+                "Total": "184,642",
+                "US": "2221"
+            },
+            "Ukraine": {
+                "Total": "4,964,293",
+                "US": "2765"
+            },
+            "Denmark": {
+                "Total": "656,789",
+                "US": "14186"
+            },
+            "Estonia": {
+                "Total": "192,962",
+                "US": "552"
+            },
+            "Faeroe Islands": {
+                "Total": "5,735",
+                "US": "42"
+            },
+            "Finland": {
+                "Total": "343,582",
+                "US": "5951"
+            },
+            "Iceland": {
+                "Total": "41,853",
+                "US": "2123"
+            },
+            "Ireland": {
+                "Total": "806,549",
+                "US": "33006"
+            },
+            "Isle of Man": {
+                "Total": "45,872",
+                "US": "279"
+            },
+            "Latvia": {
+                "Total": "256,889",
+                "US": "577"
+            },
+            "Lithuania": {
+                "Total": "124,706",
+                "US": "558"
+            },
+            "Norway": {
+                "Total": "798,944",
+                "US": "18805"
+            },
+            "Sweden": {
+                "Total": "1,747,710",
+                "US": "19740"
+            },
+            "United Kingdom": {
+                "Total": "8,841,717",
+                "US": "190600"
+            },
+            "Albania": {
+                "Total": "52,484",
+                "US": "2393"
+            },
+            "Andorra": {
+                "Total": "41,039",
+                "US": "96"
+            },
+            "Croatia": {
+                "Total": "560,483",
+                "US": "1573"
+            },
+            "Greece": {
+                "Total": "1,220,395",
+                "US": "22939"
+            },
+            "Italy": {
+                "Total": "5,907,461",
+                "US": "55640"
+            },
+            "Malta": {
+                "Total": "45,539",
+                "US": "1505"
+            },
+            "Montenegro": {
+                "Total": "70,984",
+                "US": "272"
+            },
+            "Portugal": {
+                "Total": "880,188",
+                "US": "7080"
+            },
+            "Serbia": {
+                "Total": "801,903",
+                "US": "1277"
+            },
+            "Slovenia": {
+                "Total": "244,790",
+                "US": "575"
+            },
+            "Spain": {
+                "Total": "5,947,106",
+                "US": "42692"
+            },
+            "Austria": {
+                "Total": "1,660,283",
+                "US": "12172"
+            },
+            "Belgium": {
+                "Total": "1,268,411",
+                "US": "12779"
+            },
+            "France": {
+                "Total": "7,902,783",
+                "US": "54724"
+            },
+            "Germany": {
+                "Total": "12,165,083",
+                "US": "138039"
+            },
+            "Liechtenstein": {
+                "Total": "24,683",
+                "US": "135"
+            },
+            "Luxembourg": {
+                "Total": "264,073",
+                "US": "1162"
+            },
+            "Netherlands": {
+                "Total": "2,056,520",
+                "US": "30259"
+            },
+            "Switzerland": {
+                "Total": "2,506,394",
+                "US": "39775"
+            },
+            "Anguilla": {
+                "Total": "5,579",
+                "US": "877"
+            },
+            "Antigua and Barbuda": {
+                "Total": "28,646",
+                "US": "3403"
+            },
+            "Aruba": {
+                "Total": "36,356",
+                "US": "616"
+            },
+            "Bahamas": {
+                "Total": "61,806",
+                "US": "10071"
+            },
+            "Barbados": {
+                "Total": "34,660",
+                "US": "1039"
+            },
+            "British Virgin Islands": {
+                "Total": "19,959",
+                "US": "1796"
+            },
+            "Caribbean Netherlands": {
+                "Total": "13,508",
+                "US": "610"
+            },
+            "Cayman Islands": {
+                "Total": "24,355",
+                "US": "2676"
+            },
+            "Cuba": {
+                "Total": "13,136",
+                "US": "492"
+            },
+            "Curacao": {
+                "Total": "38,396",
+                "US": "364"
+            },
+            "Dominica": {
+                "Total": "6,782",
+                "US": "628"
+            },
+            "Dominican Republic": {
+                "Total": "424,964",
+                "US": "26480"
+            },
+            "Grenada": {
+                "Total": "7,124",
+                "US": "710"
+            },
+            "Guadeloupe": {
+                "Total": "99,350",
+                "US": "500"
+            },
+            "Haiti": {
+                "Total": "40,533",
+                "US": "3412"
+            },
+            "Jamaica": {
+                "Total": "23,332",
+                "US": "6237"
+            },
+            "Montserrat": {
+                "Total": "1,364",
+                "US": "122"
+            },
+            "Puerto Rico": {
+                "Total": "273,494",
+                "US": "161447"
+            },
+            "Saint Kitts and Nevis": {
+                "Total": "7,587",
+                "US": "624"
+            },
+            "Saint Lucia": {
+                "Total": "12,889",
+                "US": "689"
+            },
+            "Saint Vincent and the Grenadines": {
+                "Total": "4,595",
+                "US": "339"
+            },
+            "Sint Maarten (Dutch part)": {
+                "Total": "28,260",
+                "US": "395"
+            },
+            "Trinidad and Tobago": {
+                "Total": "50,214",
+                "US": "5836"
+            },
+            "Turks and Caicos Islands": {
+                "Total": "24,534",
+                "US": "998"
+            },
+            "United States Virgin Islands": {
+                "Total": "56,745",
+                "US": "16868"
+            },
+            "Belize": {
+                "Total": "59,998",
+                "US": "4429"
+            },
+            "Costa Rica": {
+                "Total": "414,214",
+                "US": "12757"
+            },
+            "El Salvador": {
+                "Total": "42,323",
+                "US": "5432"
+            },
+            "Guatemala": {
+                "Total": "81,528",
+                "US": "8993"
+            },
+            "Honduras": {
+                "Total": "38,700",
+                "US": "6866"
+            },
+            "Mexico": {
+                "Total": "1,224,169",
+                "US": "899311"
+            },
+            "Nicaragua": {
+                "Total": "41,159",
+                "US": "3686"
+            },
+            "Panama": {
+                "Total": "190,728",
+                "US": "14497"
+            },
+            "Argentina": {
+                "Total": "2,164,524",
+                "US": "5327"
+            },
+            "Bolivia (Plurinational State of)": {
+                "Total": "148,837",
+                "US": "5096"
+            },
+            "Brazil": {
+                "Total": "735,557",
+                "US": "21626"
+            },
+            "Chile": {
+                "Total": "488,571",
+                "US": "8388"
+            },
+            "Colombia": {
+                "Total": "142,319",
+                "US": "20140"
+            },
+            "Ecuador": {
+                "Total": "399,068",
+                "US": "27601"
+            },
+            "Falkland Islands (Malvinas)": {
+                "Total": "1,579",
+                "US": "19"
+            },
+            "Guyana": {
+                "Total": "15,530",
+                "US": "1266"
+            },
+            "Paraguay": {
+                "Total": "160,519",
+                "US": "1616"
+            },
+            "Peru": {
+                "Total": "93,780",
+                "US": "10100"
+            },
+            "Uruguay": {
+                "Total": "79,586",
+                "US": "630"
+            },
+            "Venezuela (Bolivarian Republic of)": {
+                "Total": "1,426,336",
+                "US": "11417"
+            },
+            "Bermuda": {
+                "Total": "18,954",
+                "US": "3495"
+            },
+            "Canada": {
+                "Total": "7,861,226",
+                "US": "306385"
+            },
+            "Greenland": {
+                "Total": "6,014",
+                "US": "39"
+            },
+            "Saint Pierre and Miquelon": {
+                "Total": "990",
+                "US": "63"
+            },
+            "Australia": {
+                "Total": "7,035,560",
+                "US": "116001"
+            },
+            "New Zealand": {
+                "Total": "1,067,423",
+                "US": "22893"
+            },
+            "Papua New Guinea": {
+                "Total": "32,389",
+                "US": "769"
+            },
+            "Solomon Islands": {
+                "Total": "2,532",
+                "US": "28"
+            },
+            "Guam": {
+                "Total": "78,027",
+                "US": "18979"
+            },
+            "Kiribati": {
+                "Total": "3,022",
+                "US": "41"
+            },
+            "Marshall Islands": {
+                "Total": "3,292",
+                "US": "1433"
+            },
+            "Micronesia (Fed. States of)": {
+                "Total": "2,785",
+                "US": "173"
+            },
+            "Northern Mariana Islands": {
+                "Total": "21,777",
+                "US": "1256"
+            },
+            "Palau": {
+                "Total": "4,988",
+                "US": "327"
+            },
+            "American Samoa": {
+                "Total": "23,561",
+                "US": "2553"
+            },
+            "Cook Islands": {
+                "Total": "4,213",
+                "US": "32"
+            },
+            "French Polynesia": {
+                "Total": "30,687",
+                "US": "427"
+            },
+            "Niue": {
+                "Total": "553",
+                "US": "19"
+            },
+            "Samoa": {
+                "Total": "4,879",
+                "US": "363"
+            },
+            "Tuvalu": {
+                "Total": "143",
+                "US": "17"
+            }
+        }
+    }
+}

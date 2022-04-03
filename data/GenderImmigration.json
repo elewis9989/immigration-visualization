@@ -1,0 +1,4286 @@
+var genderData = {
+    "1990": {
+        "Immigration": {
+            "Other North": {
+                "Male": "77107",
+                "Female": "118483"
+            },
+            "Other South": {
+                "Male": "1585134",
+                "Female": "1335512"
+            },
+            "Afghanistan": {
+                "Male": "15757",
+                "Female": "12687"
+            },
+            "Albania": {
+                "Male": "3220",
+                "Female": "2407"
+            },
+            "Algeria": {
+                "Male": "2955",
+                "Female": "1674"
+            },
+            "Angola": {
+                "Male": "845",
+                "Female": "1407"
+            },
+            "Antigua and Barbuda": {
+                "Male": "5305",
+                "Female": "6717"
+            },
+            "Argentina": {
+                "Male": "43141",
+                "Female": "49422"
+            },
+            "Armenia": {
+                "Male": "20290",
+                "Female": "21191"
+            },
+            "Aruba": {
+                "Male": "1351",
+                "Female": "2012"
+            },
+            "Australia": {
+                "Male": "14292",
+                "Female": "27975"
+            },
+            "Austria": {
+                "Male": "31407",
+                "Female": "56266"
+            },
+            "Azerbaijan": {
+                "Male": "4415",
+                "Female": "4611"
+            },
+            "Bahamas": {
+                "Male": "8852",
+                "Female": "12781"
+            },
+            "Bangladesh": {
+                "Male": "14219",
+                "Female": "7195"
+            },
+            "Barbados": {
+                "Male": "19387",
+                "Female": "23628"
+            },
+            "Belarus": {
+                "Male": "10556",
+                "Female": "11023"
+            },
+            "Belgium": {
+                "Male": "11132",
+                "Female": "23234"
+            },
+            "Belize": {
+                "Male": "12356",
+                "Female": "17601"
+            },
+            "Bermuda": {
+                "Male": "3900",
+                "Female": "4072"
+            },
+            "Bolivia (Plurinational State of)": {
+                "Male": "15312",
+                "Female": "15991"
+            },
+            "Bosnia and Herzegovina": {
+                "Male": "27076",
+                "Female": "28278"
+            },
+            "Brazil": {
+                "Male": "32922",
+                "Female": "49567"
+            },
+            "Bulgaria": {
+                "Male": "4383",
+                "Female": "4196"
+            },
+            "Cabo Verde": {
+                "Male": "6561",
+                "Female": "7807"
+            },
+            "Cambodia": {
+                "Male": "54772",
+                "Female": "64061"
+            },
+            "Cameroon": {
+                "Male": "1717",
+                "Female": "1444"
+            },
+            "Canada": {
+                "Male": "245893",
+                "Female": "498937"
+            },
+            "Chile": {
+                "Male": "23396",
+                "Female": "32285"
+            },
+            "China": {
+                "Male": "378564",
+                "Female": "395375"
+            },
+            "China, Hong Kong SAR": {
+                "Male": "71968",
+                "Female": "75163"
+            },
+            "China, Macao SAR": {
+                "Male": "2499",
+                "Female": "2608"
+            },
+            "Colombia": {
+                "Male": "125806",
+                "Female": "160318"
+            },
+            "Costa Rica": {
+                "Male": "17377",
+                "Female": "26153"
+            },
+            "C\u00f4te d'Ivoire": {
+                "Male": "907",
+                "Female": "481"
+            },
+            "Croatia": {
+                "Male": "11215",
+                "Female": "11712"
+            },
+            "Cuba": {
+                "Male": "351002",
+                "Female": "385969"
+            },
+            "Cyprus": {
+                "Male": "5678",
+                "Female": "4382"
+            },
+            "Czechia": {
+                "Male": "42565",
+                "Female": "44455"
+            },
+            "Democratic Republic of the Congo": {
+                "Male": "1657",
+                "Female": "1730"
+            },
+            "Denmark": {
+                "Male": "12921",
+                "Female": "22078"
+            },
+            "Dominica": {
+                "Male": "9374",
+                "Female": "10155"
+            },
+            "Dominican Republic": {
+                "Male": "154429",
+                "Female": "193429"
+            },
+            "Ecuador": {
+                "Male": "71263",
+                "Female": "72051"
+            },
+            "Egypt": {
+                "Male": "37580",
+                "Female": "28733"
+            },
+            "El Salvador": {
+                "Male": "236909",
+                "Female": "228524"
+            },
+            "Eritrea": {
+                "Male": "5445",
+                "Female": "5686"
+            },
+            "Estonia": {
+                "Male": "4442",
+                "Female": "4768"
+            },
+            "Ethiopia": {
+                "Male": "18499",
+                "Female": "16306"
+            },
+            "Fiji": {
+                "Male": "7496",
+                "Female": "8439"
+            },
+            "Finland": {
+                "Male": "7471",
+                "Female": "14842"
+            },
+            "France": {
+                "Male": "58322",
+                "Female": "60911"
+            },
+            "Gambia": {
+                "Male": "727",
+                "Female": "758"
+            },
+            "Georgia": {
+                "Male": "3272",
+                "Female": "3417"
+            },
+            "Germany": {
+                "Male": "348233",
+                "Female": "363696"
+            },
+            "Ghana": {
+                "Male": "13132",
+                "Female": "7757"
+            },
+            "Greece": {
+                "Male": "90721",
+                "Female": "86677"
+            },
+            "Grenada": {
+                "Male": "7664",
+                "Female": "10066"
+            },
+            "Guatemala": {
+                "Male": "113994",
+                "Female": "111745"
+            },
+            "Guinea": {
+                "Male": "505",
+                "Female": "527"
+            },
+            "Guyana": {
+                "Male": "57013",
+                "Female": "63685"
+            },
+            "Haiti": {
+                "Male": "112330",
+                "Female": "113063"
+            },
+            "Honduras": {
+                "Male": "46067",
+                "Female": "62856"
+            },
+            "Hungary": {
+                "Male": "52805",
+                "Female": "57532"
+            },
+            "Iceland": {
+                "Male": "2481",
+                "Female": "2590"
+            },
+            "India": {
+                "Male": "238925",
+                "Female": "211481"
+            },
+            "Indonesia": {
+                "Male": "24589",
+                "Female": "23798"
+            },
+            "Iran (Islamic Republic of)": {
+                "Male": "119568",
+                "Female": "91373"
+            },
+            "Iraq": {
+                "Male": "25595",
+                "Female": "19321"
+            },
+            "Ireland": {
+                "Male": "66010",
+                "Female": "103817"
+            },
+            "Israel": {
+                "Male": "43723",
+                "Female": "42325"
+            },
+            "Italy": {
+                "Male": "255422",
+                "Female": "325170"
+            },
+            "Jamaica": {
+                "Male": "145948",
+                "Female": "188192"
+            },
+            "Japan": {
+                "Male": "141913",
+                "Female": "148215"
+            },
+            "Jordan": {
+                "Male": "20409",
+                "Female": "11462"
+            },
+            "Kazakhstan": {
+                "Male": "2845",
+                "Female": "2971"
+            },
+            "Kenya": {
+                "Male": "7416",
+                "Female": "6955"
+            },
+            "Kuwait": {
+                "Male": "4348",
+                "Female": "4541"
+            },
+            "Kyrgyzstan": {
+                "Male": "739",
+                "Female": "770"
+            },
+            "Lao People's Democratic Republic": {
+                "Male": "85842",
+                "Female": "85735"
+            },
+            "Latvia": {
+                "Male": "10105",
+                "Female": "16074"
+            },
+            "Lebanon": {
+                "Male": "46758",
+                "Female": "39611"
+            },
+            "Liberia": {
+                "Male": "5432",
+                "Female": "6023"
+            },
+            "Libya": {
+                "Male": "1975",
+                "Female": "2062"
+            },
+            "Lithuania": {
+                "Male": "12677",
+                "Female": "17068"
+            },
+            "Luxembourg": {
+                "Male": "1005",
+                "Female": "1048"
+            },
+            "Malaysia": {
+                "Male": "18084",
+                "Female": "15750"
+            },
+            "Malta": {
+                "Male": "4860",
+                "Female": "4754"
+            },
+            "Marshall Islands": {
+                "Male": "532",
+                "Female": "554"
+            },
+            "Mexico": {
+                "Male": "2315850",
+                "Female": "1982164"
+            },
+            "Micronesia (Fed. States of)": {
+                "Male": "1341",
+                "Female": "1400"
+            },
+            "Montserrat": {
+                "Male": "1501",
+                "Female": "1992"
+            },
+            "Morocco": {
+                "Male": "6941",
+                "Female": "8600"
+            },
+            "Myanmar": {
+                "Male": "9741",
+                "Female": "10094"
+            },
+            "Nepal": {
+                "Male": "1527",
+                "Female": "735"
+            },
+            "Netherlands": {
+                "Male": "44136",
+                "Female": "52062"
+            },
+            "New Zealand": {
+                "Male": "5964",
+                "Female": "9451"
+            },
+            "Nicaragua": {
+                "Male": "80771",
+                "Female": "87888"
+            },
+            "Nigeria": {
+                "Male": "36436",
+                "Female": "18914"
+            },
+            "Norway": {
+                "Male": "17626",
+                "Female": "24614"
+            },
+            "Pakistan": {
+                "Male": "59445",
+                "Female": "32444"
+            },
+            "Panama": {
+                "Male": "41938",
+                "Female": "43799"
+            },
+            "Paraguay": {
+                "Male": "1945",
+                "Female": "4112"
+            },
+            "Peru": {
+                "Male": "67084",
+                "Female": "77115"
+            },
+            "Philippines": {
+                "Male": "352063",
+                "Female": "560611"
+            },
+            "Poland": {
+                "Male": "178287",
+                "Female": "210041"
+            },
+            "Portugal": {
+                "Male": "99365",
+                "Female": "110757"
+            },
+            "Puerto Rico": {
+                "Male": "565005",
+                "Female": "615378"
+            },
+            "Republic of Korea": {
+                "Male": "278026",
+                "Female": "290371"
+            },
+            "Republic of Moldova": {
+                "Male": "5348",
+                "Female": "5584"
+            },
+            "Romania": {
+                "Male": "42684",
+                "Female": "48422"
+            },
+            "Russian Federation": {
+                "Male": "93257",
+                "Female": "97397"
+            },
+            "Saint Kitts and Nevis": {
+                "Male": "3240",
+                "Female": "4207"
+            },
+            "Saint Lucia": {
+                "Male": "2955",
+                "Female": "4004"
+            },
+            "Saint Vincent and the Grenadines": {
+                "Male": "6579",
+                "Female": "6245"
+            },
+            "Samoa": {
+                "Male": "5581",
+                "Female": "5827"
+            },
+            "Saudi Arabia": {
+                "Male": "5530",
+                "Female": "7102"
+            },
+            "Senegal": {
+                "Male": "1576",
+                "Female": "711"
+            },
+            "Serbia": {
+                "Male": "2819",
+                "Female": "2944"
+            },
+            "Sierra Leone": {
+                "Male": "3972",
+                "Female": "3245"
+            },
+            "Singapore": {
+                "Male": "5219",
+                "Female": "7670"
+            },
+            "Slovenia": {
+                "Male": "1638",
+                "Female": "1709"
+            },
+            "Somalia": {
+                "Male": "1193",
+                "Female": "1244"
+            },
+            "South Africa": {
+                "Male": "16657",
+                "Female": "18050"
+            },
+            "Spain": {
+                "Male": "22953",
+                "Female": "53462"
+            },
+            "Sri Lanka": {
+                "Male": "7906",
+                "Female": "6116"
+            },
+            "State of Palestine": {
+                "Male": "10307",
+                "Female": "10763"
+            },
+            "Sudan": {
+                "Male": "2606",
+                "Female": "1817"
+            },
+            "Suriname": {
+                "Male": "1403",
+                "Female": "1457"
+            },
+            "Sweden": {
+                "Male": "21747",
+                "Female": "31929"
+            },
+            "Switzerland": {
+                "Male": "16263",
+                "Female": "22867"
+            },
+            "Syrian Arab Republic": {
+                "Male": "21141",
+                "Female": "15641"
+            },
+            "Tajikistan": {
+                "Male": "829",
+                "Female": "864"
+            },
+            "TFYR Macedonia": {
+                "Male": "5121",
+                "Female": "5348"
+            },
+            "Thailand": {
+                "Male": "39426",
+                "Female": "67493"
+            },
+            "Tonga": {
+                "Male": "5110",
+                "Female": "5558"
+            },
+            "Trinidad and Tobago": {
+                "Male": "49452",
+                "Female": "66258"
+            },
+            "Tunisia": {
+                "Male": "2283",
+                "Female": "1818"
+            },
+            "Turkey": {
+                "Male": "23987",
+                "Female": "31100"
+            },
+            "Turkmenistan": {
+                "Male": "279",
+                "Female": "290"
+            },
+            "Uganda": {
+                "Male": "2845",
+                "Female": "3839"
+            },
+            "Ukraine": {
+                "Male": "75431",
+                "Female": "78780"
+            },
+            "United Arab Emirates": {
+                "Male": "1040",
+                "Female": "616"
+            },
+            "United Kingdom": {
+                "Male": "313120",
+                "Female": "327025"
+            },
+            "United Republic of Tanzania": {
+                "Male": "3217",
+                "Female": "3065"
+            },
+            "Uruguay": {
+                "Male": "9095",
+                "Female": "11671"
+            },
+            "Uzbekistan": {
+                "Male": "7158",
+                "Female": "7475"
+            },
+            "Venezuela (Bolivarian Republic of)": {
+                "Male": "16260",
+                "Female": "25859"
+            },
+            "Viet Nam": {
+                "Male": "279380",
+                "Female": "263882"
+            },
+            "Yemen": {
+                "Male": "3174",
+                "Female": "1759"
+            },
+            "Zambia": {
+                "Male": "1358",
+                "Female": "1596"
+            },
+            "Zimbabwe": {
+                "Male": "2148",
+                "Female": "2619"
+            }
+        }
+    },
+    "1995": {
+        "Immigration": {
+            "Other North": {
+                "Male": "7026",
+                "Female": "118483"
+            },
+            "Other South": {
+                "Male": "1021285",
+                "Female": "1335512"
+            },
+            "Afghanistan": {
+                "Male": "20837",
+                "Female": "12687"
+            },
+            "Albania": {
+                "Male": "12978",
+                "Female": "2407"
+            },
+            "Algeria": {
+                "Male": "5051",
+                "Female": "1674"
+            },
+            "Angola": {
+                "Male": "1281",
+                "Female": "1407"
+            },
+            "Antigua and Barbuda": {
+                "Male": "6872",
+                "Female": "6717"
+            },
+            "Argentina": {
+                "Male": "50987",
+                "Female": "49422"
+            },
+            "Armenia": {
+                "Male": "26738",
+                "Female": "21191"
+            },
+            "Aruba": {
+                "Male": "1479",
+                "Female": "2012"
+            },
+            "Australia": {
+                "Male": "18023",
+                "Female": "27975"
+            },
+            "Austria": {
+                "Male": "27812",
+                "Female": "56266"
+            },
+            "Azerbaijan": {
+                "Male": "5818",
+                "Female": "4611"
+            },
+            "Bahamas": {
+                "Male": "10444",
+                "Female": "12781"
+            },
+            "Bangladesh": {
+                "Male": "39530",
+                "Female": "7195"
+            },
+            "Barbados": {
+                "Male": "21977",
+                "Female": "23628"
+            },
+            "Belarus": {
+                "Male": "15055",
+                "Female": "11023"
+            },
+            "Belgium": {
+                "Male": "11395",
+                "Female": "23234"
+            },
+            "Belize": {
+                "Male": "14849",
+                "Female": "17601"
+            },
+            "Bermuda": {
+                "Male": "4089",
+                "Female": "4072"
+            },
+            "Bolivia (Plurinational State of)": {
+                "Male": "21190",
+                "Female": "15991"
+            },
+            "Bosnia and Herzegovina": {
+                "Male": "38616",
+                "Female": "28278"
+            },
+            "Brazil": {
+                "Male": "58786",
+                "Female": "49567"
+            },
+            "Bulgaria": {
+                "Male": "11447",
+                "Female": "4196"
+            },
+            "Cabo Verde": {
+                "Male": "9600",
+                "Female": "7807"
+            },
+            "Cambodia": {
+                "Male": "60359",
+                "Female": "64061"
+            },
+            "Cameroon": {
+                "Male": "4152",
+                "Female": "1444"
+            },
+            "Canada": {
+                "Male": "263738",
+                "Female": "498937"
+            },
+            "Chile": {
+                "Male": "29448",
+                "Female": "32285"
+            },
+            "China": {
+                "Male": "519973",
+                "Female": "395375"
+            },
+            "China, Hong Kong SAR": {
+                "Male": "87787",
+                "Female": "75163"
+            },
+            "China, Macao SAR": {
+                "Male": "2961",
+                "Female": "2608"
+            },
+            "Colombia": {
+                "Male": "179708",
+                "Female": "160318"
+            },
+            "Costa Rica": {
+                "Male": "23701",
+                "Female": "26153"
+            },
+            "C\u00f4te d'Ivoire": {
+                "Male": "2855",
+                "Female": "481"
+            },
+            "Croatia": {
+                "Male": "15891",
+                "Female": "11712"
+            },
+            "Cuba": {
+                "Male": "389993",
+                "Female": "385969"
+            },
+            "Cyprus": {
+                "Male": "6088",
+                "Female": "4382"
+            },
+            "Czechia": {
+                "Male": "42514",
+                "Female": "44455"
+            },
+            "Democratic Republic of the Congo": {
+                "Male": "2098",
+                "Female": "1730"
+            },
+            "Denmark": {
+                "Male": "12592",
+                "Female": "22078"
+            },
+            "Dominica": {
+                "Male": "8621",
+                "Female": "10155"
+            },
+            "Dominican Republic": {
+                "Male": "230385",
+                "Female": "193429"
+            },
+            "Ecuador": {
+                "Male": "112591",
+                "Female": "72051"
+            },
+            "Egypt": {
+                "Male": "52011",
+                "Female": "28733"
+            },
+            "El Salvador": {
+                "Male": "332169",
+                "Female": "228524"
+            },
+            "Eritrea": {
+                "Male": "7176",
+                "Female": "5686"
+            },
+            "Estonia": {
+                "Male": "4685",
+                "Female": "4768"
+            },
+            "Ethiopia": {
+                "Male": "28370",
+                "Female": "16306"
+            },
+            "Fiji": {
+                "Male": "11296",
+                "Female": "8439"
+            },
+            "Finland": {
+                "Male": "7536",
+                "Female": "14842"
+            },
+            "France": {
+                "Male": "67657",
+                "Female": "60911"
+            },
+            "Gambia": {
+                "Male": "1823",
+                "Female": "758"
+            },
+            "Georgia": {
+                "Male": "4313",
+                "Female": "3417"
+            },
+            "Germany": {
+                "Male": "352821",
+                "Female": "363696"
+            },
+            "Ghana": {
+                "Male": "27742",
+                "Female": "7757"
+            },
+            "Greece": {
+                "Male": "89596",
+                "Female": "86677"
+            },
+            "Grenada": {
+                "Male": "10433",
+                "Female": "10066"
+            },
+            "Guatemala": {
+                "Male": "181531",
+                "Female": "111745"
+            },
+            "Guinea": {
+                "Male": "1532",
+                "Female": "527"
+            },
+            "Guyana": {
+                "Male": "79804",
+                "Female": "63685"
+            },
+            "Haiti": {
+                "Male": "163499",
+                "Female": "113063"
+            },
+            "Honduras": {
+                "Male": "85305",
+                "Female": "62856"
+            },
+            "Hungary": {
+                "Male": "49472",
+                "Female": "57532"
+            },
+            "Iceland": {
+                "Male": "2658",
+                "Female": "2590"
+            },
+            "India": {
+                "Male": "397485",
+                "Female": "211481"
+            },
+            "Indonesia": {
+                "Male": "31437",
+                "Female": "23798"
+            },
+            "Iran (Islamic Republic of)": {
+                "Male": "142340",
+                "Female": "91373"
+            },
+            "Iraq": {
+                "Male": "39244",
+                "Female": "19321"
+            },
+            "Ireland": {
+                "Male": "65065",
+                "Female": "103817"
+            },
+            "Israel": {
+                "Male": "50853",
+                "Female": "42325"
+            },
+            "Italy": {
+                "Male": "235839",
+                "Female": "325170"
+            },
+            "Jamaica": {
+                "Male": "197556",
+                "Female": "188192"
+            },
+            "Japan": {
+                "Male": "159521",
+                "Female": "148215"
+            },
+            "Jordan": {
+                "Male": "25664",
+                "Female": "11462"
+            },
+            "Kazakhstan": {
+                "Male": "3750",
+                "Female": "2971"
+            },
+            "Kenya": {
+                "Male": "14558",
+                "Female": "6955"
+            },
+            "Kuwait": {
+                "Male": "7337",
+                "Female": "4541"
+            },
+            "Kyrgyzstan": {
+                "Male": "974",
+                "Female": "770"
+            },
+            "Lao People's Democratic Republic": {
+                "Male": "96133",
+                "Female": "85735"
+            },
+            "Latvia": {
+                "Male": "10586",
+                "Female": "16074"
+            },
+            "Lebanon": {
+                "Male": "53149",
+                "Female": "39611"
+            },
+            "Liberia": {
+                "Male": "12300",
+                "Female": "6023"
+            },
+            "Libya": {
+                "Male": "2354",
+                "Female": "2062"
+            },
+            "Lithuania": {
+                "Male": "12713",
+                "Female": "17068"
+            },
+            "Luxembourg": {
+                "Male": "1052",
+                "Female": "1048"
+            },
+            "Malaysia": {
+                "Male": "22750",
+                "Female": "15750"
+            },
+            "Malta": {
+                "Male": "4690",
+                "Female": "4754"
+            },
+            "Marshall Islands": {
+                "Male": "1864",
+                "Female": "554"
+            },
+            "Mexico": {
+                "Male": "3692951",
+                "Female": "1982164"
+            },
+            "Micronesia (Fed. States of)": {
+                "Male": "2467",
+                "Female": "1400"
+            },
+            "Montserrat": {
+                "Male": "1630",
+                "Female": "1992"
+            },
+            "Morocco": {
+                "Male": "11525",
+                "Female": "8600"
+            },
+            "Myanmar": {
+                "Male": "13182",
+                "Female": "10094"
+            },
+            "Nepal": {
+                "Male": "4812",
+                "Female": "735"
+            },
+            "Netherlands": {
+                "Male": "44777",
+                "Female": "52062"
+            },
+            "New Zealand": {
+                "Male": "7623",
+                "Female": "9451"
+            },
+            "Nicaragua": {
+                "Male": "94776",
+                "Female": "87888"
+            },
+            "Nigeria": {
+                "Male": "63852",
+                "Female": "18914"
+            },
+            "Norway": {
+                "Male": "15898",
+                "Female": "24614"
+            },
+            "Pakistan": {
+                "Male": "104027",
+                "Female": "32444"
+            },
+            "Panama": {
+                "Male": "47766",
+                "Female": "43799"
+            },
+            "Paraguay": {
+                "Male": "3002",
+                "Female": "4112"
+            },
+            "Peru": {
+                "Male": "98574",
+                "Female": "77115"
+            },
+            "Philippines": {
+                "Male": "448777",
+                "Female": "560611"
+            },
+            "Poland": {
+                "Male": "199761",
+                "Female": "210041"
+            },
+            "Portugal": {
+                "Male": "99914",
+                "Female": "110757"
+            },
+            "Puerto Rico": {
+                "Male": "627381",
+                "Female": "615378"
+            },
+            "Republic of Korea": {
+                "Male": "356510",
+                "Female": "290371"
+            },
+            "Republic of Moldova": {
+                "Male": "7628",
+                "Female": "5584"
+            },
+            "Romania": {
+                "Male": "54506",
+                "Female": "48422"
+            },
+            "Russian Federation": {
+                "Male": "132138",
+                "Female": "97397"
+            },
+            "Saint Kitts and Nevis": {
+                "Male": "4131",
+                "Female": "4207"
+            },
+            "Saint Lucia": {
+                "Male": "4473",
+                "Female": "4004"
+            },
+            "Saint Vincent and the Grenadines": {
+                "Male": "8610",
+                "Female": "6245"
+            },
+            "Samoa": {
+                "Male": "6973",
+                "Female": "5827"
+            },
+            "Saudi Arabia": {
+                "Male": "7577",
+                "Female": "7102"
+            },
+            "Senegal": {
+                "Male": "4504",
+                "Female": "711"
+            },
+            "Serbia": {
+                "Male": "4022",
+                "Female": "2944"
+            },
+            "Sierra Leone": {
+                "Male": "7900",
+                "Female": "3245"
+            },
+            "Singapore": {
+                "Male": "7007",
+                "Female": "7670"
+            },
+            "Slovenia": {
+                "Male": "2336",
+                "Female": "1709"
+            },
+            "Somalia": {
+                "Male": "9625",
+                "Female": "1244"
+            },
+            "South Africa": {
+                "Male": "24170",
+                "Female": "18050"
+            },
+            "Spain": {
+                "Male": "23859",
+                "Female": "53462"
+            },
+            "Sri Lanka": {
+                "Male": "11315",
+                "Female": "6116"
+            },
+            "State of Palestine": {
+                "Male": "11543",
+                "Female": "10763"
+            },
+            "Sudan": {
+                "Male": "7296",
+                "Female": "1817"
+            },
+            "Suriname": {
+                "Male": "2120",
+                "Female": "1457"
+            },
+            "Sweden": {
+                "Male": "21475",
+                "Female": "31929"
+            },
+            "Switzerland": {
+                "Male": "17528",
+                "Female": "22867"
+            },
+            "Syrian Arab Republic": {
+                "Male": "26795",
+                "Female": "15641"
+            },
+            "Tajikistan": {
+                "Male": "1093",
+                "Female": "864"
+            },
+            "TFYR Macedonia": {
+                "Male": "7303",
+                "Female": "5348"
+            },
+            "Thailand": {
+                "Male": "50990",
+                "Female": "67493"
+            },
+            "Tonga": {
+                "Male": "6855",
+                "Female": "5558"
+            },
+            "Trinidad and Tobago": {
+                "Male": "67051",
+                "Female": "66258"
+            },
+            "Tunisia": {
+                "Male": "2966",
+                "Female": "1818"
+            },
+            "Turkey": {
+                "Male": "29814",
+                "Female": "31100"
+            },
+            "Turkmenistan": {
+                "Male": "368",
+                "Female": "290"
+            },
+            "Uganda": {
+                "Male": "4029",
+                "Female": "3839"
+            },
+            "Ukraine": {
+                "Male": "106881",
+                "Female": "78780"
+            },
+            "United Arab Emirates": {
+                "Male": "2694",
+                "Female": "616"
+            },
+            "United Kingdom": {
+                "Male": "327800",
+                "Female": "327025"
+            },
+            "United Republic of Tanzania": {
+                "Male": "4632",
+                "Female": "3065"
+            },
+            "Uruguay": {
+                "Male": "10283",
+                "Female": "11671"
+            },
+            "Uzbekistan": {
+                "Male": "9433",
+                "Female": "7475"
+            },
+            "Venezuela (Bolivarian Republic of)": {
+                "Male": "29717",
+                "Female": "25859"
+            },
+            "Viet Nam": {
+                "Male": "400638",
+                "Female": "263882"
+            },
+            "Yemen": {
+                "Male": "7927",
+                "Female": "1759"
+            },
+            "Zambia": {
+                "Male": "2109",
+                "Female": "1596"
+            },
+            "Zimbabwe": {
+                "Male": "3577",
+                "Female": "2619"
+            }
+        }
+    },
+    "2000": {
+        "Immigration": {
+            "Other North": {
+                "Male": "6661",
+                "Female": "6789"
+            },
+            "Other South": {
+                "Male": "939619",
+                "Female": "703043"
+            },
+            "Afghanistan": {
+                "Male": "26035",
+                "Female": "20307"
+            },
+            "Albania": {
+                "Male": "22984",
+                "Female": "16660"
+            },
+            "Algeria": {
+                "Male": "7195",
+                "Female": "3963"
+            },
+            "Angola": {
+                "Male": "1729",
+                "Female": "2746"
+            },
+            "Antigua and Barbuda": {
+                "Male": "8477",
+                "Female": "10312"
+            },
+            "Argentina": {
+                "Male": "59027",
+                "Female": "69370"
+            },
+            "Armenia": {
+                "Male": "33343",
+                "Female": "33594"
+            },
+            "Aruba": {
+                "Male": "1613",
+                "Female": "2297"
+            },
+            "Australia": {
+                "Male": "21865",
+                "Female": "40648"
+            },
+            "Austria": {
+                "Male": "24116",
+                "Female": "41148"
+            },
+            "Azerbaijan": {
+                "Male": "7256",
+                "Female": "7309"
+            },
+            "Bahamas": {
+                "Male": "12079",
+                "Female": "16709"
+            },
+            "Bangladesh": {
+                "Male": "65460",
+                "Female": "32253"
+            },
+            "Barbados": {
+                "Male": "24628",
+                "Female": "28868"
+            },
+            "Belarus": {
+                "Male": "19668",
+                "Female": "19812"
+            },
+            "Belgium": {
+                "Male": "11671",
+                "Female": "23084"
+            },
+            "Belize": {
+                "Male": "17407",
+                "Female": "23763"
+            },
+            "Bermuda": {
+                "Male": "4280",
+                "Female": "4311"
+            },
+            "Bolivia (Plurinational State of)": {
+                "Male": "27213",
+                "Female": "27417"
+            },
+            "Bosnia and Herzegovina": {
+                "Male": "50447",
+                "Female": "50826"
+            },
+            "Brazil": {
+                "Male": "85377",
+                "Female": "132445"
+            },
+            "Bulgaria": {
+                "Male": "18693",
+                "Female": "17288"
+            },
+            "Cabo Verde": {
+                "Male": "12719",
+                "Female": "14562"
+            },
+            "Cambodia": {
+                "Male": "66069",
+                "Female": "74387"
+            },
+            "Cameroon": {
+                "Male": "6650",
+                "Female": "5413"
+            },
+            "Canada": {
+                "Male": "282210",
+                "Female": "559402"
+            },
+            "Chile": {
+                "Male": "35658",
+                "Female": "47197"
+            },
+            "China": {
+                "Male": "664923",
+                "Female": "683542"
+            },
+            "China, Hong Kong SAR": {
+                "Male": "103982",
+                "Female": "104767"
+            },
+            "China, Macao SAR": {
+                "Male": "3433",
+                "Female": "3455"
+            },
+            "Colombia": {
+                "Male": "235026",
+                "Female": "287793"
+            },
+            "Costa Rica": {
+                "Male": "30197",
+                "Female": "43497"
+            },
+            "C\u00f4te d'Ivoire": {
+                "Male": "4852",
+                "Female": "2503"
+            },
+            "Croatia": {
+                "Male": "20685",
+                "Female": "21261"
+            },
+            "Cuba": {
+                "Male": "429838",
+                "Female": "465038"
+            },
+            "Cyprus": {
+                "Male": "6504",
+                "Female": "4864"
+            },
+            "Czechia": {
+                "Male": "42435",
+                "Female": "42755"
+            },
+            "Democratic Republic of the Congo": {
+                "Male": "2549",
+                "Female": "2566"
+            },
+            "Denmark": {
+                "Male": "12252",
+                "Female": "19967"
+            },
+            "Dominica": {
+                "Male": "7845",
+                "Female": "8191"
+            },
+            "Dominican Republic": {
+                "Male": "308374",
+                "Female": "396765"
+            },
+            "Ecuador": {
+                "Male": "154967",
+                "Female": "151241"
+            },
+            "Egypt": {
+                "Male": "66779",
+                "Female": "49496"
+            },
+            "El Salvador": {
+                "Male": "429782",
+                "Female": "408308"
+            },
+            "Eritrea": {
+                "Male": "8949",
+                "Female": "9013"
+            },
+            "Estonia": {
+                "Male": "4931",
+                "Female": "5102"
+            },
+            "Ethiopia": {
+                "Male": "38482",
+                "Female": "32814"
+            },
+            "Fiji": {
+                "Male": "15196",
+                "Female": "16478"
+            },
+            "Finland": {
+                "Male": "7607",
+                "Female": "14344"
+            },
+            "France": {
+                "Male": "77205",
+                "Female": "77787"
+            },
+            "Gambia": {
+                "Male": "2947",
+                "Female": "2964"
+            },
+            "Georgia": {
+                "Male": "5379",
+                "Female": "5416"
+            },
+            "Germany": {
+                "Male": "357323",
+                "Female": "367326"
+            },
+            "Ghana": {
+                "Male": "42709",
+                "Female": "24528"
+            },
+            "Greece": {
+                "Male": "88375",
+                "Female": "81583"
+            },
+            "Grenada": {
+                "Male": "13274",
+                "Female": "16741"
+            },
+            "Guatemala": {
+                "Male": "250780",
+                "Female": "242090"
+            },
+            "Guinea": {
+                "Male": "2587",
+                "Female": "2603"
+            },
+            "Guyana": {
+                "Male": "103175",
+                "Female": "113376"
+            },
+            "Haiti": {
+                "Male": "215954",
+                "Female": "214010"
+            },
+            "Honduras": {
+                "Male": "125606",
+                "Female": "164428"
+            },
+            "Hungary": {
+                "Male": "46020",
+                "Female": "48333"
+            },
+            "Iceland": {
+                "Male": "2838",
+                "Female": "2856"
+            },
+            "India": {
+                "Male": "560016",
+                "Female": "488501"
+            },
+            "Indonesia": {
+                "Male": "38449",
+                "Female": "35945"
+            },
+            "Iran (Islamic Republic of)": {
+                "Male": "165592",
+                "Female": "124825"
+            },
+            "Iraq": {
+                "Male": "53222",
+                "Female": "38952"
+            },
+            "Ireland": {
+                "Male": "64088",
+                "Female": "96359"
+            },
+            "Israel": {
+                "Male": "58140",
+                "Female": "54365"
+            },
+            "Italy": {
+                "Male": "215630",
+                "Female": "269727"
+            },
+            "Jamaica": {
+                "Male": "250525",
+                "Female": "317365"
+            },
+            "Japan": {
+                "Male": "177511",
+                "Female": "178853"
+            },
+            "Jordan": {
+                "Male": "31030",
+                "Female": "16952"
+            },
+            "Kazakhstan": {
+                "Male": "4676",
+                "Female": "4710"
+            },
+            "Kenya": {
+                "Male": "21882",
+                "Female": "19833"
+            },
+            "Kuwait": {
+                "Male": "10404",
+                "Female": "10480"
+            },
+            "Kyrgyzstan": {
+                "Male": "1215",
+                "Female": "1221"
+            },
+            "Lao People's Democratic Republic": {
+                "Male": "106640",
+                "Female": "102831"
+            },
+            "Latvia": {
+                "Male": "11080",
+                "Female": "16843"
+            },
+            "Lebanon": {
+                "Male": "59668",
+                "Female": "48931"
+            },
+            "Liberia": {
+                "Male": "19348",
+                "Female": "20672"
+            },
+            "Libya": {
+                "Male": "2741",
+                "Female": "2759"
+            },
+            "Lithuania": {
+                "Male": "12746",
+                "Female": "16467"
+            },
+            "Luxembourg": {
+                "Male": "1099",
+                "Female": "1105"
+            },
+            "Malaysia": {
+                "Male": "27522",
+                "Female": "23192"
+            },
+            "Malta": {
+                "Male": "4514",
+                "Female": "4263"
+            },
+            "Marshall Islands": {
+                "Male": "3233",
+                "Female": "3245"
+            },
+            "Mexico": {
+                "Male": "5104175",
+                "Female": "4306354"
+            },
+            "Micronesia (Fed. States of)": {
+                "Male": "3621",
+                "Female": "3646"
+            },
+            "Montserrat": {
+                "Male": "1762",
+                "Female": "2242"
+            },
+            "Morocco": {
+                "Male": "16230",
+                "Female": "19332"
+            },
+            "Myanmar": {
+                "Male": "16709",
+                "Female": "16706"
+            },
+            "Nepal": {
+                "Male": "8178",
+                "Female": "3834"
+            },
+            "Netherlands": {
+                "Male": "45414",
+                "Female": "51557"
+            },
+            "New Zealand": {
+                "Male": "9327",
+                "Female": "14125"
+            },
+            "Nicaragua": {
+                "Male": "109110",
+                "Female": "116819"
+            },
+            "Nigeria": {
+                "Male": "91915",
+                "Female": "46451"
+            },
+            "Norway": {
+                "Male": "14119",
+                "Female": "18905"
+            },
+            "Pakistan": {
+                "Male": "149665",
+                "Female": "79486"
+            },
+            "Panama": {
+                "Male": "53721",
+                "Female": "54126"
+            },
+            "Paraguay": {
+                "Male": "4092",
+                "Female": "8192"
+            },
+            "Peru": {
+                "Male": "130887",
+                "Female": "154362"
+            },
+            "Philippines": {
+                "Male": "548206",
+                "Female": "855628"
+            },
+            "Poland": {
+                "Male": "221734",
+                "Female": "256859"
+            },
+            "Portugal": {
+                "Male": "100422",
+                "Female": "107854"
+            },
+            "Puerto Rico": {
+                "Male": "677124",
+                "Female": "899308"
+            },
+            "Republic of Korea": {
+                "Male": "436917",
+                "Female": "449150"
+            },
+            "Republic of Moldova": {
+                "Male": "9965",
+                "Female": "10037"
+            },
+            "Romania": {
+                "Male": "66621",
+                "Female": "72797"
+            },
+            "Russian Federation": {
+                "Male": "172002",
+                "Female": "176813"
+            },
+            "Saint Kitts and Nevis": {
+                "Male": "5044",
+                "Female": "6290"
+            },
+            "Saint Lucia": {
+                "Male": "6030",
+                "Female": "7837"
+            },
+            "Saint Vincent and the Grenadines": {
+                "Male": "10688",
+                "Female": "9803"
+            },
+            "Samoa": {
+                "Male": "8397",
+                "Female": "8458"
+            },
+            "Saudi Arabia": {
+                "Male": "9678",
+                "Female": "11940"
+            },
+            "Senegal": {
+                "Male": "7503",
+                "Female": "3298"
+            },
+            "Serbia": {
+                "Male": "5253",
+                "Female": "5292"
+            },
+            "Sierra Leone": {
+                "Male": "11925",
+                "Female": "9434"
+            },
+            "Singapore": {
+                "Male": "8844",
+                "Female": "12445"
+            },
+            "Slovenia": {
+                "Male": "3053",
+                "Female": "3071"
+            },
+            "Somalia": {
+                "Male": "18281",
+                "Female": "18387"
+            },
+            "South Africa": {
+                "Male": "31874",
+                "Female": "33297"
+            },
+            "Spain": {
+                "Male": "24814",
+                "Female": "60148"
+            },
+            "Sri Lanka": {
+                "Male": "14805",
+                "Female": "11099"
+            },
+            "State of Palestine": {
+                "Male": "12806",
+                "Female": "12900"
+            },
+            "Sudan": {
+                "Male": "12103",
+                "Female": "8189"
+            },
+            "Suriname": {
+                "Male": "2857",
+                "Female": "2863"
+            },
+            "Sweden": {
+                "Male": "21190",
+                "Female": "29796"
+            },
+            "Switzerland": {
+                "Male": "18824",
+                "Female": "25376"
+            },
+            "Syrian Arab Republic": {
+                "Male": "32575",
+                "Female": "23371"
+            },
+            "Tajikistan": {
+                "Male": "1363",
+                "Female": "1369"
+            },
+            "TFYR Macedonia": {
+                "Male": "9542",
+                "Female": "9612"
+            },
+            "Thailand": {
+                "Male": "62895",
+                "Female": "111217"
+            },
+            "Tonga": {
+                "Male": "8645",
+                "Female": "9062"
+            },
+            "Trinidad and Tobago": {
+                "Male": "85126",
+                "Female": "117284"
+            },
+            "Tunisia": {
+                "Male": "3664",
+                "Female": "2826"
+            },
+            "Turkey": {
+                "Male": "35794",
+                "Female": "44574"
+            },
+            "Turkmenistan": {
+                "Male": "459",
+                "Female": "459"
+            },
+            "Uganda": {
+                "Male": "5247",
+                "Female": "6792"
+            },
+            "Ukraine": {
+                "Male": "139123",
+                "Female": "143016"
+            },
+            "United Arab Emirates": {
+                "Male": "4389",
+                "Female": "2526"
+            },
+            "United Kingdom": {
+                "Male": "342683",
+                "Female": "352278"
+            },
+            "United Republic of Tanzania": {
+                "Male": "6081",
+                "Female": "5597"
+            },
+            "Uruguay": {
+                "Male": "11499",
+                "Female": "14174"
+            },
+            "Uzbekistan": {
+                "Male": "11763",
+                "Female": "11850"
+            },
+            "Venezuela (Bolivarian Republic of)": {
+                "Male": "43552",
+                "Female": "66196"
+            },
+            "Viet Nam": {
+                "Male": "524898",
+                "Female": "488368"
+            },
+            "Yemen": {
+                "Male": "12797",
+                "Female": "6900"
+            },
+            "Zambia": {
+                "Male": "2881",
+                "Female": "3258"
+            },
+            "Zimbabwe": {
+                "Male": "5044",
+                "Female": "5913"
+            }
+        }
+    },
+    "2005": {
+        "Immigration": {
+            "Other North": {
+                "Male": "5334",
+                "Female": "7206"
+            },
+            "Other South": {
+                "Male": "1292505",
+                "Female": "956413"
+            },
+            "Afghanistan": {
+                "Male": "29321",
+                "Female": "22644"
+            },
+            "Albania": {
+                "Male": "31914",
+                "Female": "22911"
+            },
+            "Algeria": {
+                "Male": "8202",
+                "Female": "4478"
+            },
+            "Angola": {
+                "Male": "3654",
+                "Female": "3640"
+            },
+            "Antigua and Barbuda": {
+                "Male": "10197",
+                "Female": "12253"
+            },
+            "Argentina": {
+                "Male": "70675",
+                "Female": "82064"
+            },
+            "Armenia": {
+                "Male": "34357",
+                "Female": "34231"
+            },
+            "Aruba": {
+                "Male": "1943",
+                "Female": "2730"
+            },
+            "Australia": {
+                "Male": "23852",
+                "Female": "43647"
+            },
+            "Austria": {
+                "Male": "22303",
+                "Female": "37489"
+            },
+            "Azerbaijan": {
+                "Male": "7895",
+                "Female": "7864"
+            },
+            "Bahamas": {
+                "Male": "12299",
+                "Female": "16787"
+            },
+            "Bangladesh": {
+                "Male": "63267",
+                "Female": "63041"
+            },
+            "Barbados": {
+                "Male": "24870",
+                "Female": "28802"
+            },
+            "Belarus": {
+                "Male": "23573",
+                "Female": "23484"
+            },
+            "Belgium": {
+                "Male": "17174",
+                "Female": "17113"
+            },
+            "Belize": {
+                "Male": "18893",
+                "Female": "25456"
+            },
+            "Bermuda": {
+                "Male": "4221",
+                "Female": "4204"
+            },
+            "Bolivia (Plurinational State of)": {
+                "Male": "33393",
+                "Female": "33268"
+            },
+            "Bosnia and Herzegovina": {
+                "Male": "54701",
+                "Female": "54502"
+            },
+            "Brazil": {
+                "Male": "110797",
+                "Female": "169477"
+            },
+            "Bulgaria": {
+                "Male": "25179",
+                "Female": "23040"
+            },
+            "Cabo Verde": {
+                "Male": "14085",
+                "Female": "15935"
+            },
+            "Cambodia": {
+                "Male": "69805",
+                "Female": "77673"
+            },
+            "Cameroon": {
+                "Male": "11462",
+                "Female": "9237"
+            },
+            "Canada": {
+                "Male": "285549",
+                "Female": "556795"
+            },
+            "Chile": {
+                "Male": "38089",
+                "Female": "49771"
+            },
+            "China": {
+                "Male": "797231",
+                "Female": "810423"
+            },
+            "China, Hong Kong SAR": {
+                "Male": "108369",
+                "Female": "107982"
+            },
+            "China, Macao SAR": {
+                "Male": "4413",
+                "Female": "4392"
+            },
+            "Colombia": {
+                "Male": "262932",
+                "Female": "318033"
+            },
+            "Costa Rica": {
+                "Male": "33396",
+                "Female": "47460"
+            },
+            "C\u00f4te d'Ivoire": {
+                "Male": "7079",
+                "Female": "7051"
+            },
+            "Croatia": {
+                "Male": "21510",
+                "Female": "21862"
+            },
+            "Cuba": {
+                "Male": "463625",
+                "Female": "495855"
+            },
+            "Cyprus": {
+                "Male": "7796",
+                "Female": "5773"
+            },
+            "Czechia": {
+                "Male": "39903",
+                "Female": "39759"
+            },
+            "Democratic Republic of the Congo": {
+                "Male": "6112",
+                "Female": "6083"
+            },
+            "Denmark": {
+                "Male": "12030",
+                "Female": "19320"
+            },
+            "Dominica": {
+                "Male": "12436",
+                "Female": "12840"
+            },
+            "Dominican Republic": {
+                "Male": "335606",
+                "Female": "426383"
+            },
+            "Ecuador": {
+                "Male": "185391",
+                "Female": "178967"
+            },
+            "Egypt": {
+                "Male": "71916",
+                "Female": "52793"
+            },
+            "El Salvador": {
+                "Male": "514399",
+                "Female": "483459"
+            },
+            "Eritrea": {
+                "Male": "10475",
+                "Female": "10432"
+            },
+            "Estonia": {
+                "Male": "4979",
+                "Female": "5094"
+            },
+            "Ethiopia": {
+                "Male": "59576",
+                "Female": "50282"
+            },
+            "Fiji": {
+                "Male": "17234",
+                "Female": "18474"
+            },
+            "Finland": {
+                "Male": "10234",
+                "Female": "10196"
+            },
+            "France": {
+                "Male": "77768",
+                "Female": "77489"
+            },
+            "Gambia": {
+                "Male": "5694",
+                "Female": "5662"
+            },
+            "Georgia": {
+                "Male": "7954",
+                "Female": "7921"
+            },
+            "Germany": {
+                "Male": "338451",
+                "Female": "344047"
+            },
+            "Ghana": {
+                "Male": "57323",
+                "Female": "32636"
+            },
+            "Greece": {
+                "Male": "82653",
+                "Female": "75491"
+            },
+            "Grenada": {
+                "Male": "13762",
+                "Female": "17139"
+            },
+            "Guatemala": {
+                "Male": "329093",
+                "Female": "314256"
+            },
+            "Guinea": {
+                "Male": "4999",
+                "Female": "4972"
+            },
+            "Guyana": {
+                "Male": "113527",
+                "Female": "123312"
+            },
+            "Haiti": {
+                "Male": "248351",
+                "Female": "243421"
+            },
+            "Honduras": {
+                "Male": "167426",
+                "Female": "216396"
+            },
+            "Hungary": {
+                "Male": "42719",
+                "Female": "44359"
+            },
+            "Iceland": {
+                "Male": "2655",
+                "Female": "2643"
+            },
+            "India": {
+                "Male": "746307",
+                "Female": "644298"
+            },
+            "Indonesia": {
+                "Male": "43339",
+                "Female": "40086"
+            },
+            "Iran (Islamic Republic of)": {
+                "Male": "179899",
+                "Female": "134300"
+            },
+            "Iraq": {
+                "Male": "61194",
+                "Female": "44357"
+            },
+            "Ireland": {
+                "Male": "58591",
+                "Female": "86886"
+            },
+            "Israel": {
+                "Male": "64908",
+                "Female": "60047"
+            },
+            "Italy": {
+                "Male": "196328",
+                "Female": "242546"
+            },
+            "Jamaica": {
+                "Male": "271699",
+                "Female": "339905"
+            },
+            "Japan": {
+                "Male": "178307",
+                "Female": "177673"
+            },
+            "Jordan": {
+                "Male": "35923",
+                "Female": "19458"
+            },
+            "Kazakhstan": {
+                "Male": "5594",
+                "Female": "5574"
+            },
+            "Kenya": {
+                "Male": "33996",
+                "Female": "30488"
+            },
+            "Kuwait": {
+                "Male": "11045",
+                "Female": "11003"
+            },
+            "Kyrgyzstan": {
+                "Male": "1797",
+                "Female": "1784"
+            },
+            "Lao People's Democratic Republic": {
+                "Male": "104508",
+                "Female": "99685"
+            },
+            "Latvia": {
+                "Male": "10672",
+                "Female": "15997"
+            },
+            "Lebanon": {
+                "Male": "63415",
+                "Female": "51480"
+            },
+            "Liberia": {
+                "Male": "27099",
+                "Female": "28625"
+            },
+            "Libya": {
+                "Male": "3132",
+                "Female": "3118"
+            },
+            "Lithuania": {
+                "Male": "14471",
+                "Female": "18460"
+            },
+            "Luxembourg": {
+                "Male": "1239",
+                "Female": "1231"
+            },
+            "Malaysia": {
+                "Male": "30394",
+                "Female": "25352"
+            },
+            "Malta": {
+                "Male": "4278",
+                "Female": "3997"
+            },
+            "Marshall Islands": {
+                "Male": "3100",
+                "Female": "3079"
+            },
+            "Mexico": {
+                "Male": "5782166",
+                "Female": "4828898"
+            },
+            "Micronesia (Fed. States of)": {
+                "Male": "3475",
+                "Female": "3458"
+            },
+            "Montserrat": {
+                "Male": "2120",
+                "Female": "2664"
+            },
+            "Morocco": {
+                "Male": "21632",
+                "Female": "25455"
+            },
+            "Myanmar": {
+                "Male": "24758",
+                "Female": "24481"
+            },
+            "Nepal": {
+                "Male": "14833",
+                "Female": "14778"
+            },
+            "Netherlands": {
+                "Male": "44437",
+                "Female": "49856"
+            },
+            "New Zealand": {
+                "Male": "10524",
+                "Female": "15719"
+            },
+            "Nicaragua": {
+                "Male": "114767",
+                "Female": "121476"
+            },
+            "Nigeria": {
+                "Male": "87229",
+                "Female": "86919"
+            },
+            "Norway": {
+                "Male": "12876",
+                "Female": "17018"
+            },
+            "Pakistan": {
+                "Male": "131001",
+                "Female": "130536"
+            },
+            "Panama": {
+                "Male": "53139",
+                "Female": "52948"
+            },
+            "Paraguay": {
+                "Male": "7188",
+                "Female": "14156"
+            },
+            "Peru": {
+                "Male": "161970",
+                "Female": "188733"
+            },
+            "Philippines": {
+                "Male": "628805",
+                "Female": "967654"
+            },
+            "Poland": {
+                "Male": "221795",
+                "Female": "253883"
+            },
+            "Portugal": {
+                "Male": "97180",
+                "Female": "103183"
+            },
+            "Puerto Rico": {
+                "Male": "700147",
+                "Female": "918010"
+            },
+            "Republic of Korea": {
+                "Male": "490995",
+                "Female": "499116"
+            },
+            "Republic of Moldova": {
+                "Male": "12719",
+                "Female": "12668"
+            },
+            "Romania": {
+                "Male": "73155",
+                "Female": "79016"
+            },
+            "Russian Federation": {
+                "Male": "184106",
+                "Female": "187148"
+            },
+            "Saint Kitts and Nevis": {
+                "Male": "6070",
+                "Female": "7473"
+            },
+            "Saint Lucia": {
+                "Male": "7257",
+                "Female": "9312"
+            },
+            "Saint Vincent and the Grenadines": {
+                "Male": "10968",
+                "Female": "9953"
+            },
+            "Samoa": {
+                "Male": "8056",
+                "Female": "8023"
+            },
+            "Saudi Arabia": {
+                "Male": "12474",
+                "Female": "15199"
+            },
+            "Senegal": {
+                "Male": "10395",
+                "Female": "10356"
+            },
+            "Serbia": {
+                "Male": "9347",
+                "Female": "9310"
+            },
+            "Sierra Leone": {
+                "Male": "13761",
+                "Female": "13711"
+            },
+            "Singapore": {
+                "Male": "10320",
+                "Female": "14333"
+            },
+            "Slovenia": {
+                "Male": "3083",
+                "Female": "3066"
+            },
+            "Somalia": {
+                "Male": "38559",
+                "Female": "38358"
+            },
+            "South Africa": {
+                "Male": "35941",
+                "Female": "37123"
+            },
+            "Spain": {
+                "Male": "25537",
+                "Female": "60749"
+            },
+            "Sri Lanka": {
+                "Male": "16775",
+                "Female": "16714"
+            },
+            "State of Palestine": {
+                "Male": "14030",
+                "Female": "13974"
+            },
+            "Sudan": {
+                "Male": "15285",
+                "Female": "15229"
+            },
+            "Suriname": {
+                "Male": "4993",
+                "Female": "4945"
+            },
+            "Sweden": {
+                "Male": "20493",
+                "Female": "28435"
+            },
+            "Switzerland": {
+                "Male": "18242",
+                "Female": "24272"
+            },
+            "Syrian Arab Republic": {
+                "Male": "28837",
+                "Female": "28732"
+            },
+            "Tajikistan": {
+                "Male": "1616",
+                "Female": "1604"
+            },
+            "TFYR Macedonia": {
+                "Male": "10625",
+                "Female": "10584"
+            },
+            "Thailand": {
+                "Male": "71310",
+                "Female": "124184"
+            },
+            "Tonga": {
+                "Male": "8295",
+                "Female": "8597"
+            },
+            "Trinidad and Tobago": {
+                "Male": "92320",
+                "Female": "125536"
+            },
+            "Tunisia": {
+                "Male": "3695",
+                "Female": "3680"
+            },
+            "Turkey": {
+                "Male": "40253",
+                "Female": "49509"
+            },
+            "Turkmenistan": {
+                "Male": "679",
+                "Female": "671"
+            },
+            "Uganda": {
+                "Male": "10029",
+                "Female": "12818"
+            },
+            "Ukraine": {
+                "Male": "148160",
+                "Female": "150606"
+            },
+            "United Arab Emirates": {
+                "Male": "4134",
+                "Female": "4118"
+            },
+            "United Kingdom": {
+                "Male": "345623",
+                "Female": "351342"
+            },
+            "United Republic of Tanzania": {
+                "Male": "11600",
+                "Female": "10562"
+            },
+            "Uruguay": {
+                "Male": "17128",
+                "Female": "20853"
+            },
+            "Uzbekistan": {
+                "Male": "13187",
+                "Female": "13135"
+            },
+            "Venezuela (Bolivarian Republic of)": {
+                "Male": "57108",
+                "Female": "85598"
+            },
+            "Viet Nam": {
+                "Male": "576108",
+                "Female": "530325"
+            },
+            "Yemen": {
+                "Male": "13628",
+                "Female": "13579"
+            },
+            "Zambia": {
+                "Male": "5501",
+                "Female": "6148"
+            },
+            "Zimbabwe": {
+                "Male": "12678",
+                "Female": "14685"
+            }
+        }
+    },
+    "2010": {
+        "Immigration": {
+            "Other North": {
+                "Male": "4418",
+                "Female": "7406"
+            },
+            "Other South": {
+                "Male": "1194704",
+                "Female": "905286"
+            },
+            "Afghanistan": {
+                "Male": "30501",
+                "Female": "28829"
+            },
+            "Albania": {
+                "Male": "38493",
+                "Female": "33592"
+            },
+            "Algeria": {
+                "Male": "9342",
+                "Female": "5291"
+            },
+            "Angola": {
+                "Male": "5144",
+                "Female": "5267"
+            },
+            "Antigua and Barbuda": {
+                "Male": "12016",
+                "Female": "14883"
+            },
+            "Argentina": {
+                "Male": "83053",
+                "Female": "99351"
+            },
+            "Armenia": {
+                "Male": "35763",
+                "Female": "36625"
+            },
+            "Aruba": {
+                "Male": "2283",
+                "Female": "3315"
+            },
+            "Australia": {
+                "Male": "25729",
+                "Female": "48960"
+            },
+            "Austria": {
+                "Male": "20412",
+                "Female": "35604"
+            },
+            "Azerbaijan": {
+                "Male": "8632",
+                "Female": "8836"
+            },
+            "Bahamas": {
+                "Male": "12566",
+                "Female": "17720"
+            },
+            "Bangladesh": {
+                "Male": "78811",
+                "Female": "80716"
+            },
+            "Barbados": {
+                "Male": "25309",
+                "Female": "30194"
+            },
+            "Belarus": {
+                "Male": "27805",
+                "Female": "28471"
+            },
+            "Belgium": {
+                "Male": "17223",
+                "Female": "17639"
+            },
+            "Belize": {
+                "Male": "20477",
+                "Female": "28497"
+            },
+            "Bermuda": {
+                "Male": "4209",
+                "Female": "4307"
+            },
+            "Bolivia (Plurinational State of)": {
+                "Male": "40044",
+                "Female": "41007"
+            },
+            "Bosnia and Herzegovina": {
+                "Male": "59627",
+                "Female": "61066"
+            },
+            "Brazil": {
+                "Male": "136594",
+                "Female": "216363"
+            },
+            "Bulgaria": {
+                "Male": "32100",
+                "Female": "30158"
+            },
+            "Cabo Verde": {
+                "Male": "15589",
+                "Female": "18163"
+            },
+            "Cambodia": {
+                "Male": "74205",
+                "Female": "85007"
+            },
+            "Cameroon": {
+                "Male": "16536",
+                "Female": "13659"
+            },
+            "Canada": {
+                "Male": "286673",
+                "Female": "582294"
+            },
+            "Chile": {
+                "Male": "40740",
+                "Female": "54955"
+            },
+            "China": {
+                "Male": "940249",
+                "Female": "982701"
+            },
+            "China, Hong Kong SAR": {
+                "Male": "114021",
+                "Female": "116775"
+            },
+            "China, Macao SAR": {
+                "Male": "5460",
+                "Female": "5584"
+            },
+            "Colombia": {
+                "Male": "293048",
+                "Female": "365417"
+            },
+            "Costa Rica": {
+                "Male": "36725",
+                "Female": "53962"
+            },
+            "C\u00f4te d'Ivoire": {
+                "Male": "10631",
+                "Female": "10885"
+            },
+            "Croatia": {
+                "Male": "22577",
+                "Female": "23590"
+            },
+            "Cuba": {
+                "Male": "502388",
+                "Female": "552841"
+            },
+            "Cyprus": {
+                "Male": "9168",
+                "Female": "7076"
+            },
+            "Czechia": {
+                "Male": "37764",
+                "Female": "38674"
+            },
+            "Democratic Republic of the Congo": {
+                "Male": "9804",
+                "Female": "10029"
+            },
+            "Denmark": {
+                "Male": "11791",
+                "Female": "19631"
+            },
+            "Dominica": {
+                "Male": "15405",
+                "Female": "20129"
+            },
+            "Dominican Republic": {
+                "Male": "365108",
+                "Female": "478612"
+            },
+            "Ecuador": {
+                "Male": "218500",
+                "Female": "216709"
+            },
+            "Egypt": {
+                "Male": "72430",
+                "Female": "64763"
+            },
+            "El Salvador": {
+                "Male": "606751",
+                "Female": "585672"
+            },
+            "Eritrea": {
+                "Male": "12141",
+                "Female": "12428"
+            },
+            "Estonia": {
+                "Male": "5081",
+                "Female": "5344"
+            },
+            "Ethiopia": {
+                "Male": "81900",
+                "Female": "70898"
+            },
+            "Fiji": {
+                "Male": "19470",
+                "Female": "21475"
+            },
+            "Finland": {
+                "Male": "9635",
+                "Female": "9864"
+            },
+            "France": {
+                "Male": "79193",
+                "Female": "81107"
+            },
+            "Gambia": {
+                "Male": "8553",
+                "Female": "8740"
+            },
+            "Georgia": {
+                "Male": "10664",
+                "Female": "10913"
+            },
+            "Germany": {
+                "Male": "322822",
+                "Female": "337392"
+            },
+            "Ghana": {
+                "Male": "69093",
+                "Female": "46942"
+            },
+            "Greece": {
+                "Male": "77865",
+                "Female": "73014"
+            },
+            "Grenada": {
+                "Male": "14340",
+                "Female": "18419"
+            },
+            "Guatemala": {
+                "Male": "412680",
+                "Female": "404815"
+            },
+            "Guinea": {
+                "Male": "7508",
+                "Female": "7676"
+            },
+            "Guyana": {
+                "Male": "125093",
+                "Female": "139835"
+            },
+            "Haiti": {
+                "Male": "284120",
+                "Female": "286170"
+            },
+            "Honduras": {
+                "Male": "210726",
+                "Female": "281108"
+            },
+            "Hungary": {
+                "Male": "39793",
+                "Female": "42496"
+            },
+            "Iceland": {
+                "Male": "2501",
+                "Female": "2556"
+            },
+            "India": {
+                "Male": "946212",
+                "Female": "838072"
+            },
+            "Indonesia": {
+                "Male": "48855",
+                "Female": "46399"
+            },
+            "Iran (Islamic Republic of)": {
+                "Male": "182256",
+                "Female": "165993"
+            },
+            "Iraq": {
+                "Male": "69799",
+                "Female": "52718"
+            },
+            "Ireland": {
+                "Male": "53099",
+                "Female": "81488"
+            },
+            "Israel": {
+                "Male": "72602",
+                "Female": "68965"
+            },
+            "Italy": {
+                "Male": "177947",
+                "Female": "226717"
+            },
+            "Jamaica": {
+                "Male": "294805",
+                "Female": "380432"
+            },
+            "Japan": {
+                "Male": "181072",
+                "Female": "185450"
+            },
+            "Jordan": {
+                "Male": "39335",
+                "Female": "25339"
+            },
+            "Kazakhstan": {
+                "Male": "6592",
+                "Female": "6749"
+            },
+            "Kenya": {
+                "Male": "46772",
+                "Female": "43054"
+            },
+            "Kuwait": {
+                "Male": "11820",
+                "Female": "12101"
+            },
+            "Kyrgyzstan": {
+                "Male": "2410",
+                "Female": "2458"
+            },
+            "Lao People's Democratic Republic": {
+                "Male": "103570",
+                "Female": "101481"
+            },
+            "Latvia": {
+                "Male": "10269",
+                "Female": "15933"
+            },
+            "Lebanon": {
+                "Male": "68157",
+                "Female": "56726"
+            },
+            "Liberia": {
+                "Male": "35247",
+                "Female": "38300"
+            },
+            "Libya": {
+                "Male": "3566",
+                "Female": "3647"
+            },
+            "Lithuania": {
+                "Male": "16302",
+                "Female": "21457"
+            },
+            "Luxembourg": {
+                "Male": "1396",
+                "Female": "1424"
+            },
+            "Malaysia": {
+                "Male": "33751",
+                "Female": "28870"
+            },
+            "Malta": {
+                "Male": "4092",
+                "Female": "3924"
+            },
+            "Marshall Islands": {
+                "Male": "3001",
+                "Female": "3062"
+            },
+            "Mexico": {
+                "Male": "6554739",
+                "Female": "5613923"
+            },
+            "Micronesia (Fed. States of)": {
+                "Male": "3364",
+                "Female": "3439"
+            },
+            "Montserrat": {
+                "Male": "2497",
+                "Female": "3235"
+            },
+            "Morocco": {
+                "Male": "27280",
+                "Female": "33077"
+            },
+            "Myanmar": {
+                "Male": "33226",
+                "Female": "33762"
+            },
+            "Nepal": {
+                "Male": "24002",
+                "Female": "24577"
+            },
+            "Netherlands": {
+                "Male": "43821",
+                "Female": "50621"
+            },
+            "New Zealand": {
+                "Male": "11751",
+                "Female": "18163"
+            },
+            "Nicaragua": {
+                "Male": "121636",
+                "Female": "132445"
+            },
+            "Nigeria": {
+                "Male": "106813",
+                "Female": "109396"
+            },
+            "Norway": {
+                "Male": "11672",
+                "Female": "15930"
+            },
+            "Pakistan": {
+                "Male": "149589",
+                "Female": "153209"
+            },
+            "Panama": {
+                "Male": "53129",
+                "Female": "54411"
+            },
+            "Paraguay": {
+                "Male": "10254",
+                "Female": "21042"
+            },
+            "Peru": {
+                "Male": "171403",
+                "Female": "257226"
+            },
+            "Philippines": {
+                "Male": "710587",
+                "Female": "1132530"
+            },
+            "Poland": {
+                "Male": "223634",
+                "Female": "263663"
+            },
+            "Portugal": {
+                "Male": "94823",
+                "Female": "103577"
+            },
+            "Puerto Rico": {
+                "Male": "726821",
+                "Female": "983844"
+            },
+            "Republic of Korea": {
+                "Male": "551192",
+                "Female": "576074"
+            },
+            "Republic of Moldova": {
+                "Male": "15662",
+                "Female": "16032"
+            },
+            "Romania": {
+                "Male": "80478",
+                "Female": "89450"
+            },
+            "Russian Federation": {
+                "Male": "177633",
+                "Female": "228046"
+            },
+            "Saint Kitts and Nevis": {
+                "Male": "7150",
+                "Female": "9076"
+            },
+            "Saint Lucia": {
+                "Male": "8542",
+                "Female": "11310"
+            },
+            "Saint Vincent and the Grenadines": {
+                "Male": "11394",
+                "Female": "10613"
+            },
+            "Samoa": {
+                "Male": "7798",
+                "Female": "7981"
+            },
+            "Saudi Arabia": {
+                "Male": "15396",
+                "Female": "19340"
+            },
+            "Senegal": {
+                "Male": "15613",
+                "Female": "15986"
+            },
+            "Serbia": {
+                "Male": "13615",
+                "Female": "13939"
+            },
+            "Sierra Leone": {
+                "Male": "15339",
+                "Female": "19251"
+            },
+            "Singapore": {
+                "Male": "11853",
+                "Female": "17010"
+            },
+            "Slovenia": {
+                "Male": "3147",
+                "Female": "3216"
+            },
+            "Somalia": {
+                "Male": "59618",
+                "Female": "60957"
+            },
+            "South Africa": {
+                "Male": "40446",
+                "Female": "42960"
+            },
+            "Spain": {
+                "Male": "25850",
+                "Female": "64446"
+            },
+            "Sri Lanka": {
+                "Male": "20899",
+                "Female": "21400"
+            },
+            "State of Palestine": {
+                "Male": "15428",
+                "Female": "15794"
+            },
+            "Sudan": {
+                "Male": "18599",
+                "Female": "23341"
+            },
+            "Suriname": {
+                "Male": "6487",
+                "Female": "8086"
+            },
+            "Sweden": {
+                "Male": "19853",
+                "Female": "28467"
+            },
+            "Switzerland": {
+                "Male": "17729",
+                "Female": "24361"
+            },
+            "Syrian Arab Republic": {
+                "Male": "30138",
+                "Female": "30865"
+            },
+            "Tajikistan": {
+                "Male": "1891",
+                "Female": "1930"
+            },
+            "TFYR Macedonia": {
+                "Male": "11845",
+                "Female": "12125"
+            },
+            "Thailand": {
+                "Male": "79550",
+                "Female": "143885"
+            },
+            "Tonga": {
+                "Male": "8024",
+                "Female": "8552"
+            },
+            "Trinidad and Tobago": {
+                "Male": "99965",
+                "Female": "140429"
+            },
+            "Tunisia": {
+                "Male": "4206",
+                "Female": "4305"
+            },
+            "Turkey": {
+                "Male": "45038",
+                "Female": "57121"
+            },
+            "Turkmenistan": {
+                "Male": "818",
+                "Female": "1017"
+            },
+            "Uganda": {
+                "Male": "14937",
+                "Female": "19701"
+            },
+            "Ukraine": {
+                "Male": "158916",
+                "Female": "166085"
+            },
+            "United Arab Emirates": {
+                "Male": "4883",
+                "Female": "4997"
+            },
+            "United Kingdom": {
+                "Male": "352262",
+                "Female": "368166"
+            },
+            "United Republic of Tanzania": {
+                "Male": "17367",
+                "Female": "16233"
+            },
+            "Uruguay": {
+                "Male": "20076",
+                "Female": "31700"
+            },
+            "Uzbekistan": {
+                "Male": "14780",
+                "Female": "15131"
+            },
+            "Venezuela (Bolivarian Republic of)": {
+                "Male": "70901",
+                "Female": "110004"
+            },
+            "Viet Nam": {
+                "Male": "635422",
+                "Female": "600578"
+            },
+            "Yemen": {
+                "Male": "17661",
+                "Female": "18087"
+            },
+            "Zambia": {
+                "Male": "7269",
+                "Female": "10393"
+            },
+            "Zimbabwe": {
+                "Male": "20535",
+                "Female": "24502"
+            }
+        }
+    },
+    "2015": {
+        "Immigration": {
+            "Other North": {
+                "Male": "4058",
+                "Female": "6905"
+            },
+            "Other South": {
+                "Male": "1192270",
+                "Female": "1085348"
+            },
+            "Afghanistan": {
+                "Male": "35973",
+                "Female": "34596"
+            },
+            "Albania": {
+                "Male": "42824",
+                "Female": "44656"
+            },
+            "Algeria": {
+                "Male": "9057",
+                "Female": "9639"
+            },
+            "Angola": {
+                "Male": "6560",
+                "Female": "6837"
+            },
+            "Antigua and Barbuda": {
+                "Male": "13326",
+                "Female": "16839"
+            },
+            "Argentina": {
+                "Male": "85499",
+                "Female": "104301"
+            },
+            "Armenia": {
+                "Male": "43928",
+                "Female": "45803"
+            },
+            "Aruba": {
+                "Male": "2528",
+                "Female": "3749"
+            },
+            "Australia": {
+                "Male": "28796",
+                "Female": "56235"
+            },
+            "Austria": {
+                "Male": "17467",
+                "Female": "31222"
+            },
+            "Azerbaijan": {
+                "Male": "10241",
+                "Female": "10672"
+            },
+            "Bahamas": {
+                "Male": "14243",
+                "Female": "20519"
+            },
+            "Bangladesh": {
+                "Male": "103773",
+                "Female": "108217"
+            },
+            "Barbados": {
+                "Male": "25125",
+                "Female": "30564"
+            },
+            "Belarus": {
+                "Male": "28204",
+                "Female": "29403"
+            },
+            "Belgium": {
+                "Male": "17205",
+                "Female": "17940"
+            },
+            "Belize": {
+                "Male": "21293",
+                "Female": "30270"
+            },
+            "Bermuda": {
+                "Male": "4230",
+                "Female": "4406"
+            },
+            "Bolivia (Plurinational State of)": {
+                "Male": "40339",
+                "Female": "42060"
+            },
+            "Bosnia and Herzegovina": {
+                "Male": "59437",
+                "Female": "61978"
+            },
+            "Brazil": {
+                "Male": "135720",
+                "Female": "220002"
+            },
+            "Bulgaria": {
+                "Male": "35851",
+                "Female": "34266"
+            },
+            "Cabo Verde": {
+                "Male": "17627",
+                "Female": "20935"
+            },
+            "Cambodia": {
+                "Male": "79734",
+                "Female": "93104"
+            },
+            "Cameroon": {
+                "Male": "25495",
+                "Female": "21405"
+            },
+            "Canada": {
+                "Male": "280132",
+                "Female": "584674"
+            },
+            "Chile": {
+                "Male": "42744",
+                "Female": "58879"
+            },
+            "China": {
+                "Male": "1136029",
+                "Female": "1209179"
+            },
+            "China, Hong Kong SAR": {
+                "Male": "116032",
+                "Female": "121000"
+            },
+            "China, Macao SAR": {
+                "Male": "5864",
+                "Female": "6105"
+            },
+            "Colombia": {
+                "Male": "321115",
+                "Female": "408530"
+            },
+            "Costa Rica": {
+                "Male": "34992",
+                "Female": "52559"
+            },
+            "C\u00f4te d'Ivoire": {
+                "Male": "13434",
+                "Female": "14004"
+            },
+            "Croatia": {
+                "Male": "20736",
+                "Female": "22063"
+            },
+            "Cuba": {
+                "Male": "570831",
+                "Female": "640042"
+            },
+            "Cyprus": {
+                "Male": "10900",
+                "Female": "8546"
+            },
+            "Czechia": {
+                "Male": "35366",
+                "Female": "36877"
+            },
+            "Democratic Republic of the Congo": {
+                "Male": "11924",
+                "Female": "12416"
+            },
+            "Denmark": {
+                "Male": "11125",
+                "Female": "18966"
+            },
+            "Dominica": {
+                "Male": "13212",
+                "Female": "17622"
+            },
+            "Dominican Republic": {
+                "Male": "442620",
+                "Female": "592320"
+            },
+            "Ecuador": {
+                "Male": "226526",
+                "Female": "228694"
+            },
+            "Egypt": {
+                "Male": "93847",
+                "Female": "85341"
+            },
+            "El Salvador": {
+                "Male": "679986",
+                "Female": "667966"
+            },
+            "Eritrea": {
+                "Male": "16943",
+                "Female": "17655"
+            },
+            "Estonia": {
+                "Male": "5098",
+                "Female": "5459"
+            },
+            "Ethiopia": {
+                "Male": "103247",
+                "Female": "107670"
+            },
+            "Fiji": {
+                "Male": "20994",
+                "Female": "23592"
+            },
+            "Finland": {
+                "Male": "10201",
+                "Female": "10634"
+            },
+            "France": {
+                "Male": "86841",
+                "Female": "90559"
+            },
+            "Gambia": {
+                "Male": "10807",
+                "Female": "11245"
+            },
+            "Georgia": {
+                "Male": "12651",
+                "Female": "13181"
+            },
+            "Germany": {
+                "Male": "302561",
+                "Female": "322036"
+            },
+            "Ghana": {
+                "Male": "90785",
+                "Female": "62608"
+            },
+            "Greece": {
+                "Male": "73929",
+                "Female": "70529"
+            },
+            "Grenada": {
+                "Male": "14693",
+                "Female": "19258"
+            },
+            "Guatemala": {
+                "Male": "472466",
+                "Female": "471720"
+            },
+            "Guinea": {
+                "Male": "9488",
+                "Female": "9875"
+            },
+            "Guyana": {
+                "Male": "133169",
+                "Female": "151700"
+            },
+            "Haiti": {
+                "Male": "320894",
+                "Female": "329047"
+            },
+            "Honduras": {
+                "Male": "244893",
+                "Female": "333567"
+            },
+            "Hungary": {
+                "Male": "35924",
+                "Female": "39077"
+            },
+            "Iceland": {
+                "Male": "2647",
+                "Female": "2755"
+            },
+            "India": {
+                "Male": "1175243",
+                "Female": "1058571"
+            },
+            "Indonesia": {
+                "Male": "48723",
+                "Female": "50810"
+            },
+            "Iran (Islamic Republic of)": {
+                "Male": "202331",
+                "Female": "187441"
+            },
+            "Iraq": {
+                "Male": "99483",
+                "Female": "103747"
+            },
+            "Ireland": {
+                "Male": "52313",
+                "Female": "82117"
+            },
+            "Israel": {
+                "Male": "69969",
+                "Female": "67629"
+            },
+            "Italy": {
+                "Male": "163901",
+                "Female": "213101"
+            },
+            "Jamaica": {
+                "Male": "322979",
+                "Female": "425402"
+            },
+            "Japan": {
+                "Male": "174525",
+                "Female": "182001"
+            },
+            "Jordan": {
+                "Male": "43394",
+                "Female": "28364"
+            },
+            "Kazakhstan": {
+                "Male": "13471",
+                "Female": "14042"
+            },
+            "Kenya": {
+                "Male": "61563",
+                "Female": "57647"
+            },
+            "Kuwait": {
+                "Male": "13907",
+                "Female": "14496"
+            },
+            "Kyrgyzstan": {
+                "Male": "2860",
+                "Female": "2967"
+            },
+            "Lao People's Democratic Republic": {
+                "Male": "101926",
+                "Female": "101647"
+            },
+            "Latvia": {
+                "Male": "9262",
+                "Female": "14700"
+            },
+            "Lebanon": {
+                "Male": "67642",
+                "Female": "57223"
+            },
+            "Liberia": {
+                "Male": "38634",
+                "Female": "42768"
+            },
+            "Libya": {
+                "Male": "4515",
+                "Female": "4700"
+            },
+            "Lithuania": {
+                "Male": "16029",
+                "Female": "21537"
+            },
+            "Luxembourg": {
+                "Male": "1248",
+                "Female": "1294"
+            },
+            "Malaysia": {
+                "Male": "33519",
+                "Female": "34952"
+            },
+            "Malta": {
+                "Male": "4032",
+                "Female": "3934"
+            },
+            "Marshall Islands": {
+                "Male": "3359",
+                "Female": "3486"
+            },
+            "Mexico": {
+                "Male": "6561981",
+                "Female": "5713895"
+            },
+            "Micronesia (Fed. States of)": {
+                "Male": "3764",
+                "Female": "3916"
+            },
+            "Montserrat": {
+                "Male": "2768",
+                "Female": "3659"
+            },
+            "Morocco": {
+                "Male": "31401",
+                "Female": "38833"
+            },
+            "Myanmar": {
+                "Male": "62916",
+                "Female": "65092"
+            },
+            "Nepal": {
+                "Male": "49266",
+                "Female": "51367"
+            },
+            "Netherlands": {
+                "Male": "40583",
+                "Female": "47789"
+            },
+            "New Zealand": {
+                "Male": "12602",
+                "Female": "19925"
+            },
+            "Nicaragua": {
+                "Male": "126604",
+                "Female": "140447"
+            },
+            "Nigeria": {
+                "Male": "133684",
+                "Female": "139411"
+            },
+            "Norway": {
+                "Male": "11487",
+                "Female": "16009"
+            },
+            "Pakistan": {
+                "Male": "175472",
+                "Female": "182991"
+            },
+            "Panama": {
+                "Male": "54101",
+                "Female": "56415"
+            },
+            "Paraguay": {
+                "Male": "9732",
+                "Female": "20522"
+            },
+            "Peru": {
+                "Male": "182833",
+                "Female": "280580"
+            },
+            "Philippines": {
+                "Male": "763758",
+                "Female": "1245837"
+            },
+            "Poland": {
+                "Male": "208275",
+                "Female": "250376"
+            },
+            "Portugal": {
+                "Male": "89741",
+                "Female": "99872"
+            },
+            "Puerto Rico": {
+                "Male": "901973",
+                "Female": "940638"
+            },
+            "Republic of Korea": {
+                "Male": "551873",
+                "Female": "587404"
+            },
+            "Republic of Moldova": {
+                "Male": "20483",
+                "Female": "21349"
+            },
+            "Romania": {
+                "Male": "79407",
+                "Female": "89936"
+            },
+            "Russian Federation": {
+                "Male": "201054",
+                "Female": "209673"
+            },
+            "Saint Kitts and Nevis": {
+                "Male": "7928",
+                "Female": "10267"
+            },
+            "Saint Lucia": {
+                "Male": "9467",
+                "Female": "12795"
+            },
+            "Saint Vincent and the Grenadines": {
+                "Male": "12371",
+                "Female": "11721"
+            },
+            "Samoa": {
+                "Male": "8724",
+                "Female": "9091"
+            },
+            "Saudi Arabia": {
+                "Male": "36670",
+                "Female": "46999"
+            },
+            "Senegal": {
+                "Male": "19729",
+                "Female": "20566"
+            },
+            "Serbia": {
+                "Male": "17868",
+                "Female": "18623"
+            },
+            "Sierra Leone": {
+                "Male": "17414",
+                "Female": "22297"
+            },
+            "Singapore": {
+                "Male": "13950",
+                "Female": "20458"
+            },
+            "Slovenia": {
+                "Male": "4512",
+                "Female": "4693"
+            },
+            "Somalia": {
+                "Male": "43392",
+                "Female": "45172"
+            },
+            "South Africa": {
+                "Male": "46215",
+                "Female": "49999"
+            },
+            "Spain": {
+                "Male": "29772",
+                "Female": "76582"
+            },
+            "Sri Lanka": {
+                "Male": "24666",
+                "Female": "25717"
+            },
+            "State of Palestine": {
+                "Male": "18734",
+                "Female": "19526"
+            },
+            "Sudan": {
+                "Male": "18929",
+                "Female": "24235"
+            },
+            "Suriname": {
+                "Male": "6202",
+                "Female": "7886"
+            },
+            "Sweden": {
+                "Male": "20131",
+                "Female": "29498"
+            },
+            "Switzerland": {
+                "Male": "17210",
+                "Female": "24153"
+            },
+            "Syrian Arab Republic": {
+                "Male": "39570",
+                "Female": "41260"
+            },
+            "Tajikistan": {
+                "Male": "2244",
+                "Female": "2330"
+            },
+            "TFYR Macedonia": {
+                "Male": "13065",
+                "Female": "13616"
+            },
+            "Thailand": {
+                "Male": "89376",
+                "Female": "165772"
+            },
+            "Tonga": {
+                "Male": "8974",
+                "Female": "9740"
+            },
+            "Trinidad and Tobago": {
+                "Male": "100092",
+                "Female": "143657"
+            },
+            "Tunisia": {
+                "Male": "56377",
+                "Female": "58736"
+            },
+            "Turkey": {
+                "Male": "157387",
+                "Female": "203695"
+            },
+            "Turkmenistan": {
+                "Male": "969",
+                "Female": "1227"
+            },
+            "Uganda": {
+                "Male": "18549",
+                "Female": "24973"
+            },
+            "Ukraine": {
+                "Male": "176933",
+                "Female": "188317"
+            },
+            "United Arab Emirates": {
+                "Male": "5792",
+                "Female": "6035"
+            },
+            "United Kingdom": {
+                "Male": "354495",
+                "Female": "369690"
+            },
+            "United Republic of Tanzania": {
+                "Male": "23423",
+                "Female": "24424"
+            },
+            "Uruguay": {
+                "Male": "18956",
+                "Female": "30629"
+            },
+            "Uzbekistan": {
+                "Male": "28531",
+                "Female": "29752"
+            },
+            "Venezuela (Bolivarian Republic of)": {
+                "Male": "86958",
+                "Female": "138028"
+            },
+            "Viet Nam": {
+                "Male": "667603",
+                "Female": "696222"
+            },
+            "Yemen": {
+                "Male": "21278",
+                "Female": "22186"
+            },
+            "Zambia": {
+                "Male": "9618",
+                "Female": "14052"
+            },
+            "Zimbabwe": {
+                "Male": "23826",
+                "Female": "28990"
+            }
+        }
+    },
+    "2017": {
+        "Immigration": {
+            "Other North": {
+                "Male": "4179",
+                "Female": "7212"
+            },
+            "Other South": {
+                "Male": "1231818",
+                "Female": "1121348"
+            },
+            "Afghanistan": {
+                "Male": "37166",
+                "Female": "35743"
+            },
+            "Albania": {
+                "Male": "44244",
+                "Female": "46137"
+            },
+            "Algeria": {
+                "Male": "9358",
+                "Female": "9958"
+            },
+            "Angola": {
+                "Male": "6778",
+                "Female": "7063"
+            },
+            "Antigua and Barbuda": {
+                "Male": "13768",
+                "Female": "17397"
+            },
+            "Argentina": {
+                "Male": "88335",
+                "Female": "107760"
+            },
+            "Armenia": {
+                "Male": "45385",
+                "Female": "47322"
+            },
+            "Aruba": {
+                "Male": "2612",
+                "Female": "3873"
+            },
+            "Australia": {
+                "Male": "29751",
+                "Female": "58100"
+            },
+            "Austria": {
+                "Male": "18047",
+                "Female": "32257"
+            },
+            "Azerbaijan": {
+                "Male": "10581",
+                "Female": "11025"
+            },
+            "Bahamas": {
+                "Male": "14716",
+                "Female": "21199"
+            },
+            "Bangladesh": {
+                "Male": "107215",
+                "Female": "111806"
+            },
+            "Barbados": {
+                "Male": "25959",
+                "Female": "31577"
+            },
+            "Belarus": {
+                "Male": "29139",
+                "Female": "30378"
+            },
+            "Belgium": {
+                "Male": "17775",
+                "Female": "18535"
+            },
+            "Belize": {
+                "Male": "21999",
+                "Female": "31274"
+            },
+            "Bermuda": {
+                "Male": "4370",
+                "Female": "4552"
+            },
+            "Bolivia (Plurinational State of)": {
+                "Male": "41677",
+                "Female": "43455"
+            },
+            "Bosnia and Herzegovina": {
+                "Male": "61409",
+                "Female": "64033"
+            },
+            "Brazil": {
+                "Male": "140222",
+                "Female": "227299"
+            },
+            "Bulgaria": {
+                "Male": "37040",
+                "Female": "35402"
+            },
+            "Cabo Verde": {
+                "Male": "18212",
+                "Female": "21629"
+            },
+            "Cambodia": {
+                "Male": "82379",
+                "Female": "96192"
+            },
+            "Cameroon": {
+                "Male": "26340",
+                "Female": "22115"
+            },
+            "Canada": {
+                "Male": "289424",
+                "Female": "604067"
+            },
+            "Chile": {
+                "Male": "44161",
+                "Female": "60832"
+            },
+            "China": {
+                "Male": "1173711",
+                "Female": "1249287"
+            },
+            "China, Hong Kong SAR": {
+                "Male": "119881",
+                "Female": "125013"
+            },
+            "China, Macao SAR": {
+                "Male": "6059",
+                "Female": "6307"
+            },
+            "Colombia": {
+                "Male": "331767",
+                "Female": "422080"
+            },
+            "Costa Rica": {
+                "Male": "36153",
+                "Female": "54302"
+            },
+            "C\u00f4te d'Ivoire": {
+                "Male": "13880",
+                "Female": "14468"
+            },
+            "Croatia": {
+                "Male": "21424",
+                "Female": "22794"
+            },
+            "Cuba": {
+                "Male": "589765",
+                "Female": "661272"
+            },
+            "Cyprus": {
+                "Male": "11262",
+                "Female": "8829"
+            },
+            "Czechia": {
+                "Male": "36539",
+                "Female": "38100"
+            },
+            "Democratic Republic of the Congo": {
+                "Male": "12320",
+                "Female": "12827"
+            },
+            "Denmark": {
+                "Male": "11494",
+                "Female": "19595"
+            },
+            "Dominica": {
+                "Male": "13650",
+                "Female": "18206"
+            },
+            "Dominican Republic": {
+                "Male": "457301",
+                "Female": "611967"
+            },
+            "Ecuador": {
+                "Male": "234040",
+                "Female": "236279"
+            },
+            "Egypt": {
+                "Male": "96960",
+                "Female": "88171"
+            },
+            "El Salvador": {
+                "Male": "702541",
+                "Female": "690122"
+            },
+            "Eritrea": {
+                "Male": "17505",
+                "Female": "18240"
+            },
+            "Estonia": {
+                "Male": "5267",
+                "Female": "5640"
+            },
+            "Ethiopia": {
+                "Male": "106672",
+                "Female": "111241"
+            },
+            "Fiji": {
+                "Male": "21690",
+                "Female": "24374"
+            },
+            "Finland": {
+                "Male": "10540",
+                "Female": "10986"
+            },
+            "France": {
+                "Male": "89722",
+                "Female": "93562"
+            },
+            "Gambia": {
+                "Male": "11166",
+                "Female": "11617"
+            },
+            "Georgia": {
+                "Male": "13070",
+                "Female": "13618"
+            },
+            "Germany": {
+                "Male": "312597",
+                "Female": "332717"
+            },
+            "Ghana": {
+                "Male": "93797",
+                "Female": "64684"
+            },
+            "Greece": {
+                "Male": "76381",
+                "Female": "72868"
+            },
+            "Grenada": {
+                "Male": "15181",
+                "Female": "19896"
+            },
+            "Guatemala": {
+                "Male": "488138",
+                "Female": "487366"
+            },
+            "Guinea": {
+                "Male": "9803",
+                "Female": "10202"
+            },
+            "Guyana": {
+                "Male": "137587",
+                "Female": "156731"
+            },
+            "Haiti": {
+                "Male": "331538",
+                "Female": "339961"
+            },
+            "Honduras": {
+                "Male": "253016",
+                "Female": "344631"
+            },
+            "Hungary": {
+                "Male": "37115",
+                "Female": "40373"
+            },
+            "Iceland": {
+                "Male": "2735",
+                "Female": "2846"
+            },
+            "India": {
+                "Male": "1214226",
+                "Female": "1093683"
+            },
+            "Indonesia": {
+                "Male": "50339",
+                "Female": "52495"
+            },
+            "Iran (Islamic Republic of)": {
+                "Male": "209042",
+                "Female": "193658"
+            },
+            "Iraq": {
+                "Male": "102783",
+                "Female": "107188"
+            },
+            "Ireland": {
+                "Male": "54049",
+                "Female": "84840"
+            },
+            "Israel": {
+                "Male": "72290",
+                "Female": "69872"
+            },
+            "Italy": {
+                "Male": "169338",
+                "Female": "220169"
+            },
+            "Jamaica": {
+                "Male": "333692",
+                "Female": "439512"
+            },
+            "Japan": {
+                "Male": "180314",
+                "Female": "188037"
+            },
+            "Jordan": {
+                "Male": "44834",
+                "Female": "29304"
+            },
+            "Kazakhstan": {
+                "Male": "13918",
+                "Female": "14507"
+            },
+            "Kenya": {
+                "Male": "63605",
+                "Female": "59559"
+            },
+            "Kuwait": {
+                "Male": "14369",
+                "Female": "14976"
+            },
+            "Kyrgyzstan": {
+                "Male": "2955",
+                "Female": "3065"
+            },
+            "Lao People's Democratic Republic": {
+                "Male": "105307",
+                "Female": "105018"
+            },
+            "Latvia": {
+                "Male": "9569",
+                "Female": "15187"
+            },
+            "Lebanon": {
+                "Male": "69885",
+                "Female": "59121"
+            },
+            "Liberia": {
+                "Male": "39916",
+                "Female": "44186"
+            },
+            "Libya": {
+                "Male": "4665",
+                "Female": "4855"
+            },
+            "Lithuania": {
+                "Male": "16561",
+                "Female": "22251"
+            },
+            "Luxembourg": {
+                "Male": "1290",
+                "Female": "1336"
+            },
+            "Malaysia": {
+                "Male": "34631",
+                "Female": "36111"
+            },
+            "Malta": {
+                "Male": "4166",
+                "Female": "4064"
+            },
+            "Marshall Islands": {
+                "Male": "3471",
+                "Female": "3601"
+            },
+            "Mexico": {
+                "Male": "6779642",
+                "Female": "5903424"
+            },
+            "Micronesia (Fed. States of)": {
+                "Male": "3889",
+                "Female": "4045"
+            },
+            "Montserrat": {
+                "Male": "2860",
+                "Female": "3780"
+            },
+            "Morocco": {
+                "Male": "32442",
+                "Female": "40121"
+            },
+            "Myanmar": {
+                "Male": "65003",
+                "Female": "67251"
+            },
+            "Nepal": {
+                "Male": "50900",
+                "Female": "53070"
+            },
+            "Netherlands": {
+                "Male": "41929",
+                "Female": "49374"
+            },
+            "New Zealand": {
+                "Male": "13020",
+                "Female": "20585"
+            },
+            "Nicaragua": {
+                "Male": "130804",
+                "Female": "145105"
+            },
+            "Nigeria": {
+                "Male": "138118",
+                "Female": "144035"
+            },
+            "Norway": {
+                "Male": "11868",
+                "Female": "16540"
+            },
+            "Pakistan": {
+                "Male": "181293",
+                "Female": "189060"
+            },
+            "Panama": {
+                "Male": "55895",
+                "Female": "58286"
+            },
+            "Paraguay": {
+                "Male": "10055",
+                "Female": "21202"
+            },
+            "Peru": {
+                "Male": "188898",
+                "Female": "289886"
+            },
+            "Philippines": {
+                "Male": "789092",
+                "Female": "1287161"
+            },
+            "Poland": {
+                "Male": "215184",
+                "Female": "258680"
+            },
+            "Portugal": {
+                "Male": "92718",
+                "Female": "103184"
+            },
+            "Puerto Rico": {
+                "Male": "931892",
+                "Female": "971838"
+            },
+            "Republic of Korea": {
+                "Male": "570178",
+                "Female": "606888"
+            },
+            "Republic of Moldova": {
+                "Male": "21162",
+                "Female": "22057"
+            },
+            "Romania": {
+                "Male": "82041",
+                "Female": "92919"
+            },
+            "Russian Federation": {
+                "Male": "207723",
+                "Female": "216627"
+            },
+            "Saint Kitts and Nevis": {
+                "Male": "8191",
+                "Female": "10607"
+            },
+            "Saint Lucia": {
+                "Male": "9781",
+                "Female": "13219"
+            },
+            "Saint Vincent and the Grenadines": {
+                "Male": "12782",
+                "Female": "12109"
+            },
+            "Samoa": {
+                "Male": "9013",
+                "Female": "9392"
+            },
+            "Saudi Arabia": {
+                "Male": "37887",
+                "Female": "48557"
+            },
+            "Senegal": {
+                "Male": "20383",
+                "Female": "21248"
+            },
+            "Serbia": {
+                "Male": "18461",
+                "Female": "19240"
+            },
+            "Sierra Leone": {
+                "Male": "17992",
+                "Female": "23036"
+            },
+            "Singapore": {
+                "Male": "14413",
+                "Female": "21136"
+            },
+            "Slovenia": {
+                "Male": "4662",
+                "Female": "4848"
+            },
+            "Somalia": {
+                "Male": "44831",
+                "Female": "46670"
+            },
+            "South Africa": {
+                "Male": "47748",
+                "Female": "51657"
+            },
+            "Spain": {
+                "Male": "30759",
+                "Female": "79122"
+            },
+            "Sri Lanka": {
+                "Male": "25484",
+                "Female": "26570"
+            },
+            "State of Palestine": {
+                "Male": "19356",
+                "Female": "20173"
+            },
+            "Sudan": {
+                "Male": "19557",
+                "Female": "25038"
+            },
+            "Suriname": {
+                "Male": "6408",
+                "Female": "8147"
+            },
+            "Sweden": {
+                "Male": "20799",
+                "Female": "30476"
+            },
+            "Switzerland": {
+                "Male": "17781",
+                "Female": "24954"
+            },
+            "Syrian Arab Republic": {
+                "Male": "40883",
+                "Female": "42628"
+            },
+            "Tajikistan": {
+                "Male": "2318",
+                "Female": "2407"
+            },
+            "TFYR Macedonia": {
+                "Male": "13499",
+                "Female": "14067"
+            },
+            "Thailand": {
+                "Male": "92341",
+                "Female": "171270"
+            },
+            "Tonga": {
+                "Male": "9271",
+                "Female": "10063"
+            },
+            "Trinidad and Tobago": {
+                "Male": "103412",
+                "Female": "148422"
+            },
+            "Tunisia": {
+                "Male": "58247",
+                "Female": "60684"
+            },
+            "Turkey": {
+                "Male": "162608",
+                "Female": "210451"
+            },
+            "Turkmenistan": {
+                "Male": "1001",
+                "Female": "1267"
+            },
+            "Uganda": {
+                "Male": "19164",
+                "Female": "25801"
+            },
+            "Ukraine": {
+                "Male": "182802",
+                "Female": "194563"
+            },
+            "United Arab Emirates": {
+                "Male": "5984",
+                "Female": "6235"
+            },
+            "United Kingdom": {
+                "Male": "366254",
+                "Female": "381952"
+            },
+            "United Republic of Tanzania": {
+                "Male": "24200",
+                "Female": "25234"
+            },
+            "Uruguay": {
+                "Male": "19585",
+                "Female": "31644"
+            },
+            "Uzbekistan": {
+                "Male": "29478",
+                "Female": "30738"
+            },
+            "Venezuela (Bolivarian Republic of)": {
+                "Male": "89842",
+                "Female": "142606"
+            },
+            "Viet Nam": {
+                "Male": "689748",
+                "Female": "719315"
+            },
+            "Yemen": {
+                "Male": "21984",
+                "Female": "22921"
+            },
+            "Zambia": {
+                "Male": "9937",
+                "Female": "14518"
+            },
+            "Zimbabwe": {
+                "Male": "24616",
+                "Female": "29951"
+            }
+        }
+    }
+}

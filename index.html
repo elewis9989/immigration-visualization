@@ -1,0 +1,53 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>US Migration</title>
+    <!-- D3 -->
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <!-- CSS -->
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <!-- Datamap -->
+    <script src="//cdnjs.cloudflare.com/ajax/libs/d3/3.5.3/d3.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/topojson/1.6.9/topojson.min.js"></script>
+    <script src="/js/datamaps.world.hires.min.js"></script>
+    <!-- Data -->
+    <script src="data/GenderImmigration.json"></script>
+    
+    
+</head>
+<body onload="getData('1990')">
+   
+    <div id="titleText">United States Immigration</div>
+    
+    <div id="headings">
+        <span id="totalImm"></span>
+        <span id="yearText"></span>
+    </div>
+    
+    <div id="country">Country: # of Immigrants to the US</div>
+    
+    <div id="years">
+        <span class="yearButton" id="1990Button" onclick="getData('1990')">1990</span>
+        <span class="yearButton" id="1995Button" onclick="getData('1995')">1995</span>
+        <span class="yearButton" id="2000Button" onclick="getData('2000')">2000</span>
+        <span class="yearButton" id="2005Button" onclick="getData('2005')">2005</span>
+        <span class="yearButton" id="2010Button" onclick="getData('2010')">2010</span>
+        <span class="yearButton" id="2015Button" onclick="getData('2015')">2015</span>
+        <span class="yearButton" id="2017Button" onclick="getData('2017')">2017</span>
+    </div>
+    
+    <div id="container" style=""></div>
+    
+    <div>
+        <canvas id="chart"></canvas>
+        <canvas id="genderChart"></canvas>
+    </div>
+    
+    
+    <!-- JS Script -->
+    <script type="text/javascript" src="js/script.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.bundle.min.js"></script>
+    
+</body>
+</html>
